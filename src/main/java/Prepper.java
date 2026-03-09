@@ -1,10 +1,15 @@
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 import java.io.*;
 import java.nio.charset.StandardCharsets;
 
 public class Prepper {
+  private static final Logger log = LoggerFactory.getLogger(Prepper.class);
+
   public static void main(String[] args) throws IOException {
     if (args.length < 2) {
-      System.err.println("Usage: java Prepper <input.csv> <PREFIX>");
+      log.error("Usage: java Prepper <input.csv> <PREFIX>");
       System.exit(1);
     }
 
@@ -20,7 +25,7 @@ public class Prepper {
       while ((line = br.readLine()) != null) {
         pw.println(String.format("%s_%04d,%s", prefix, ++count, line));
       }
-      System.out.println(count + " rows written to " + outputFileName);
+      log.info("{} rows written to {}", count, outputFileName);
     }
   }
 }
