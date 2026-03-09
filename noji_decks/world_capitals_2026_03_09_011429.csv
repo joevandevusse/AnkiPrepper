@@ -1,0 +1,404 @@
+Kuwait,Kuwait City
+Kuwait City,Kuwait
+Austria,Vienna
+Vienna,Austria
+Sao Tome and Principe,Sao Tome
+Sao Tome,Sao Tome and Principe
+Belize,Belmopan
+Belmopan,Belize
+England,London
+London,England
+Guinea-Bissau,Bissau
+Bissau,Guinea-Bissau
+Australia,Canberra
+Canberra,Australia
+Palestine,Jerusalem (Ramallah)
+Jerusalem (Ramallah),Palestine
+China,Beijing
+Beijing,China
+Canada,Ottawa
+Ottawa,Canada
+India,New Delhi
+New Delhi,India
+Iraq,Baghdad
+Baghdad,Iraq
+Luxembourg,Luxembourg
+Luxembourg,Luxembourg
+Iceland,Reykjavik
+Reykjavik,Iceland
+Israel,Jerusalem
+Jerusalem,Israel
+San Marino,San Marino
+San Marino,San Marino
+Cuba,Havana
+Havana,Cuba
+Germany,Berlin
+Berlin,Germany
+Guatemala,Guatemala City
+Guatemala City,Guatemala
+Ireland,Dublin
+Dublin,Ireland
+Northern Ireland,Belfast
+Belfast,Northern Ireland
+Netherlands,Amsterdam
+Amsterdam,Netherlands
+Andorra,Andorra la Vella
+Andorra la Vella,Andorra
+Tunisia,Tunis
+Tunis,Tunisia
+Singapore,Singapore
+Singapore,Singapore
+Argentina,Buenos Aires
+Buenos Aires,Argentina
+Cambodia,Phnom Penh
+Phnom Penh,Cambodia
+Taiwan,Taipei
+Taipei,Taiwan
+United States,Washington D.C.
+Washington D.C.,United States
+Croatia,Zagreb
+Zagreb,Croatia
+Thailand,Bangkok
+Bangkok,Thailand
+Panama,Panama City
+Panama City,Panama
+Egypt,Cairo
+Cairo,Egypt
+Mexico,Mexico City
+Mexico City,Mexico
+Poland,Warsaw
+Warsaw,Poland
+Sweden,Stockholm
+Stockholm,Sweden
+Monaco,Monaco
+Monaco,Monaco
+New Zealand,Wellington
+Wellington,New Zealand
+Philippines,Manila
+Manila,Philippines
+Spain,Madrid
+Madrid,Spain
+United Kingdom,London
+London,United Kingdom
+Portugal,Lisbon
+Lisbon,Portugal
+Algeria,Algiers
+Algiers,Algeria
+El Salvador,San Salvador
+San Salvador,El Salvador
+Greece,Athens
+Athens,Greece
+North Korea,Pyongyang
+Pyongyang,North Korea
+Vatican City,Vatican City
+Vatican City,Vatican City
+Switzerland,Bern
+Bern,Switzerland
+Italy,Rome
+Rome,Italy
+Bolivia,La Paz (administrative) Sucre (official)
+La Paz (administrative) Sucre (official),Bolivia
+Slovenia,Ljubljana
+Ljubljana,Slovenia
+Jamaica,Kingston
+Kingston,Jamaica
+Malta,Valletta
+Valletta,Malta
+Qatar,Doha
+Doha,Qatar
+Japan,Tokyo
+Tokyo,Japan
+Togo,Lome
+Lome,Togo
+Ukraine,Kyiv (Kiev)
+Kyiv (Kiev),Ukraine
+Morocco,Rabat
+Rabat,Morocco
+Serbia,Belgrade
+Belgrade,Serbia
+Zimbabwe,Harare
+Harare,Zimbabwe
+Albania,Tirana
+Tirana,Albania
+Maldives,Male
+Male,Maldives
+Paraguay,Asuncion
+Asuncion,Paraguay
+Kazakhstan,Astana
+Astana,Kazakhstan
+Myanmar (Burma),Naypyidaw
+Naypyidaw,Myanmar (Burma)
+Russia,Moscow
+Moscow,Russia
+South Sudan,Juba
+Juba,South Sudan
+Tanzania,Dodoma
+Dodoma,Tanzania
+France,Paris
+Paris,France
+Republic of the Congo,Brazzaville
+Brazzaville,Republic of the Congo
+Cote d'Ivoire (Ivory Coast),Yamoussoukro
+Yamoussoukro,Cote d'Ivoire (Ivory Coast)
+Guinea,Conakry
+Conakry,Guinea
+Laos,Vientiane
+Vientiane,Laos
+Latvia,Riga
+Riga,Latvia
+Liechtenstein,Vaduz
+Vaduz,Liechtenstein
+Azerbaijan,Baku
+Baku,Azerbaijan
+Lebanon,Beirut
+Beirut,Lebanon
+Hungary,Budapest
+Budapest,Hungary
+Ethiopia,Addis Ababa
+Addis Ababa,Ethiopia
+Saudi Arabia,Riyadh
+Riyadh,Saudi Arabia
+Somalia,Mogadishu
+Mogadishu,Somalia
+Haiti,Port au Prince
+Port au Prince,Haiti
+Kyrgyzstan,Bishkek
+Bishkek,Kyrgyzstan
+Samoa,Apia
+Apia,Samoa
+Vietnam,Hanoi
+Hanoi,Vietnam
+Libya,Tripoli
+Tripoli,Libya
+Jordan,Amman
+Amman,Jordan
+Norway,Oslo
+Oslo,Norway
+Djibouti,Djibouti
+Djibouti,Djibouti
+Georgia,Tbilisi
+Tbilisi,Georgia
+Honduras,Tegucigalpa
+Tegucigalpa,Honduras
+East Timor,Dili
+Dili,East Timor
+Finland,Helsinki
+Helsinki,Finland
+Uganda,Kampala
+Kampala,Uganda
+Ecuador,Quito
+Quito,Ecuador
+Kiribati,Tarawa Atoll
+Tarawa Atoll,Kiribati
+United Arab Emirates,Abu Dhabi
+Abu Dhabi,United Arab Emirates
+Armenia,Yerevan
+Yerevan,Armenia
+Sri Lanka,"Colombo (executive, judicial), Sri Jayawardenapura Kotte (legislative)"
+"Colombo (executive, judicial), Sri Jayawardenapura Kotte (legislative)",Sri Lanka
+Liberia,Monrovia
+Monrovia,Liberia
+Grenada,Saint George's
+Saint George's,Grenada
+Benin,Porto Novo
+Porto Novo,Benin
+Costa Rica,San Jose
+San Jose,Costa Rica
+Equatorial Guinea,Malabo
+Malabo,Equatorial Guinea
+Mongolia,Ulaanbaatar
+Ulaanbaatar,Mongolia
+Nicaragua,Managua
+Managua,Nicaragua
+Malaysia,Kuala Lumpur
+Kuala Lumpur,Malaysia
+South Korea,Seoul
+Seoul,South Korea
+Guyana,Georgetown
+Georgetown,Guyana
+Pakistan,Islamabad
+Islamabad,Pakistan
+Lithuania,Vilnius
+Vilnius,Lithuania
+Romania,Bucharest
+Bucharest,Romania
+Dominican Republic,Santo Domingo
+Santo Domingo,Dominican Republic
+Solomon Islands,Honiara
+Honiara,Solomon Islands
+Brazil,Brasilia
+Brasilia,Brazil
+Indonesia,Jakarta
+Jakarta,Indonesia
+Kenya,Nairobi
+Nairobi,Kenya
+Afghanistan,Kabul
+Kabul,Afghanistan
+Bulgaria,Sofia
+Sofia,Bulgaria
+Niger,Niamey
+Niamey,Niger
+Scotland,Edinburgh
+Edinburgh,Scotland
+Marshall Islands,Majuro
+Majuro,Marshall Islands
+Antigua and Barbuda,Saint John's
+Saint John's,Antigua and Barbuda
+Bahamas,Nassau
+Nassau,Bahamas
+Denmark,Copenhagen
+Copenhagen,Denmark
+Eswatini (Swaziland),Mbabane
+Mbabane,Eswatini (Swaziland)
+Malawi,Lilongwe
+Lilongwe,Malawi
+Sierra Leone,Freetown
+Freetown,Sierra Leone
+Nauru,No Official Capital (Yaren)
+No Official Capital (Yaren),Nauru
+Papua New Guinea,Port Moresby
+Port Moresby,Papua New Guinea
+Suriname,Paramaribo
+Paramaribo,Suriname
+Botswana,Gaborone
+Gaborone,Botswana
+Czech Republic (Czechia),Prague
+Prague,Czech Republic (Czechia)
+Kosovo,Pristina
+Pristina,Kosovo
+Lesotho,Maseru
+Maseru,Lesotho
+Sudan,Khartoum
+Khartoum,Sudan
+Bangaladesh,Dhaka
+Dhaka,Bangaladesh
+Yemen,Sana'a
+Sana'a,Yemen
+Zambia,Lusaka
+Lusaka,Zambia
+Chad,N'Djamena
+N'Djamena,Chad
+Chile,Santiago
+Santiago,Chile
+Iran,Tehran
+Tehran,Iran
+Mauritania,Nouakchott
+Nouakchott,Mauritania
+Saint Lucia,Castries
+Castries,Saint Lucia
+Turkmenistan,Ashgabat
+Ashgabat,Turkmenistan
+Brunei,Bandar Seri Begawan
+Bandar Seri Begawan,Brunei
+Federated States of Micronesia,Palikir
+Palikir,Federated States of Micronesia
+Ghana,Accra
+Accra,Ghana
+Saint Kitts and Nevis,Basseterre
+Basseterre,Saint Kitts and Nevis
+Slovakia,Bratislava
+Bratislava,Slovakia
+Uruguay,Montevideo
+Montevideo,Uruguay
+Bhutan,Thimpu
+Thimpu,Bhutan
+Gabon,Libreville
+Libreville,Gabon
+Nigeria,Abuja
+Abuja,Nigeria
+North Macedonia (Macedonia),Skopje
+Skopje,North Macedonia (Macedonia)
+Tajikistan,Dushanbe
+Dushanbe,Tajikistan
+Turkiye (Turkey),Ankara
+Ankara,Turkiye (Turkey)
+Madagascar,Antananarivo
+Antananarivo,Madagascar
+Mauritius,Port Louis
+Port Louis,Mauritius
+Montenegro,Podgorica
+Podgorica,Montenegro
+Mozambique,Maputo
+Maputo,Mozambique
+Venezuela,Caracas
+Caracas,Venezuela
+Democratic Republic of the Congo,Kinshasa
+Kinshasa,Democratic Republic of the Congo
+Rwanda,Kigali
+Kigali,Rwanda
+Comoros,Moroni
+Moroni,Comoros
+Dominica,Rouseau
+Rouseau,Dominica
+Fiji,Suva
+Suva,Fiji
+Namibia,Windhoek
+Windhoek,Namibia
+Senegal,Dakar
+Dakar,Senegal
+Trinidad and Tobago,Port of Spain
+Port of Spain,Trinidad and Tobago
+Angola,Luanda
+Luanda,Angola
+Syria,Damascus
+Damascus,Syria
+Burkina Faso,Ouagadougou
+Ouagadougou,Burkina Faso
+Saint Vincent and the Grenadines,Kingstown
+Kingstown,Saint Vincent and the Grenadines
+Colombia,Bogota
+Bogota,Colombia
+Wales,Cardiff
+Cardiff,Wales
+Bahrain,Manama
+Manama,Bahrain
+Burundi,Gitega
+Gitega,Burundi
+Oman,Muscat
+Muscat,Oman
+South Africa,"Pretoria (administrative), Cape Town (legislative), Bloemfontein (judicial)"
+"Pretoria (administrative), Cape Town (legislative), Bloemfontein (judicial)",South Africa
+Eritrea,Asmara
+Asmara,Eritrea
+Uzbekistan,Tashkent
+Tashkent,Uzbekistan
+Bosnia and Herzegovina,Sarajevo
+Sarajevo,Bosnia and Herzegovina
+Cyprus,Nicosia
+Nicosia,Cyprus
+Estonia,Tallinn
+Tallinn,Estonia
+Seychelles,Victoria
+Victoria,Seychelles
+Barbados,Bridgetown
+Bridgetown,Barbados
+The Gambia,Banjul
+Banjul,The Gambia
+Moldova,Chisinau
+Chisinau,Moldova
+Nepal,Kathmandu
+Kathmandu,Nepal
+Cape Verde,Praia
+Praia,Cape Verde
+Central African Republic,Bangui
+Bangui,Central African Republic
+Tonga,Nuku'alofa
+Nuku'alofa,Tonga
+Tuvalu,Funafuti
+Funafuti,Tuvalu
+Vanuatu,Port Vila
+Port Vila,Vanuatu
+Mali,Bamako
+Bamako,Mali
+Palau,Ngerulmud
+Ngerulmud,Palau
+Cameroon,Yaounde
+Yaounde,Cameroon
+Peru,Lima
+Lima,Peru
+French Guiana,Cayenne
+Cayenne,French Guiana
+Falkland Islands,Stanley
+Stanley,Falkland Islands
+Tahiti,Papeete (Island in the Country)
+Papeete (Island in the Country),Tahiti
