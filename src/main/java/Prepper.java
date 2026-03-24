@@ -1,3 +1,4 @@
+import org.apache.commons.csv.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -40,16 +41,26 @@ public class Prepper {
   }
 
   private static int processFile(Path inputFile, Path outputFile, String prefix) throws IOException {
-    try (BufferedReader br = new BufferedReader(new InputStreamReader(Files.newInputStream(inputFile), StandardCharsets.UTF_8));
-         PrintWriter pw = new PrintWriter(new OutputStreamWriter(Files.newOutputStream(outputFile), StandardCharsets.UTF_8))) {
+    try (var reader = new InputStreamReader(Files.newInputStream(inputFile), StandardCharsets.UTF_8);
+         var writer = new OutputStreamWriter(Files.newOutputStream(outputFile), StandardCharsets.UTF_8);
+         var parser = CSVFormat.DEFAULT.parse(reader);
+         var printer = new CSVPrinter(writer, CSVFormat.DEFAULT)) {
 
-      String line;
       int count = 0;
-      while ((line = br.readLine()) != null) {
-        pw.println(String.format("%s_%04d,%s", prefix, ++count, line));
+      for (CSVRecord record : parser) {
+        printer.printRecord(prepend(String.format("%s_%04d", prefix, ++count), record));
       }
       return count;
     }
+  }
+
+  private static Object[] prepend(String id, CSVRecord record) {
+    Object[] row = new Object[record.size() + 1];
+    row[0] = id;
+    for (int i = 0; i < record.size(); i++) {
+      row[i + 1] = record.get(i);
+    }
+    return row;
   }
 
   // Strips trailing _YYYY_MM_DD_HHMMSS from Noji export filenames
