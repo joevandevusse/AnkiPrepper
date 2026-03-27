@@ -18,12 +18,12 @@ CANADIAN_CAPITALS_0017,Capital of Alberta (AB),Edmonton
 CANADIAN_CAPITALS_0018,Edmonton,Capital of Alberta (AB)
 CANADIAN_CAPITALS_0019,Capital of Newfoundland and Labrador (NL),St. John's
 CANADIAN_CAPITALS_0020,St. John's,Capital of Newfoundland and Labrador (NL)
-CANADIAN_CAPITALS_0021,Capital of Northwest Territories (NT),Yellowknife
-CANADIAN_CAPITALS_0022,Yellowknife,Capital of Northwest Territories (NT)
-CANADIAN_CAPITALS_0023,Capital of Yukon (YT),Whitehorse
-CANADIAN_CAPITALS_0024,Whitehorse,Capital of Yukon (YT)
-CANADIAN_CAPITALS_0025,Capital of Nunavut (NU),Iqaluit
-CANADIAN_CAPITALS_0026,Iqaluit,Capital of Nunavut (NU)
+CANADIAN_CAPITALS_0021,Capital of Northwest Territories (NT) [Territory],Yellowknife
+CANADIAN_CAPITALS_0022,Yellowknife,Capital of Northwest Territories (NT) [Territory]
+CANADIAN_CAPITALS_0023,Capital of Yukon (YT) [Territory],Whitehorse
+CANADIAN_CAPITALS_0024,Whitehorse,Capital of Yukon (YT) [Territory]
+CANADIAN_CAPITALS_0025,Capital of Nunavut (NU) [Territory],Iqaluit
+CANADIAN_CAPITALS_0026,Iqaluit,Capital of Nunavut (NU) [Territory]
 CANADIAN_CAPITALS_0027,Most Populous City in British Columbia (BC),Vancouver
 CANADIAN_CAPITALS_0028,Vancouver,Most Populous City in British Columbia (BC)
 CANADIAN_CAPITALS_0029,Most Populous City in Quebec (QC),Montreal
