@@ -396,9 +396,15 @@ WORLD_CAPITALS_0395,Cameroon,Yaounde
 WORLD_CAPITALS_0396,Yaounde,Cameroon
 WORLD_CAPITALS_0397,Peru,Lima
 WORLD_CAPITALS_0398,Lima,Peru
-WORLD_CAPITALS_0399,French Guiana,Cayenne
-WORLD_CAPITALS_0400,Cayenne,French Guiana
-WORLD_CAPITALS_0401,Falkland Islands,Stanley
-WORLD_CAPITALS_0402,Stanley,Falkland Islands
-WORLD_CAPITALS_0403,Tahiti,Papeete (Island in the Country)
-WORLD_CAPITALS_0404,Papeete (Island in the Country),Tahiti
+WORLD_CAPITALS_0399,French Guiana (France),Cayenne
+WORLD_CAPITALS_0400,Cayenne,French Guiana (France)
+WORLD_CAPITALS_0401,Falkland Islands (UK),Stanley
+WORLD_CAPITALS_0402,Stanley,Falkland Islands (UK)
+WORLD_CAPITALS_0403,Tahiti (French Polynesia),Papeete
+WORLD_CAPITALS_0404,Papeete,Tahiti (French Polynesia)
+WORLD_CAPITALS_0405,Aruba (The Netherlands),Oranjestad
+WORLD_CAPITALS_0406,Oranjestad,Aruba (The Netherlands)
+WORLD_CAPITALS_0407,Bonaire (The Netherlands),Kralendijk
+WORLD_CAPITALS_0408,Kralendijk,Bonaire (The Netherlands)
+WORLD_CAPITALS_0409,Curacao (The Netherlands),Willemstad
+WORLD_CAPITALS_0410,Willemstad,Curacao (The Netherlands)
