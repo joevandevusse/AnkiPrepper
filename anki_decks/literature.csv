@@ -1,0 +1,420 @@
+LITERATURE_0001,"Herman Melville
+1851",Moby Dick
+LITERATURE_0002,Moby Dick,"Herman Melville
+1851"
+LITERATURE_0003,"John Steinbeck
+1939",The Grapes of Wrath
+LITERATURE_0004,The Grapes of Wrath,"John Steinbeck
+1939"
+LITERATURE_0005,"Ralph Ellison 
+1952",Invisible Man
+LITERATURE_0006,Invisible Man,"Ralph Ellison 
+1952"
+LITERATURE_0007,"John Milton
+1667",Paradise Lost
+LITERATURE_0008,Paradise Lost,"John Milton
+1667"
+LITERATURE_0009,"Evelyn Waugh 
+1945",Brideshead Revisited
+LITERATURE_0010,Brideshead Revisited,"Evelyn Waugh 
+1945"
+LITERATURE_0011,"Miguel de Cervantes 
+1615","Don Quixote "
+LITERATURE_0012,"Don Quixote ","Miguel de Cervantes 
+1615"
+LITERATURE_0013,"James Joyce
+1922",Ulysses
+LITERATURE_0014,Ulysses,"James Joyce
+1922"
+LITERATURE_0015,"F. Scott Fitzgerald 
+1925",The Great Gatsby
+LITERATURE_0016,The Great Gatsby,"F. Scott Fitzgerald 
+1925"
+LITERATURE_0017,"James Joyce
+1916",A Portrait of the Artist as a Young Man
+LITERATURE_0018,A Portrait of the Artist as a Young Man,"James Joyce
+1916"
+LITERATURE_0019,"Richard Wright
+1940",Native Son
+LITERATURE_0020,Native Son,"Richard Wright
+1940"
+LITERATURE_0021,"William Golding 
+1954","Lord of the Flies "
+LITERATURE_0022,"Lord of the Flies ","William Golding 
+1954"
+LITERATURE_0023,"Virginia Woolf
+1927",To the Lighthouse
+LITERATURE_0024,To the Lighthouse,"Virginia Woolf
+1927"
+LITERATURE_0025,"Theodore Dreiser
+1925",An American Tragedy
+LITERATURE_0026,An American Tragedy,"Theodore Dreiser
+1925"
+LITERATURE_0027,"Kurt Vonnegut
+1969",Slaughterhouse-Five
+LITERATURE_0028,Slaughterhouse-Five,"Kurt Vonnegut
+1969"
+LITERATURE_0029,"Jack Kerouac
+1957",On the Road
+LITERATURE_0030,On the Road,"Jack Kerouac
+1957"
+LITERATURE_0031,"Gabriel Garcia Marquez
+1967",One Hundred Years of Solitude
+LITERATURE_0032,One Hundred Years of Solitude,"Gabriel Garcia Marquez
+1967"
+LITERATURE_0033,"D.H. Lawrence
+1913","Sons and Lovers "
+LITERATURE_0034,"Sons and Lovers ","D.H. Lawrence
+1913"
+LITERATURE_0035,"George Orwell
+1949",1984
+LITERATURE_0036,1984,"George Orwell
+1949"
+LITERATURE_0037,"Robert Graves
+1934","I, Claudius"
+LITERATURE_0038,"I, Claudius","Robert Graves
+1934"
+LITERATURE_0039,"Saul Bellow
+1953",The Adventures of Augie March
+LITERATURE_0040,The Adventures of Augie March,"Saul Bellow
+1953"
+LITERATURE_0041,"Edith Wharton
+1920",The Age of Innocence
+LITERATURE_0042,The Age of Innocence,"Edith Wharton
+1920"
+LITERATURE_0043,"Anthony Burgess
+1962",A Clockwork Orange
+LITERATURE_0044,A Clockwork Orange,"Anthony Burgess
+1962"
+LITERATURE_0045,"Joseph Conrad 
+1899",Heart of Darkness
+LITERATURE_0046,Heart of Darkness,"Joseph Conrad 
+1899"
+LITERATURE_0047,"James Joyce
+1939",Finnegans Wake
+LITERATURE_0048,Finnegans Wake,"James Joyce
+1939"
+LITERATURE_0049,"Joseph Conrad
+1900","Lord Jim "
+LITERATURE_0050,"Lord Jim ","Joseph Conrad
+1900"
+LITERATURE_0051,"Marcel Proust
+1927",In Search of Lost Time
+LITERATURE_0052,In Search of Lost Time,"Marcel Proust
+1927"
+LITERATURE_0053,"Fyodor Dostoyevsky 
+1866",Crime and Punishment
+LITERATURE_0054,Crime and Punishment,"Fyodor Dostoyevsky 
+1866"
+LITERATURE_0055,"Emily Bronte
+1847",Wuthering Heights
+LITERATURE_0056,Wuthering Heights,"Emily Bronte
+1847"
+LITERATURE_0057,"William Faulkner 
+1929",The Sound and the Fury
+LITERATURE_0058,The Sound and the Fury,"William Faulkner 
+1929"
+LITERATURE_0059,"Robert Penn Warren 
+1946",All the King's Men
+LITERATURE_0060,All the King's Men,"Robert Penn Warren 
+1946"
+LITERATURE_0061,"Rudyard Kipling
+1901",Kim
+LITERATURE_0062,Kim,"Rudyard Kipling
+1901"
+LITERATURE_0063,"Salman Rushdie
+1981",Midnight's Children
+LITERATURE_0064,Midnight's Children,"Salman Rushdie
+1981"
+LITERATURE_0065,"Aldous Huxley 
+1932",Brave New World
+LITERATURE_0066,Brave New World,"Aldous Huxley 
+1932"
+LITERATURE_0067,"Judy Blume
+1970","Are You There God? It's Me, Margaret"
+LITERATURE_0068,"Are You There God? It's Me, Margaret","Judy Blume
+1970"
+LITERATURE_0069,"Ernest Hemingway
+1926",The Sun Also Rises
+LITERATURE_0070,The Sun Also Rises,"Ernest Hemingway
+1926"
+LITERATURE_0071,"Sinclair Lewis
+1920",Main Street
+LITERATURE_0072,Main Street,"Sinclair Lewis
+1920"
+LITERATURE_0073,"Edith Wharton
+1905","The House of Mirth "
+LITERATURE_0074,"The House of Mirth ","Edith Wharton
+1905"
+LITERATURE_0075,"Leo Tolstoy
+1869","War and Peace "
+LITERATURE_0076,"War and Peace ","Leo Tolstoy
+1869"
+LITERATURE_0077,"Charlotte Bronte
+1847",Jane Eyre
+LITERATURE_0078,Jane Eyre,"Charlotte Bronte
+1847"
+LITERATURE_0079,"Vladimir Nabokov
+1955",Lolita
+LITERATURE_0080,Lolita,"Vladimir Nabokov
+1955"
+LITERATURE_0081,"Joseph Heller
+1961",Catch-22
+LITERATURE_0082,Catch-22,"Joseph Heller
+1961"
+LITERATURE_0083,"E.M. Forster
+1924",A Passage to India
+LITERATURE_0084,A Passage to India,"E.M. Forster
+1924"
+LITERATURE_0085,"William Faulkner
+1930",As I Lay Dying
+LITERATURE_0086,As I Lay Dying,"William Faulkner
+1930"
+LITERATURE_0087,"J.D. Salinger 
+1951",The Catcher in the Rye
+LITERATURE_0088,The Catcher in the Rye,"J.D. Salinger 
+1951"
+LITERATURE_0089,"E.M. Forster
+1908",A Room With a View
+LITERATURE_0090,A Room With a View,"E.M. Forster
+1908"
+LITERATURE_0091,"George Orwell
+1945",Animal Farm
+LITERATURE_0092,Animal Farm,"George Orwell
+1945"
+LITERATURE_0093,"Ernest Hemingway 
+1929","A Farewell to Arms "
+LITERATURE_0094,"A Farewell to Arms ","Ernest Hemingway 
+1929"
+LITERATURE_0095,"Jane Austen
+1813",Pride and Prejudice
+LITERATURE_0096,Pride and Prejudice,"Jane Austen
+1813"
+LITERATURE_0097,"Leo Tolstoy
+1878",Anna Karenina
+LITERATURE_0098,Anna Karenina,"Leo Tolstoy
+1878"
+LITERATURE_0099,"Lewis Carroll
+1865","Alice's Adventures in Wonderland "
+LITERATURE_0100,"Alice's Adventures in Wonderland ","Lewis Carroll
+1865"
+LITERATURE_0101,"George Eliot
+1871",Middlemarch
+LITERATURE_0102,Middlemarch,"George Eliot
+1871"
+LITERATURE_0103,"Jonathan Swift 
+1726",Gulliver's Travels
+LITERATURE_0104,Gulliver's Travels,"Jonathan Swift 
+1726"
+LITERATURE_0105,"Albert Camus
+1942",The Stranger
+LITERATURE_0106,The Stranger,"Albert Camus
+1942"
+LITERATURE_0107,"Virgil
+30-19 BCE","The Aeneid "
+LITERATURE_0108,"The Aeneid ","Virgil
+30-19 BCE"
+LITERATURE_0109,"Virginia Woolf 
+1925",Mrs. Dalloway
+LITERATURE_0110,Mrs. Dalloway,"Virginia Woolf 
+1925"
+LITERATURE_0111,"Voltaire
+1759",Candide
+LITERATURE_0112,Candide,"Voltaire
+1759"
+LITERATURE_0113,"Thomas Mann
+1924",The Magic Mountain
+LITERATURE_0114,The Magic Mountain,"Thomas Mann
+1924"
+LITERATURE_0115,"Fyodor Dostoyevsky
+1880",The Brothers Karamazov
+LITERATURE_0116,The Brothers Karamazov,"Fyodor Dostoyevsky
+1880"
+LITERATURE_0117,"William Faulkner 
+1936","Absalom, Absalom"
+LITERATURE_0118,"Absalom, Absalom","William Faulkner 
+1936"
+LITERATURE_0119,"Walt Whitman
+1855",Leaves of Grass
+LITERATURE_0120,Leaves of Grass,"Walt Whitman
+1855"
+LITERATURE_0121,"David Foster Wallace
+1996",Infinite Jest
+LITERATURE_0122,Infinite Jest,"David Foster Wallace
+1996"
+LITERATURE_0123,"Samuel Beckett
+1978",Waiting for Godot
+LITERATURE_0124,Waiting for Godot,"Samuel Beckett
+1978"
+LITERATURE_0125,"D.H. Lawrence 
+1928",Lady Chatterley's Lover
+LITERATURE_0126,Lady Chatterley's Lover,"D.H. Lawrence 
+1928"
+LITERATURE_0127,"Agatha Christie 
+1939",And Then There Were None
+LITERATURE_0128,And Then There Were None,"Agatha Christie 
+1939"
+LITERATURE_0129,"Ivan Turgenev
+1862",Fathers and Sons
+LITERATURE_0130,Fathers and Sons,"Ivan Turgenev
+1862"
+LITERATURE_0131,"Anton Chekov
+1904",The Cherry Orchard
+LITERATURE_0132,The Cherry Orchard,"Anton Chekov
+1904"
+LITERATURE_0133,"Margaret Mitchell 
+1936",Gone with the Wind
+LITERATURE_0134,Gone with the Wind,"Margaret Mitchell 
+1936"
+LITERATURE_0135,"John Updike
+1960","Rabbit, Run"
+LITERATURE_0136,"Rabbit, Run","John Updike
+1960"
+LITERATURE_0137,"Johann Wolfgang von Goethe
+1831",Faust
+LITERATURE_0138,Faust,"Johann Wolfgang von Goethe
+1831"
+LITERATURE_0139,"Mark Twain
+1884",The Adventures of Huckleberry Finn
+LITERATURE_0140,The Adventures of Huckleberry Finn,"Mark Twain
+1884"
+LITERATURE_0141,"Toni Morrison
+1987",Beloved
+LITERATURE_0142,Beloved,"Toni Morrison
+1987"
+LITERATURE_0143,"Franz Kafka 
+1925",The Trial
+LITERATURE_0144,The Trial,"Franz Kafka 
+1925"
+LITERATURE_0145,"Chinua Achebe
+1958",Things Fall Apart
+LITERATURE_0146,Things Fall Apart,"Chinua Achebe
+1958"
+LITERATURE_0147,"Thomas Pynchon
+1973",Gravity's Rainbow
+LITERATURE_0148,Gravity's Rainbow,"Thomas Pynchon
+1973"
+LITERATURE_0149,"Ernest Hemingway 
+1940",For Whom the Bell Tolls
+LITERATURE_0150,For Whom the Bell Tolls,"Ernest Hemingway 
+1940"
+LITERATURE_0151,"Gustave Flaubert
+1856",Madame Bovary
+LITERATURE_0152,Madame Bovary,"Gustave Flaubert
+1856"
+LITERATURE_0153,"Dante Alighieri
+1320",The Divine Comedy
+LITERATURE_0154,The Divine Comedy,"Dante Alighieri
+1320"
+LITERATURE_0155,"Harper Lee
+1960","To Kill a Mockingbird "
+LITERATURE_0156,"To Kill a Mockingbird ","Harper Lee
+1960"
+LITERATURE_0157,"Charles Dickens
+1850","David Copperfield "
+LITERATURE_0158,"David Copperfield ","Charles Dickens
+1850"
+LITERATURE_0159,"Alice Walker
+1982",The Color Purple
+LITERATURE_0160,The Color Purple,"Alice Walker
+1982"
+LITERATURE_0161,"Charles Dickens
+1861","Great Expectations "
+LITERATURE_0162,"Great Expectations ","Charles Dickens
+1861"
+LITERATURE_0163,"William Faulkner 
+1932",Light in August
+LITERATURE_0164,Light in August,"William Faulkner 
+1932"
+LITERATURE_0165,"Johann Wolfgang von Goethe
+1774",The Sorrows of Young Werther
+LITERATURE_0166,The Sorrows of Young Werther,"Johann Wolfgang von Goethe
+1774"
+LITERATURE_0167,"John Bunyan
+1678","The Pilgrim's Progress "
+LITERATURE_0168,"The Pilgrim's Progress ","John Bunyan
+1678"
+LITERATURE_0169,"Homer 
+800 BCE",The Odyssey
+LITERATURE_0170,The Odyssey,"Homer 
+800 BCE"
+LITERATURE_0171,"Salman Rushdie
+1988",The Satanic Verses
+LITERATURE_0172,The Satanic Verses,"Salman Rushdie
+1988"
+LITERATURE_0173,"Ayn Rand
+1957",Atlas Shrugged
+LITERATURE_0174,Atlas Shrugged,"Ayn Rand
+1957"
+LITERATURE_0175,"Ayn Rand
+1943",The Fountainhead
+LITERATURE_0176,The Fountainhead,"Ayn Rand
+1943"
+LITERATURE_0177,"Gabriel Garcia Marquez
+1985",Love in the Time of Cholera
+LITERATURE_0178,Love in the Time of Cholera,"Gabriel Garcia Marquez
+1985"
+LITERATURE_0179,"Isabel Allende
+1982",The House of the Spirits
+LITERATURE_0180,The House of the Spirits,"Isabel Allende
+1982"
+LITERATURE_0181,"Charles Dickens
+1859",A Tale of Two Cities
+LITERATURE_0182,A Tale of Two Cities,"Charles Dickens
+1859"
+LITERATURE_0183,"Franz Kafka
+1915",The Metamorphosis
+LITERATURE_0184,The Metamorphosis,"Franz Kafka
+1915"
+LITERATURE_0185,"Anna Sewell
+1877",Black Beauty
+LITERATURE_0186,Black Beauty,"Anna Sewell
+1877"
+LITERATURE_0187,"George Eliot
+1861",Silas Marner
+LITERATURE_0188,Silas Marner,"George Eliot
+1861"
+LITERATURE_0189,"Jane Austen
+1815",Emma
+LITERATURE_0190,Emma,"Jane Austen
+1815"
+LITERATURE_0191,"Jane Austen
+1811",Sense and Sensibility
+LITERATURE_0192,Sense and Sensibility,"Jane Austen
+1811"
+LITERATURE_0193,"Harriet Beecher Stowe
+1852",Uncle Tom's Cabin
+LITERATURE_0194,Uncle Tom's Cabin,"Harriet Beecher Stowe
+1852"
+LITERATURE_0195,"Upton Sinclair
+1906",The Jungle
+LITERATURE_0196,The Jungle,"Upton Sinclair
+1906"
+LITERATURE_0197,"Sir Walter Scott
+1819",Ivanhoe
+LITERATURE_0198,Ivanhoe,"Sir Walter Scott
+1819"
+LITERATURE_0199,"Donna Tartt
+2013",The Goldfinch
+LITERATURE_0200,The Goldfinch,"Donna Tartt
+2013"
+LITERATURE_0201,"Zora Neale Hurston
+1937",Their Eyes Were Watching God
+LITERATURE_0202,Their Eyes Were Watching God,"Zora Neale Hurston
+1937"
+LITERATURE_0203,"Daphne du Maurier
+1938",Rebecca
+LITERATURE_0204,Rebecca,"Daphne du Maurier
+1938"
+LITERATURE_0205,"James Joyce
+1914",Dubliners
+LITERATURE_0206,Dubliners,"James Joyce
+1914"
+LITERATURE_0207,"Daniel Defoe
+1719",Robinson Crusoe
+LITERATURE_0208,Robinson Crusoe,"Daniel Defoe
+1719"
+LITERATURE_0209,"Rachel Carson
+1962",Silent Spring
+LITERATURE_0210,Silent Spring,"Rachel Carson
+1962"
