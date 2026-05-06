@@ -1,0 +1,160 @@
+PERIODIC_TABLE_0001,"Atomic Number: 10
+Period: 2
+Group: 18
+Type: Noble Gas ",Neon (Ne)
+PERIODIC_TABLE_0002,Neon (Ne),"Atomic Number: 10
+Period: 2
+Group: 18
+Type: Noble Gas "
+PERIODIC_TABLE_0003,"Atomic Number: 12
+Period: 3
+Group: 2
+Type: Alkali Earth Metal ",Magnesium (Mg)
+PERIODIC_TABLE_0004,Magnesium (Mg),"Atomic Number: 12
+Period: 3
+Group: 2
+Type: Alkali Earth Metal "
+PERIODIC_TABLE_0005,"Atomic Number: 18
+Period: 3
+Group: 18
+Type: Noble Gas ",Argon (Ar)
+PERIODIC_TABLE_0006,Argon (Ar),"Atomic Number: 18
+Period: 3
+Group: 18
+Type: Noble Gas "
+PERIODIC_TABLE_0007,"Atomic Number: 16
+Period: 3
+Group: 16
+Type: Reactive Nonmetal ",Sulfur (S)
+PERIODIC_TABLE_0008,Sulfur (S),"Atomic Number: 16
+Period: 3
+Group: 16
+Type: Reactive Nonmetal "
+PERIODIC_TABLE_0009,"Atomic Number: 1
+Period: 1
+Group: 1
+Type: Reactive Nonmetal",Hydrogen (H)
+PERIODIC_TABLE_0010,Hydrogen (H),"Atomic Number: 1
+Period: 1
+Group: 1
+Type: Reactive Nonmetal"
+PERIODIC_TABLE_0011,"Atomic Number: 3
+Period: 2
+Group: 1
+Type: Alkali Metal",Lithium (Li)
+PERIODIC_TABLE_0012,Lithium (Li),"Atomic Number: 3
+Period: 2
+Group: 1
+Type: Alkali Metal"
+PERIODIC_TABLE_0013,"Atomic Number: 4
+Period: 2
+Group: 2
+Type: Alkali Earth Metal",Beryllium (Be)
+PERIODIC_TABLE_0014,Beryllium (Be),"Atomic Number: 4
+Period: 2
+Group: 2
+Type: Alkali Earth Metal"
+PERIODIC_TABLE_0015,"Atomic Number: 20
+Period: 4
+Group: 2
+Type: Alkali Earth Metal ",Calcium (Ca)
+PERIODIC_TABLE_0016,Calcium (Ca),"Atomic Number: 20
+Period: 4
+Group: 2
+Type: Alkali Earth Metal "
+PERIODIC_TABLE_0017,"Atomic Number: 2
+Period: 1
+Group: 18
+Type: Noble Gas",Helium (He)
+PERIODIC_TABLE_0018,Helium (He),"Atomic Number: 2
+Period: 1
+Group: 18
+Type: Noble Gas"
+PERIODIC_TABLE_0019,"Atomic Number: 5
+Period: 2
+Group: 13
+Type: Metalloid",Boron (B)
+PERIODIC_TABLE_0020,Boron (B),"Atomic Number: 5
+Period: 2
+Group: 13
+Type: Metalloid"
+PERIODIC_TABLE_0021,"Atomic Number: 6
+Period: 2
+Group: 14
+Type: Reactive Nonmetal ",Carbon (C)
+PERIODIC_TABLE_0022,Carbon (C),"Atomic Number: 6
+Period: 2
+Group: 14
+Type: Reactive Nonmetal "
+PERIODIC_TABLE_0023,"Atomic Number: 7
+Period: 2
+Group: 15
+Type: Reactive Nonmetal",Nitrogen (N)
+PERIODIC_TABLE_0024,Nitrogen (N),"Atomic Number: 7
+Period: 2
+Group: 15
+Type: Reactive Nonmetal"
+PERIODIC_TABLE_0025,"Atomic Number: 8
+Period: 2
+Group: 16
+Type: Reactive Nonmetal",Oxygen (O)
+PERIODIC_TABLE_0026,Oxygen (O),"Atomic Number: 8
+Period: 2
+Group: 16
+Type: Reactive Nonmetal"
+PERIODIC_TABLE_0027,"Atomic Number: 9
+Period: 2
+Group: 17
+Type: Reactive Nonmetal",Fluorine (F)
+PERIODIC_TABLE_0028,Fluorine (F),"Atomic Number: 9
+Period: 2
+Group: 17
+Type: Reactive Nonmetal"
+PERIODIC_TABLE_0029,"Atomic Number: 11
+Period: 3
+Group: 1
+Type: Alkali Metal",Sodium (Na)
+PERIODIC_TABLE_0030,Sodium (Na),"Atomic Number: 11
+Period: 3
+Group: 1
+Type: Alkali Metal"
+PERIODIC_TABLE_0031,"Atomic Number: 13
+Period: 3
+Group: 13
+Type: Post-Transition Metal",Aluminum (Al)
+PERIODIC_TABLE_0032,Aluminum (Al),"Atomic Number: 13
+Period: 3
+Group: 13
+Type: Post-Transition Metal"
+PERIODIC_TABLE_0033,"Atomic Number: 14
+Period: 3
+Group: 14
+Type: Metalloid",Silicon (Si)
+PERIODIC_TABLE_0034,Silicon (Si),"Atomic Number: 14
+Period: 3
+Group: 14
+Type: Metalloid"
+PERIODIC_TABLE_0035,"Atomic Number: 15
+Period: 3
+Group: 15
+Type: Reactive Nonmetal ",Phosphorus (P)
+PERIODIC_TABLE_0036,Phosphorus (P),"Atomic Number: 15
+Period: 3
+Group: 15
+Type: Reactive Nonmetal "
+PERIODIC_TABLE_0037,"Atomic Number: 17
+Period: 3
+Group: 17
+Type: Reactive Nonmetal ",Chlorine (Cl)
+PERIODIC_TABLE_0038,Chlorine (Cl),"Atomic Number: 17
+Period: 3
+Group: 17
+Type: Reactive Nonmetal "
+PERIODIC_TABLE_0039,"Atomic Number: 19
+Period: 4
+Group: 1
+Type: Alkali Metal ",Potassium (K)
+PERIODIC_TABLE_0040,Potassium (K),"Atomic Number: 19
+Period: 4
+Group: 1
+Type: Alkali Metal "
