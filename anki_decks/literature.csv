@@ -102,9 +102,9 @@ LITERATURE_0051,"Marcel Proust
 1927",In Search of Lost Time
 LITERATURE_0052,In Search of Lost Time,"Marcel Proust
 1927"
-LITERATURE_0053,"Fyodor Dostoyevsky 
+LITERATURE_0053,"Fyodor Dostoyevsky
 1866",Crime and Punishment
-LITERATURE_0054,Crime and Punishment,"Fyodor Dostoyevsky 
+LITERATURE_0054,Crime and Punishment,"Fyodor Dostoyevsky
 1866"
 LITERATURE_0055,"Emily Bronte
 1847",Wuthering Heights
@@ -179,9 +179,11 @@ LITERATURE_0089,"E.M. Forster
 LITERATURE_0090,A Room With a View,"E.M. Forster
 1908"
 LITERATURE_0091,"George Orwell
-1945",Animal Farm
+1945 (UK)
+1946 (US)",Animal Farm
 LITERATURE_0092,Animal Farm,"George Orwell
-1945"
+1945 (UK)
+1946 (US)"
 LITERATURE_0093,"Ernest Hemingway 
 1929","A Farewell to Arms "
 LITERATURE_0094,"A Farewell to Arms ","Ernest Hemingway 
@@ -387,9 +389,11 @@ LITERATURE_0193,"Harriet Beecher Stowe
 LITERATURE_0194,Uncle Tom's Cabin,"Harriet Beecher Stowe
 1852"
 LITERATURE_0195,"Upton Sinclair
-1906",The Jungle
+1905 (Serial)
+1906 (Book)",The Jungle
 LITERATURE_0196,The Jungle,"Upton Sinclair
-1906"
+1905 (Serial)
+1906 (Book)"
 LITERATURE_0197,"Sir Walter Scott
 1819",Ivanhoe
 LITERATURE_0198,Ivanhoe,"Sir Walter Scott
@@ -418,3 +422,7 @@ LITERATURE_0209,"Rachel Carson
 1962",Silent Spring
 LITERATURE_0210,Silent Spring,"Rachel Carson
 1962"
+LITERATURE_0211,"Fyodor Dostoyevsky
+1869",The Idiot
+LITERATURE_0212,The Idiot,"Fyodor Dostoyevsky
+1869"
