@@ -5,15 +5,20 @@ import org.slf4j.LoggerFactory;
 import java.io.*;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.*;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 public class Prepper {
   private static final Logger log = LoggerFactory.getLogger(Prepper.class);
+  private static final Path MANIFEST = Path.of("processed.log");
 
   public static void main(String[] args) throws IOException {
     Path inputDir = Path.of("noji_decks");
     Path outputDir = Path.of("anki_decks");
     Files.createDirectories(outputDir);
+
+    Set<String> processed = loadManifest();
 
     List<Path> csvFiles;
     try (var stream = Files.list(inputDir)) {
@@ -26,18 +31,30 @@ public class Prepper {
     }
 
     for (Path inputFile : csvFiles) {
-      String baseName = stripTimestamp(inputFile.getFileName().toString().replace(".csv", ""));
+      String filename = inputFile.getFileName().toString();
+      String baseName = stripTimestamp(filename.replace(".csv", ""));
       String prefix = baseName.toUpperCase();
-      Path outputFile = outputDir.resolve(baseName + ".csv");
 
-      if (Files.exists(outputFile)) {
+      if (processed.contains(filename)) {
         log.info("{}: already processed, skipping", prefix);
         continue;
       }
 
+      Path outputFile = outputDir.resolve(baseName + ".csv");
       int count = processFile(inputFile, outputFile, prefix);
+      appendManifest(filename);
       log.info("{}: {} rows written to {}", prefix, count, outputFile);
     }
+  }
+
+  private static Set<String> loadManifest() throws IOException {
+    if (!Files.exists(MANIFEST)) return new HashSet<>();
+    return new HashSet<>(Files.readAllLines(MANIFEST, StandardCharsets.UTF_8));
+  }
+
+  private static void appendManifest(String filename) throws IOException {
+    Files.writeString(MANIFEST, filename + "\n", StandardCharsets.UTF_8,
+        StandardOpenOption.CREATE, StandardOpenOption.APPEND);
   }
 
   private static int processFile(Path inputFile, Path outputFile, String prefix) throws IOException {
