@@ -18,8 +18,8 @@ US_CITY_POPULATIONS_0006,Wichita,"Kansas
 Most Populous"
 US_CITY_POPULATIONS_0007,"Oklahoma
 700,000
-Most Populous + Capital","Oklahoma City "
-US_CITY_POPULATIONS_0008,"Oklahoma City ","Oklahoma
+Most Populous + Capital",Oklahoma City
+US_CITY_POPULATIONS_0008,Oklahoma City,"Oklahoma
 700,000
 Most Populous + Capital"
 US_CITY_POPULATIONS_0009,"Maryland
@@ -30,8 +30,8 @@ US_CITY_POPULATIONS_0010,Baltimore,"Maryland
 Most Populous"
 US_CITY_POPULATIONS_0011,"Minnesota
 430,000
-Most Populous","Minneapolis "
-US_CITY_POPULATIONS_0012,"Minneapolis ","Minnesota
+Most Populous",Minneapolis
+US_CITY_POPULATIONS_0012,Minneapolis,"Minnesota
 430,000
 Most Populous"
 US_CITY_POPULATIONS_0013,"Texas
@@ -42,8 +42,8 @@ US_CITY_POPULATIONS_0014,Houston,"Texas
 Most Populous"
 US_CITY_POPULATIONS_0015,"New York
 8.3 million
-Most Populous","New York City "
-US_CITY_POPULATIONS_0016,"New York City ","New York
+Most Populous",New York City
+US_CITY_POPULATIONS_0016,New York City,"New York
 8.3 million
 Most Populous"
 US_CITY_POPULATIONS_0017,"Pennsylvania
@@ -96,14 +96,14 @@ US_CITY_POPULATIONS_0032,"Washington, D.C.","District of Columbia
 Most Populous + Capital"
 US_CITY_POPULATIONS_0033,"Ohio
 910,000
-Most Populous + Capital","Columbus "
-US_CITY_POPULATIONS_0034,"Columbus ","Ohio
+Most Populous + Capital",Columbus
+US_CITY_POPULATIONS_0034,Columbus,"Ohio
 910,000
 Most Populous + Capital"
 US_CITY_POPULATIONS_0035,"Wisconsin
 560,000
-Most Populous","Milwaukee "
-US_CITY_POPULATIONS_0036,"Milwaukee ","Wisconsin
+Most Populous",Milwaukee
+US_CITY_POPULATIONS_0036,Milwaukee,"Wisconsin
 560,000
 Most Populous"
 US_CITY_POPULATIONS_0037,"Alaska
@@ -132,8 +132,8 @@ US_CITY_POPULATIONS_0044,Boise,"Idaho
 Most Populous + Capital"
 US_CITY_POPULATIONS_0045,"Kentucky
 620,000
-Most Populous","Louisville "
-US_CITY_POPULATIONS_0046,"Louisville ","Kentucky
+Most Populous",Louisville
+US_CITY_POPULATIONS_0046,Louisville,"Kentucky
 620,000
 Most Populous"
 US_CITY_POPULATIONS_0047,"Missouri
@@ -150,8 +150,8 @@ US_CITY_POPULATIONS_0050,Newark,"New Jersey
 Most Populous"
 US_CITY_POPULATIONS_0051,"New Mexico
 560,000
-Most Populous","Albuquerque "
-US_CITY_POPULATIONS_0052,"Albuquerque ","New Mexico
+Most Populous",Albuquerque
+US_CITY_POPULATIONS_0052,Albuquerque,"New Mexico
 560,000
 Most Populous"
 US_CITY_POPULATIONS_0053,"Rhode Island
@@ -186,8 +186,8 @@ US_CITY_POPULATIONS_0062,Little Rock,"Arkansas
 Most Populous + Capital"
 US_CITY_POPULATIONS_0063,"Delaware
 70,000
-Most Populous","Wilmington "
-US_CITY_POPULATIONS_0064,"Wilmington ","Delaware
+Most Populous",Wilmington
+US_CITY_POPULATIONS_0064,Wilmington,"Delaware
 70,000
 Most Populous"
 US_CITY_POPULATIONS_0065,"Georgia
@@ -198,8 +198,8 @@ US_CITY_POPULATIONS_0066,Atlanta,"Georgia
 Most Populous + Capital"
 US_CITY_POPULATIONS_0067,"Louisiana
 370,000
-Most Populous","New Orleans "
-US_CITY_POPULATIONS_0068,"New Orleans ","Louisiana
+Most Populous",New Orleans
+US_CITY_POPULATIONS_0068,New Orleans,"Louisiana
 370,000
 Most Populous"
 US_CITY_POPULATIONS_0069,"Maine
@@ -234,8 +234,8 @@ US_CITY_POPULATIONS_0078,Charlotte,"North Carolina
 Most Populous"
 US_CITY_POPULATIONS_0079,"North Dakota
 130,000
-Most Populous","Fargo "
-US_CITY_POPULATIONS_0080,"Fargo ","North Dakota
+Most Populous",Fargo
+US_CITY_POPULATIONS_0080,Fargo,"North Dakota
 130,000
 Most Populous"
 US_CITY_POPULATIONS_0081,"Northern Mariana Islands
@@ -258,8 +258,8 @@ US_CITY_POPULATIONS_0086,Charlotte Amalie,"Virgin Islands (U.S.)
 Most Populous + Capital"
 US_CITY_POPULATIONS_0087,"Virginia
 450,000
-Most Populous","Virginia Beach "
-US_CITY_POPULATIONS_0088,"Virginia Beach ","Virginia
+Most Populous",Virginia Beach
+US_CITY_POPULATIONS_0088,Virginia Beach,"Virginia
 450,000
 Most Populous"
 US_CITY_POPULATIONS_0089,"Washington
@@ -276,20 +276,20 @@ US_CITY_POPULATIONS_0092,Charleston (Smaller),"West Virginia
 Most Populous + Capital"
 US_CITY_POPULATIONS_0093,"Alabama
 215,000
-Most Populous","Huntsville "
-US_CITY_POPULATIONS_0094,"Huntsville ","Alabama
+Most Populous",Huntsville
+US_CITY_POPULATIONS_0094,Huntsville,"Alabama
 215,000
 Most Populous"
 US_CITY_POPULATIONS_0095,"American Samoa
-8,000 
+8,000
 Most Populous",Tafuna
 US_CITY_POPULATIONS_0096,Tafuna,"American Samoa
-8,000 
+8,000
 Most Populous"
 US_CITY_POPULATIONS_0097,"Connecticut
 150,000
-Most Populous","Bridgeport "
-US_CITY_POPULATIONS_0098,"Bridgeport ","Connecticut
+Most Populous",Bridgeport
+US_CITY_POPULATIONS_0098,Bridgeport,"Connecticut
 150,000
 Most Populous"
 US_CITY_POPULATIONS_0099,"Florida
@@ -334,28 +334,28 @@ Most Populous + Capital",Salt Lake City
 US_CITY_POPULATIONS_0112,Salt Lake City,"Utah
 200,000
 Most Populous + Capital"
-US_CITY_POPULATIONS_0113,"Alaska 
+US_CITY_POPULATIONS_0113,"Alaska
 30,000
 Capital",Juneau
-US_CITY_POPULATIONS_0114,Juneau,"Alaska 
+US_CITY_POPULATIONS_0114,Juneau,"Alaska
 30,000
 Capital"
 US_CITY_POPULATIONS_0115,"California
 520,000
-Capital","Sacramento "
-US_CITY_POPULATIONS_0116,"Sacramento ","California
+Capital",Sacramento
+US_CITY_POPULATIONS_0116,Sacramento,"California
 520,000
 Capital"
-US_CITY_POPULATIONS_0117,"Connecticut 
+US_CITY_POPULATIONS_0117,"Connecticut
 120,000
 Capital",Hartford
-US_CITY_POPULATIONS_0118,Hartford,"Connecticut 
+US_CITY_POPULATIONS_0118,Hartford,"Connecticut
 120,000
 Capital"
-US_CITY_POPULATIONS_0119,"Delaware 
+US_CITY_POPULATIONS_0119,"Delaware
 40,000
 Capital",Dover
-US_CITY_POPULATIONS_0120,Dover,"Delaware 
+US_CITY_POPULATIONS_0120,Dover,"Delaware
 40,000
 Capital"
 US_CITY_POPULATIONS_0121,"Florida
@@ -384,20 +384,20 @@ US_CITY_POPULATIONS_0128,Frankfort,"Kentucky
 Capital"
 US_CITY_POPULATIONS_0129,"Louisiana
 230,000
-Capital","Baton Rouge "
-US_CITY_POPULATIONS_0130,"Baton Rouge ","Louisiana
+Capital",Baton Rouge
+US_CITY_POPULATIONS_0130,Baton Rouge,"Louisiana
 230,000
 Capital"
 US_CITY_POPULATIONS_0131,"Maine
 20,000
-Capital","Augusta "
-US_CITY_POPULATIONS_0132,"Augusta ","Maine
+Capital",Augusta
+US_CITY_POPULATIONS_0132,Augusta,"Maine
 20,000
 Capital"
 US_CITY_POPULATIONS_0133,"Maryland
 40,000
-Capital","Annapolis "
-US_CITY_POPULATIONS_0134,"Annapolis ","Maryland
+Capital",Annapolis
+US_CITY_POPULATIONS_0134,Annapolis,"Maryland
 40,000
 Capital"
 US_CITY_POPULATIONS_0135,"Michigan
@@ -436,10 +436,10 @@ Capital",Carson City
 US_CITY_POPULATIONS_0146,Carson City,"Nevada
 60,000
 Capital"
-US_CITY_POPULATIONS_0147,"New Hampshire 
+US_CITY_POPULATIONS_0147,"New Hampshire
 40,000
 Capital",Concord
-US_CITY_POPULATIONS_0148,Concord,"New Hampshire 
+US_CITY_POPULATIONS_0148,Concord,"New Hampshire
 40,000
 Capital"
 US_CITY_POPULATIONS_0149,"New Jersey
@@ -448,10 +448,10 @@ Capital",Trenton
 US_CITY_POPULATIONS_0150,Trenton,"New Jersey
 90,000
 Capital"
-US_CITY_POPULATIONS_0151,"New York 
+US_CITY_POPULATIONS_0151,"New York
 100,000
 Capital",Albany
-US_CITY_POPULATIONS_0152,Albany,"New York 
+US_CITY_POPULATIONS_0152,Albany,"New York
 100,000
 Capital"
 US_CITY_POPULATIONS_0153,"North Carolina
@@ -460,10 +460,10 @@ Capital",Raleigh
 US_CITY_POPULATIONS_0154,Raleigh,"North Carolina
 470,000
 Capital"
-US_CITY_POPULATIONS_0155,"North Dakota 
+US_CITY_POPULATIONS_0155,"North Dakota
 70,000
 Capital",Bismarck
-US_CITY_POPULATIONS_0156,Bismarck,"North Dakota 
+US_CITY_POPULATIONS_0156,Bismarck,"North Dakota
 70,000
 Capital"
 US_CITY_POPULATIONS_0157,"Oregon
@@ -472,22 +472,22 @@ Capital",Salem
 US_CITY_POPULATIONS_0158,Salem,"Oregon
 180,000
 Capital"
-US_CITY_POPULATIONS_0159,"Pennsylvania 
+US_CITY_POPULATIONS_0159,"Pennsylvania
 50,000
-Capital ","Harrisburg "
-US_CITY_POPULATIONS_0160,"Harrisburg ","Pennsylvania 
+Capital",Harrisburg
+US_CITY_POPULATIONS_0160,Harrisburg,"Pennsylvania
 50,000
-Capital "
-US_CITY_POPULATIONS_0161,"South Carolina 
+Capital"
+US_CITY_POPULATIONS_0161,"South Carolina
 140,000
-Capital","Columbia "
-US_CITY_POPULATIONS_0162,"Columbia ","South Carolina 
+Capital",Columbia
+US_CITY_POPULATIONS_0162,Columbia,"South Carolina
 140,000
 Capital"
-US_CITY_POPULATIONS_0163,"South Dakota 
+US_CITY_POPULATIONS_0163,"South Dakota
 15,000
 Capital",Pierre
-US_CITY_POPULATIONS_0164,Pierre,"South Dakota 
+US_CITY_POPULATIONS_0164,Pierre,"South Dakota
 15,000
 Capital"
 US_CITY_POPULATIONS_0165,"Texas
@@ -498,33 +498,33 @@ US_CITY_POPULATIONS_0166,Austin,"Texas
 Capital"
 US_CITY_POPULATIONS_0167,"Vermont
 10,000
-Capital ","Montpelier "
-US_CITY_POPULATIONS_0168,"Montpelier ","Vermont
+Capital",Montpelier
+US_CITY_POPULATIONS_0168,Montpelier,"Vermont
 10,000
-Capital "
-US_CITY_POPULATIONS_0169,"Virginia 
+Capital"
+US_CITY_POPULATIONS_0169,"Virginia
 230,000
-Capital ","Richmond "
-US_CITY_POPULATIONS_0170,"Richmond ","Virginia 
+Capital",Richmond
+US_CITY_POPULATIONS_0170,Richmond,"Virginia
 230,000
-Capital "
-US_CITY_POPULATIONS_0171,"Washington 
+Capital"
+US_CITY_POPULATIONS_0171,"Washington
 60,000
-Capital ",Olympia
-US_CITY_POPULATIONS_0172,Olympia,"Washington 
+Capital",Olympia
+US_CITY_POPULATIONS_0172,Olympia,"Washington
 60,000
-Capital "
+Capital"
 US_CITY_POPULATIONS_0173,"Wisconsin
 270,000
-Capital ","Madison "
-US_CITY_POPULATIONS_0174,"Madison ","Wisconsin
+Capital",Madison
+US_CITY_POPULATIONS_0174,Madison,"Wisconsin
 270,000
-Capital "
+Capital"
 US_CITY_POPULATIONS_0175,"American Samoa
-3,000 
+3,000
 Capital",Pago Pago
 US_CITY_POPULATIONS_0176,Pago Pago,"American Samoa
-3,000 
+3,000
 Capital"
 US_CITY_POPULATIONS_0177,"Guam
 1,000

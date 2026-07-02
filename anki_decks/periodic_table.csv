@@ -1,35 +1,35 @@
 PERIODIC_TABLE_0001,"Atomic Number: 10
 Period: 2
 Group: 18
-Type: Noble Gas ",Neon (Ne)
+Type: Noble Gas",Neon (Ne)
 PERIODIC_TABLE_0002,Neon (Ne),"Atomic Number: 10
 Period: 2
 Group: 18
-Type: Noble Gas "
+Type: Noble Gas"
 PERIODIC_TABLE_0003,"Atomic Number: 12
 Period: 3
 Group: 2
-Type: Alkali Earth Metal ",Magnesium (Mg)
+Type: Alkali Earth Metal",Magnesium (Mg)
 PERIODIC_TABLE_0004,Magnesium (Mg),"Atomic Number: 12
 Period: 3
 Group: 2
-Type: Alkali Earth Metal "
+Type: Alkali Earth Metal"
 PERIODIC_TABLE_0005,"Atomic Number: 18
 Period: 3
 Group: 18
-Type: Noble Gas ",Argon (Ar)
+Type: Noble Gas",Argon (Ar)
 PERIODIC_TABLE_0006,Argon (Ar),"Atomic Number: 18
 Period: 3
 Group: 18
-Type: Noble Gas "
+Type: Noble Gas"
 PERIODIC_TABLE_0007,"Atomic Number: 16
 Period: 3
 Group: 16
-Type: Reactive Nonmetal ",Sulfur (S)
+Type: Reactive Nonmetal",Sulfur (S)
 PERIODIC_TABLE_0008,Sulfur (S),"Atomic Number: 16
 Period: 3
 Group: 16
-Type: Reactive Nonmetal "
+Type: Reactive Nonmetal"
 PERIODIC_TABLE_0009,"Atomic Number: 1
 Period: 1
 Group: 1
@@ -57,11 +57,11 @@ Type: Alkali Earth Metal"
 PERIODIC_TABLE_0015,"Atomic Number: 20
 Period: 4
 Group: 2
-Type: Alkali Earth Metal ",Calcium (Ca)
+Type: Alkali Earth Metal",Calcium (Ca)
 PERIODIC_TABLE_0016,Calcium (Ca),"Atomic Number: 20
 Period: 4
 Group: 2
-Type: Alkali Earth Metal "
+Type: Alkali Earth Metal"
 PERIODIC_TABLE_0017,"Atomic Number: 2
 Period: 1
 Group: 18
@@ -81,11 +81,11 @@ Type: Metalloid"
 PERIODIC_TABLE_0021,"Atomic Number: 6
 Period: 2
 Group: 14
-Type: Reactive Nonmetal ",Carbon (C)
+Type: Reactive Nonmetal",Carbon (C)
 PERIODIC_TABLE_0022,Carbon (C),"Atomic Number: 6
 Period: 2
 Group: 14
-Type: Reactive Nonmetal "
+Type: Reactive Nonmetal"
 PERIODIC_TABLE_0023,"Atomic Number: 7
 Period: 2
 Group: 15
@@ -137,24 +137,24 @@ Type: Metalloid"
 PERIODIC_TABLE_0035,"Atomic Number: 15
 Period: 3
 Group: 15
-Type: Reactive Nonmetal ",Phosphorus (P)
+Type: Reactive Nonmetal",Phosphorus (P)
 PERIODIC_TABLE_0036,Phosphorus (P),"Atomic Number: 15
 Period: 3
 Group: 15
-Type: Reactive Nonmetal "
+Type: Reactive Nonmetal"
 PERIODIC_TABLE_0037,"Atomic Number: 17
 Period: 3
 Group: 17
-Type: Reactive Nonmetal ",Chlorine (Cl)
+Type: Reactive Nonmetal",Chlorine (Cl)
 PERIODIC_TABLE_0038,Chlorine (Cl),"Atomic Number: 17
 Period: 3
 Group: 17
-Type: Reactive Nonmetal "
+Type: Reactive Nonmetal"
 PERIODIC_TABLE_0039,"Atomic Number: 19
 Period: 4
 Group: 1
-Type: Alkali Metal ",Potassium (K)
+Type: Alkali Metal",Potassium (K)
 PERIODIC_TABLE_0040,Potassium (K),"Atomic Number: 19
 Period: 4
 Group: 1
-Type: Alkali Metal "
+Type: Alkali Metal"
