@@ -19,9 +19,11 @@ LITERATURE_0009,"Evelyn Waugh
 LITERATURE_0010,Brideshead Revisited,"Evelyn Waugh
 1945"
 LITERATURE_0011,"Miguel de Cervantes
-1615",Don Quixote
+1605 (Part One)
+1615 (Part Two)",Don Quixote
 LITERATURE_0012,Don Quixote,"Miguel de Cervantes
-1615"
+1605 (Part One)
+1615 (Part Two)"
 LITERATURE_0013,"James Joyce
 1922",Ulysses
 LITERATURE_0014,Ulysses,"James Joyce
@@ -245,9 +247,9 @@ LITERATURE_0121,"David Foster Wallace
 LITERATURE_0122,Infinite Jest,"David Foster Wallace
 1996"
 LITERATURE_0123,"Samuel Beckett
-1978",Waiting for Godot
+1953",Waiting for Godot
 LITERATURE_0124,Waiting for Godot,"Samuel Beckett
-1978"
+1953"
 LITERATURE_0125,"D.H. Lawrence
 1928",Lady Chatterley's Lover
 LITERATURE_0126,Lady Chatterley's Lover,"D.H. Lawrence
@@ -260,9 +262,9 @@ LITERATURE_0129,"Ivan Turgenev
 1862",Fathers and Sons
 LITERATURE_0130,Fathers and Sons,"Ivan Turgenev
 1862"
-LITERATURE_0131,"Anton Chekov
+LITERATURE_0131,"Anton Chekhov
 1904",The Cherry Orchard
-LITERATURE_0132,The Cherry Orchard,"Anton Chekov
+LITERATURE_0132,The Cherry Orchard,"Anton Chekhov
 1904"
 LITERATURE_0133,"Margaret Mitchell
 1936",Gone with the Wind
