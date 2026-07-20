@@ -15,8 +15,8 @@ United States",Brazil (4/5) defeated Italy
 WORLD_CUP_0008,Brazil (4/5) defeated Italy,"1994
 United States"
 WORLD_CUP_0009,"2010
-South Africa",Spain (1/1) defeated the Netherlands
-WORLD_CUP_0010,Spain (1/1) defeated the Netherlands,"2010
+South Africa",Spain (1/2) defeated the Netherlands
+WORLD_CUP_0010,Spain (1/2) defeated the Netherlands,"2010
 South Africa"
 WORLD_CUP_0011,"2002
 South Korea / Japan",Brazil (5/5) defeated Germany
@@ -86,3 +86,7 @@ WORLD_CUP_0043,"1930
 Uruguay",Uruguay (1/2) defeated Argentina
 WORLD_CUP_0044,Uruguay (1/2) defeated Argentina,"1930
 Uruguay"
+WORLD_CUP_0045,"2026
+Canada / Mexico / United States",Spain (2/2) defeated Argentina
+WORLD_CUP_0046,Spain (2/2) defeated Argentina,"2026
+Canada / Mexico / United States"
