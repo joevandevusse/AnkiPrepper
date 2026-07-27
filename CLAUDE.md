@@ -21,10 +21,26 @@ Back sides are always clean — no category prefix. The front carries the label;
 
 For ranked lists (cities, countries by population/area): `Entry → #RANK · VALUE` and `#RANK → Entry · VALUE`. Drops value-as-front direction to avoid collisions when multiple entries share the same value.
 
+### Deck-name header format (preferred for new decks)
+
+A cleaner alternative to inline prefixes and `[Tag]` brackets: put the deck name as a persistent header on line 1 of the front, with the specific content (year or title) on line 2. The back is always the clean answer. This gives full context on every card without cluttering the answer-identifying content.
+
+```
+Front: Oscar Best Pictures    Back: No Country for Old Men
+       2007
+
+Front: Oscar Best Pictures    Back: 2007
+       No Country for Old Men
+```
+
+Decks converted to this format:
+- `oscar_best_pictures.csv`
+
 ### Examples by deck
 
 | Deck | Front pattern | Back pattern |
 |------|--------------|--------------|
+| Oscar Best Pictures | `Oscar Best Pictures\n2007` / `Oscar Best Pictures\nNo Country for Old Men` | clean title or year |
 | Oscar Best Actor | `Oscar Best Actor: 2021` | `Anthony Hopkins · The Father` |
 | Emmy Best Drama | `Emmy Best Drama: 2019` | `Game of Thrones` |
 | Heisman Winners | `Heisman: 2024` | `Travis Hunter (CB/WR)\nColorado (2/2)` |
