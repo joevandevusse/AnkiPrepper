@@ -1,0 +1,132 @@
+MONOPOLY_0001,Mediterranean Avenue,"Purple/Brown
+$60 (1/2)"
+MONOPOLY_0002,"Purple/Brown
+$60 (1/2)",Mediterranean Avenue
+MONOPOLY_0003,Baltic Avenue,"Purple/Brown 
+$60 (2/2)"
+MONOPOLY_0004,"Purple/Brown 
+$60 (2/2)",Baltic Avenue
+MONOPOLY_0005,Oriental Avenue,"Light Blue
+$100 (1/2)"
+MONOPOLY_0006,"Light Blue
+$100 (1/2)",Oriental Avenue
+MONOPOLY_0007,Vermont Avenue,"Light Blue
+$100 (2/2)"
+MONOPOLY_0008,"Light Blue
+$100 (2/2)",Vermont Avenue
+MONOPOLY_0009,Connecticut Avenue,"Light Blue 
+$120"
+MONOPOLY_0010,"Light Blue 
+$120",Connecticut Avenue
+MONOPOLY_0011,St. Charles Place,"Pink
+$140 (1/2)"
+MONOPOLY_0012,"Pink
+$140 (1/2)",St. Charles Place
+MONOPOLY_0013,States Avenue,"Pink
+$140 (2/2)"
+MONOPOLY_0014,"Pink
+$140 (2/2)",States Avenue
+MONOPOLY_0015,Virginia Avenue,"Pink
+$160"
+MONOPOLY_0016,"Pink
+$160",Virginia Avenue
+MONOPOLY_0017,St. James Place,"Orange
+$180 (1/2)"
+MONOPOLY_0018,"Orange
+$180 (1/2)",St. James Place
+MONOPOLY_0019,"Tennessee Avenue ","Orange
+$180 (2/2)"
+MONOPOLY_0020,"Orange
+$180 (2/2)","Tennessee Avenue "
+MONOPOLY_0021,New York Avenue,"Orange
+$200"
+MONOPOLY_0022,"Orange
+$200",New York Avenue
+MONOPOLY_0023,Kentucky Avenue,"Red
+$220 (1/2)"
+MONOPOLY_0024,"Red
+$220 (1/2)",Kentucky Avenue
+MONOPOLY_0025," Indiana Avenue","Red
+$220 (2/2)"
+MONOPOLY_0026,"Red
+$220 (2/2)"," Indiana Avenue"
+MONOPOLY_0027,Illinois Avenue,"Red 
+$240"
+MONOPOLY_0028,"Red 
+$240",Illinois Avenue
+MONOPOLY_0029,Atlantic Avenue,"Yellow
+$260 (1/2)"
+MONOPOLY_0030,"Yellow
+$260 (1/2)",Atlantic Avenue
+MONOPOLY_0031,Ventnor Avenue,"Yellow
+$260 (2/2)"
+MONOPOLY_0032,"Yellow
+$260 (2/2)",Ventnor Avenue
+MONOPOLY_0033,Marvin Gardens,"Yellow
+$280"
+MONOPOLY_0034,"Yellow
+$280",Marvin Gardens
+MONOPOLY_0035,Pacific Avenue,"Green
+$300 (1/2)"
+MONOPOLY_0036,"Green
+$300 (1/2)",Pacific Avenue
+MONOPOLY_0037,North Carolina Avenue,"Green
+$300 (2/2)"
+MONOPOLY_0038,"Green
+$300 (2/2)",North Carolina Avenue
+MONOPOLY_0039,Pennsylvania Avenue,"Green
+$320"
+MONOPOLY_0040,"Green
+$320",Pennsylvania Avenue
+MONOPOLY_0041,Park Place,"Blue
+$350"
+MONOPOLY_0042,"Blue
+$350",Park Place
+MONOPOLY_0043,Boardwalk,"Blue
+$400"
+MONOPOLY_0044,"Blue
+$400",Boardwalk
+MONOPOLY_0045,Reading,"Railroad (1/4)
+$200"
+MONOPOLY_0046,"Railroad (1/4)
+$200",Reading
+MONOPOLY_0047,Pennsylvania,"Railroad (2/4)
+$200"
+MONOPOLY_0048,"Railroad (2/4)
+$200",Pennsylvania
+MONOPOLY_0049,B&O,"Railroad (3/4)
+$200"
+MONOPOLY_0050,"Railroad (3/4)
+$200",B&O
+MONOPOLY_0051,Short Line,"Railroad (4/4)
+$200"
+MONOPOLY_0052,"Railroad (4/4)
+$200",Short Line
+MONOPOLY_0053,Income Tax,"Tax (1/2)
+10% or $200"
+MONOPOLY_0054,"Tax (1/2)
+10% or $200",Income Tax
+MONOPOLY_0055,"Electric Company ","Utility (1/2)
+$150"
+MONOPOLY_0056,"Utility (1/2)
+$150","Electric Company "
+MONOPOLY_0057,Water Works,"Utility (2/2)
+$150"
+MONOPOLY_0058,"Utility (2/2)
+$150",Water Works
+MONOPOLY_0059,Luxury Tax,"Tax (2/2)
+$75"
+MONOPOLY_0060,"Tax (2/2)
+$75",Luxury Tax
+MONOPOLY_0061,Starting Amount of Money,"$1500
+2: $500, $100, $50
+6: $20
+5: $10, $5, $1"
+MONOPOLY_0062,"$1500
+2: $500, $100, $50
+6: $20
+5: $10, $5, $1",Starting Amount of Money
+MONOPOLY_0063,Roll Doubles,"Roll Again
+3X: Go to Jail "
+MONOPOLY_0064,"Roll Again
+3X: Go to Jail ",Roll Doubles
