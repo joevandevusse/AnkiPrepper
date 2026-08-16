@@ -1,110 +1,220 @@
-US_STATE_TERRITORY_CAPITALS_0001,Indiana,Indianapolis
-US_STATE_TERRITORY_CAPITALS_0002,Indianapolis,Indiana
-US_STATE_TERRITORY_CAPITALS_0003,Texas,Austin
-US_STATE_TERRITORY_CAPITALS_0004,Austin,Texas
-US_STATE_TERRITORY_CAPITALS_0005,Oklahoma,Oklahoma City
-US_STATE_TERRITORY_CAPITALS_0006,Oklahoma City,Oklahoma
-US_STATE_TERRITORY_CAPITALS_0007,Massachusetts,Boston
-US_STATE_TERRITORY_CAPITALS_0008,Boston,Massachusetts
-US_STATE_TERRITORY_CAPITALS_0009,Alaska,Juneau
-US_STATE_TERRITORY_CAPITALS_0010,Juneau,Alaska
-US_STATE_TERRITORY_CAPITALS_0011,Colorado,Denver
-US_STATE_TERRITORY_CAPITALS_0012,Denver,Colorado
-US_STATE_TERRITORY_CAPITALS_0013,Hawaii,Honolulu
-US_STATE_TERRITORY_CAPITALS_0014,Honolulu,Hawaii
-US_STATE_TERRITORY_CAPITALS_0015,Ohio,Columbus
-US_STATE_TERRITORY_CAPITALS_0016,Columbus,Ohio
-US_STATE_TERRITORY_CAPITALS_0017,Illinois,Springfield
-US_STATE_TERRITORY_CAPITALS_0018,Springfield,Illinois
-US_STATE_TERRITORY_CAPITALS_0019,Arkansas,Little Rock
-US_STATE_TERRITORY_CAPITALS_0020,Little Rock,Arkansas
-US_STATE_TERRITORY_CAPITALS_0021,Georgia,Atlanta
-US_STATE_TERRITORY_CAPITALS_0022,Atlanta,Georgia
-US_STATE_TERRITORY_CAPITALS_0023,Minnesota,Saint Paul
-US_STATE_TERRITORY_CAPITALS_0024,Saint Paul,Minnesota
-US_STATE_TERRITORY_CAPITALS_0025,Tennessee,Nashville
-US_STATE_TERRITORY_CAPITALS_0026,Nashville,Tennessee
-US_STATE_TERRITORY_CAPITALS_0027,New York,Albany
-US_STATE_TERRITORY_CAPITALS_0028,Albany,New York
-US_STATE_TERRITORY_CAPITALS_0029,Nevada,Carson City
-US_STATE_TERRITORY_CAPITALS_0030,Carson City,Nevada
-US_STATE_TERRITORY_CAPITALS_0031,North Carolina,Raleigh
-US_STATE_TERRITORY_CAPITALS_0032,Raleigh,North Carolina
-US_STATE_TERRITORY_CAPITALS_0033,West Virginia,Charleston
-US_STATE_TERRITORY_CAPITALS_0034,Charleston,West Virginia
-US_STATE_TERRITORY_CAPITALS_0035,Wyoming,Cheyenne
-US_STATE_TERRITORY_CAPITALS_0036,Cheyenne,Wyoming
-US_STATE_TERRITORY_CAPITALS_0037,Maine,Augusta
-US_STATE_TERRITORY_CAPITALS_0038,Augusta,Maine
-US_STATE_TERRITORY_CAPITALS_0039,California,Sacramento
-US_STATE_TERRITORY_CAPITALS_0040,Sacramento,California
-US_STATE_TERRITORY_CAPITALS_0041,Wisconsin,Madison
-US_STATE_TERRITORY_CAPITALS_0042,Madison,Wisconsin
-US_STATE_TERRITORY_CAPITALS_0043,Utah,Salt Lake City
-US_STATE_TERRITORY_CAPITALS_0044,Salt Lake City,Utah
-US_STATE_TERRITORY_CAPITALS_0045,Arizona,Phoenix
-US_STATE_TERRITORY_CAPITALS_0046,Phoenix,Arizona
-US_STATE_TERRITORY_CAPITALS_0047,Rhode Island,Providence
-US_STATE_TERRITORY_CAPITALS_0048,Providence,Rhode Island
-US_STATE_TERRITORY_CAPITALS_0049,Vermont,Montpelier
-US_STATE_TERRITORY_CAPITALS_0050,Montpelier,Vermont
-US_STATE_TERRITORY_CAPITALS_0051,Kansas,Topeka
-US_STATE_TERRITORY_CAPITALS_0052,Topeka,Kansas
-US_STATE_TERRITORY_CAPITALS_0053,Nebraska,Lincoln
-US_STATE_TERRITORY_CAPITALS_0054,Lincoln,Nebraska
-US_STATE_TERRITORY_CAPITALS_0055,Florida,Tallahassee
-US_STATE_TERRITORY_CAPITALS_0056,Tallahassee,Florida
-US_STATE_TERRITORY_CAPITALS_0057,Idaho,Boise
-US_STATE_TERRITORY_CAPITALS_0058,Boise,Idaho
-US_STATE_TERRITORY_CAPITALS_0059,Mississippi,Jackson
-US_STATE_TERRITORY_CAPITALS_0060,Jackson,Mississippi
-US_STATE_TERRITORY_CAPITALS_0061,South Dakota,Pierre
-US_STATE_TERRITORY_CAPITALS_0062,Pierre,South Dakota
-US_STATE_TERRITORY_CAPITALS_0063,Iowa,Des Moines
-US_STATE_TERRITORY_CAPITALS_0064,Des Moines,Iowa
-US_STATE_TERRITORY_CAPITALS_0065,Montana,Helena
-US_STATE_TERRITORY_CAPITALS_0066,Helena,Montana
-US_STATE_TERRITORY_CAPITALS_0067,New Jersey,Trenton
-US_STATE_TERRITORY_CAPITALS_0068,Trenton,New Jersey
-US_STATE_TERRITORY_CAPITALS_0069,South Carolina,Columbia
-US_STATE_TERRITORY_CAPITALS_0070,Columbia,South Carolina
-US_STATE_TERRITORY_CAPITALS_0071,Washington,Olympia
-US_STATE_TERRITORY_CAPITALS_0072,Olympia,Washington
-US_STATE_TERRITORY_CAPITALS_0073,New Mexico,Santa Fe
-US_STATE_TERRITORY_CAPITALS_0074,Santa Fe,New Mexico
-US_STATE_TERRITORY_CAPITALS_0075,Louisiana,Baton Rouge
-US_STATE_TERRITORY_CAPITALS_0076,Baton Rouge,Louisiana
-US_STATE_TERRITORY_CAPITALS_0077,Missouri,Jefferson City
-US_STATE_TERRITORY_CAPITALS_0078,Jefferson City,Missouri
-US_STATE_TERRITORY_CAPITALS_0079,Delaware,Dover
-US_STATE_TERRITORY_CAPITALS_0080,Dover,Delaware
-US_STATE_TERRITORY_CAPITALS_0081,Michigan,Lansing
-US_STATE_TERRITORY_CAPITALS_0082,Lansing,Michigan
-US_STATE_TERRITORY_CAPITALS_0083,Oregon,Salem
-US_STATE_TERRITORY_CAPITALS_0084,Salem,Oregon
-US_STATE_TERRITORY_CAPITALS_0085,Alabama,Montgomery
-US_STATE_TERRITORY_CAPITALS_0086,Montgomery,Alabama
-US_STATE_TERRITORY_CAPITALS_0087,North Dakota,Bismarck
-US_STATE_TERRITORY_CAPITALS_0088,Bismarck,North Dakota
-US_STATE_TERRITORY_CAPITALS_0089,Maryland,Annapolis
-US_STATE_TERRITORY_CAPITALS_0090,Annapolis,Maryland
-US_STATE_TERRITORY_CAPITALS_0091,New Hampshire,Concord
-US_STATE_TERRITORY_CAPITALS_0092,Concord,New Hampshire
-US_STATE_TERRITORY_CAPITALS_0093,Virginia,Richmond
-US_STATE_TERRITORY_CAPITALS_0094,Richmond,Virginia
-US_STATE_TERRITORY_CAPITALS_0095,Connecticut,Hartford
-US_STATE_TERRITORY_CAPITALS_0096,Hartford,Connecticut
-US_STATE_TERRITORY_CAPITALS_0097,Pennsylvania,Harrisburg
-US_STATE_TERRITORY_CAPITALS_0098,Harrisburg,Pennsylvania
-US_STATE_TERRITORY_CAPITALS_0099,Kentucky,Frankfort
-US_STATE_TERRITORY_CAPITALS_0100,Frankfort,Kentucky
-US_STATE_TERRITORY_CAPITALS_0101,Puerto Rico,San Juan
-US_STATE_TERRITORY_CAPITALS_0102,San Juan,Puerto Rico
-US_STATE_TERRITORY_CAPITALS_0103,Guam,Hagatna
-US_STATE_TERRITORY_CAPITALS_0104,Hagatna,Guam
-US_STATE_TERRITORY_CAPITALS_0105,American Samoa,Pago Pago
-US_STATE_TERRITORY_CAPITALS_0106,Pago Pago,American Samoa
-US_STATE_TERRITORY_CAPITALS_0107,Northern Mariana Islands,Saipan
-US_STATE_TERRITORY_CAPITALS_0108,Saipan,Northern Mariana Islands
-US_STATE_TERRITORY_CAPITALS_0109,U.S. Virgin Islands,Charlotte Amalie
-US_STATE_TERRITORY_CAPITALS_0110,Charlotte Amalie,U.S. Virgin Islands
+US_STATE_TERRITORY_CAPITALS_0001,"US State & Territory Capitals
+Indiana",Indianapolis
+US_STATE_TERRITORY_CAPITALS_0002,"US State & Territory Capitals
+Indianapolis",Indiana
+US_STATE_TERRITORY_CAPITALS_0003,"US State & Territory Capitals
+Texas",Austin
+US_STATE_TERRITORY_CAPITALS_0004,"US State & Territory Capitals
+Austin",Texas
+US_STATE_TERRITORY_CAPITALS_0005,"US State & Territory Capitals
+Oklahoma",Oklahoma City
+US_STATE_TERRITORY_CAPITALS_0006,"US State & Territory Capitals
+Oklahoma City",Oklahoma
+US_STATE_TERRITORY_CAPITALS_0007,"US State & Territory Capitals
+Massachusetts",Boston
+US_STATE_TERRITORY_CAPITALS_0008,"US State & Territory Capitals
+Boston",Massachusetts
+US_STATE_TERRITORY_CAPITALS_0009,"US State & Territory Capitals
+Alaska",Juneau
+US_STATE_TERRITORY_CAPITALS_0010,"US State & Territory Capitals
+Juneau",Alaska
+US_STATE_TERRITORY_CAPITALS_0011,"US State & Territory Capitals
+Colorado",Denver
+US_STATE_TERRITORY_CAPITALS_0012,"US State & Territory Capitals
+Denver",Colorado
+US_STATE_TERRITORY_CAPITALS_0013,"US State & Territory Capitals
+Hawaii",Honolulu
+US_STATE_TERRITORY_CAPITALS_0014,"US State & Territory Capitals
+Honolulu",Hawaii
+US_STATE_TERRITORY_CAPITALS_0015,"US State & Territory Capitals
+Ohio",Columbus
+US_STATE_TERRITORY_CAPITALS_0016,"US State & Territory Capitals
+Columbus",Ohio
+US_STATE_TERRITORY_CAPITALS_0017,"US State & Territory Capitals
+Illinois",Springfield
+US_STATE_TERRITORY_CAPITALS_0018,"US State & Territory Capitals
+Springfield",Illinois
+US_STATE_TERRITORY_CAPITALS_0019,"US State & Territory Capitals
+Arkansas",Little Rock
+US_STATE_TERRITORY_CAPITALS_0020,"US State & Territory Capitals
+Little Rock",Arkansas
+US_STATE_TERRITORY_CAPITALS_0021,"US State & Territory Capitals
+Georgia",Atlanta
+US_STATE_TERRITORY_CAPITALS_0022,"US State & Territory Capitals
+Atlanta",Georgia
+US_STATE_TERRITORY_CAPITALS_0023,"US State & Territory Capitals
+Minnesota",Saint Paul
+US_STATE_TERRITORY_CAPITALS_0024,"US State & Territory Capitals
+Saint Paul",Minnesota
+US_STATE_TERRITORY_CAPITALS_0025,"US State & Territory Capitals
+Tennessee",Nashville
+US_STATE_TERRITORY_CAPITALS_0026,"US State & Territory Capitals
+Nashville",Tennessee
+US_STATE_TERRITORY_CAPITALS_0027,"US State & Territory Capitals
+New York",Albany
+US_STATE_TERRITORY_CAPITALS_0028,"US State & Territory Capitals
+Albany",New York
+US_STATE_TERRITORY_CAPITALS_0029,"US State & Territory Capitals
+Nevada",Carson City
+US_STATE_TERRITORY_CAPITALS_0030,"US State & Territory Capitals
+Carson City",Nevada
+US_STATE_TERRITORY_CAPITALS_0031,"US State & Territory Capitals
+North Carolina",Raleigh
+US_STATE_TERRITORY_CAPITALS_0032,"US State & Territory Capitals
+Raleigh",North Carolina
+US_STATE_TERRITORY_CAPITALS_0033,"US State & Territory Capitals
+West Virginia",Charleston
+US_STATE_TERRITORY_CAPITALS_0034,"US State & Territory Capitals
+Charleston",West Virginia
+US_STATE_TERRITORY_CAPITALS_0035,"US State & Territory Capitals
+Wyoming",Cheyenne
+US_STATE_TERRITORY_CAPITALS_0036,"US State & Territory Capitals
+Cheyenne",Wyoming
+US_STATE_TERRITORY_CAPITALS_0037,"US State & Territory Capitals
+Maine",Augusta
+US_STATE_TERRITORY_CAPITALS_0038,"US State & Territory Capitals
+Augusta",Maine
+US_STATE_TERRITORY_CAPITALS_0039,"US State & Territory Capitals
+California",Sacramento
+US_STATE_TERRITORY_CAPITALS_0040,"US State & Territory Capitals
+Sacramento",California
+US_STATE_TERRITORY_CAPITALS_0041,"US State & Territory Capitals
+Wisconsin",Madison
+US_STATE_TERRITORY_CAPITALS_0042,"US State & Territory Capitals
+Madison",Wisconsin
+US_STATE_TERRITORY_CAPITALS_0043,"US State & Territory Capitals
+Utah",Salt Lake City
+US_STATE_TERRITORY_CAPITALS_0044,"US State & Territory Capitals
+Salt Lake City",Utah
+US_STATE_TERRITORY_CAPITALS_0045,"US State & Territory Capitals
+Arizona",Phoenix
+US_STATE_TERRITORY_CAPITALS_0046,"US State & Territory Capitals
+Phoenix",Arizona
+US_STATE_TERRITORY_CAPITALS_0047,"US State & Territory Capitals
+Rhode Island",Providence
+US_STATE_TERRITORY_CAPITALS_0048,"US State & Territory Capitals
+Providence",Rhode Island
+US_STATE_TERRITORY_CAPITALS_0049,"US State & Territory Capitals
+Vermont",Montpelier
+US_STATE_TERRITORY_CAPITALS_0050,"US State & Territory Capitals
+Montpelier",Vermont
+US_STATE_TERRITORY_CAPITALS_0051,"US State & Territory Capitals
+Kansas",Topeka
+US_STATE_TERRITORY_CAPITALS_0052,"US State & Territory Capitals
+Topeka",Kansas
+US_STATE_TERRITORY_CAPITALS_0053,"US State & Territory Capitals
+Nebraska",Lincoln
+US_STATE_TERRITORY_CAPITALS_0054,"US State & Territory Capitals
+Lincoln",Nebraska
+US_STATE_TERRITORY_CAPITALS_0055,"US State & Territory Capitals
+Florida",Tallahassee
+US_STATE_TERRITORY_CAPITALS_0056,"US State & Territory Capitals
+Tallahassee",Florida
+US_STATE_TERRITORY_CAPITALS_0057,"US State & Territory Capitals
+Idaho",Boise
+US_STATE_TERRITORY_CAPITALS_0058,"US State & Territory Capitals
+Boise",Idaho
+US_STATE_TERRITORY_CAPITALS_0059,"US State & Territory Capitals
+Mississippi",Jackson
+US_STATE_TERRITORY_CAPITALS_0060,"US State & Territory Capitals
+Jackson",Mississippi
+US_STATE_TERRITORY_CAPITALS_0061,"US State & Territory Capitals
+South Dakota",Pierre
+US_STATE_TERRITORY_CAPITALS_0062,"US State & Territory Capitals
+Pierre",South Dakota
+US_STATE_TERRITORY_CAPITALS_0063,"US State & Territory Capitals
+Iowa",Des Moines
+US_STATE_TERRITORY_CAPITALS_0064,"US State & Territory Capitals
+Des Moines",Iowa
+US_STATE_TERRITORY_CAPITALS_0065,"US State & Territory Capitals
+Montana",Helena
+US_STATE_TERRITORY_CAPITALS_0066,"US State & Territory Capitals
+Helena",Montana
+US_STATE_TERRITORY_CAPITALS_0067,"US State & Territory Capitals
+New Jersey",Trenton
+US_STATE_TERRITORY_CAPITALS_0068,"US State & Territory Capitals
+Trenton",New Jersey
+US_STATE_TERRITORY_CAPITALS_0069,"US State & Territory Capitals
+South Carolina",Columbia
+US_STATE_TERRITORY_CAPITALS_0070,"US State & Territory Capitals
+Columbia",South Carolina
+US_STATE_TERRITORY_CAPITALS_0071,"US State & Territory Capitals
+Washington",Olympia
+US_STATE_TERRITORY_CAPITALS_0072,"US State & Territory Capitals
+Olympia",Washington
+US_STATE_TERRITORY_CAPITALS_0073,"US State & Territory Capitals
+New Mexico",Santa Fe
+US_STATE_TERRITORY_CAPITALS_0074,"US State & Territory Capitals
+Santa Fe",New Mexico
+US_STATE_TERRITORY_CAPITALS_0075,"US State & Territory Capitals
+Louisiana",Baton Rouge
+US_STATE_TERRITORY_CAPITALS_0076,"US State & Territory Capitals
+Baton Rouge",Louisiana
+US_STATE_TERRITORY_CAPITALS_0077,"US State & Territory Capitals
+Missouri",Jefferson City
+US_STATE_TERRITORY_CAPITALS_0078,"US State & Territory Capitals
+Jefferson City",Missouri
+US_STATE_TERRITORY_CAPITALS_0079,"US State & Territory Capitals
+Delaware",Dover
+US_STATE_TERRITORY_CAPITALS_0080,"US State & Territory Capitals
+Dover",Delaware
+US_STATE_TERRITORY_CAPITALS_0081,"US State & Territory Capitals
+Michigan",Lansing
+US_STATE_TERRITORY_CAPITALS_0082,"US State & Territory Capitals
+Lansing",Michigan
+US_STATE_TERRITORY_CAPITALS_0083,"US State & Territory Capitals
+Oregon",Salem
+US_STATE_TERRITORY_CAPITALS_0084,"US State & Territory Capitals
+Salem",Oregon
+US_STATE_TERRITORY_CAPITALS_0085,"US State & Territory Capitals
+Alabama",Montgomery
+US_STATE_TERRITORY_CAPITALS_0086,"US State & Territory Capitals
+Montgomery",Alabama
+US_STATE_TERRITORY_CAPITALS_0087,"US State & Territory Capitals
+North Dakota",Bismarck
+US_STATE_TERRITORY_CAPITALS_0088,"US State & Territory Capitals
+Bismarck",North Dakota
+US_STATE_TERRITORY_CAPITALS_0089,"US State & Territory Capitals
+Maryland",Annapolis
+US_STATE_TERRITORY_CAPITALS_0090,"US State & Territory Capitals
+Annapolis",Maryland
+US_STATE_TERRITORY_CAPITALS_0091,"US State & Territory Capitals
+New Hampshire",Concord
+US_STATE_TERRITORY_CAPITALS_0092,"US State & Territory Capitals
+Concord",New Hampshire
+US_STATE_TERRITORY_CAPITALS_0093,"US State & Territory Capitals
+Virginia",Richmond
+US_STATE_TERRITORY_CAPITALS_0094,"US State & Territory Capitals
+Richmond",Virginia
+US_STATE_TERRITORY_CAPITALS_0095,"US State & Territory Capitals
+Connecticut",Hartford
+US_STATE_TERRITORY_CAPITALS_0096,"US State & Territory Capitals
+Hartford",Connecticut
+US_STATE_TERRITORY_CAPITALS_0097,"US State & Territory Capitals
+Pennsylvania",Harrisburg
+US_STATE_TERRITORY_CAPITALS_0098,"US State & Territory Capitals
+Harrisburg",Pennsylvania
+US_STATE_TERRITORY_CAPITALS_0099,"US State & Territory Capitals
+Kentucky",Frankfort
+US_STATE_TERRITORY_CAPITALS_0100,"US State & Territory Capitals
+Frankfort",Kentucky
+US_STATE_TERRITORY_CAPITALS_0101,"US State & Territory Capitals
+Puerto Rico",San Juan
+US_STATE_TERRITORY_CAPITALS_0102,"US State & Territory Capitals
+San Juan",Puerto Rico
+US_STATE_TERRITORY_CAPITALS_0103,"US State & Territory Capitals
+Guam",Hagatna
+US_STATE_TERRITORY_CAPITALS_0104,"US State & Territory Capitals
+Hagatna",Guam
+US_STATE_TERRITORY_CAPITALS_0105,"US State & Territory Capitals
+American Samoa",Pago Pago
+US_STATE_TERRITORY_CAPITALS_0106,"US State & Territory Capitals
+Pago Pago",American Samoa
+US_STATE_TERRITORY_CAPITALS_0107,"US State & Territory Capitals
+Northern Mariana Islands",Saipan
+US_STATE_TERRITORY_CAPITALS_0108,"US State & Territory Capitals
+Saipan",Northern Mariana Islands
+US_STATE_TERRITORY_CAPITALS_0109,"US State & Territory Capitals
+U.S. Virgin Islands",Charlotte Amalie
+US_STATE_TERRITORY_CAPITALS_0110,"US State & Territory Capitals
+Charlotte Amalie",U.S. Virgin Islands

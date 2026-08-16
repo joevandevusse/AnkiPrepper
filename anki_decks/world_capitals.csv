@@ -1,410 +1,820 @@
-WORLD_CAPITALS_0001,Kuwait,Kuwait City
-WORLD_CAPITALS_0002,Kuwait City,Kuwait
-WORLD_CAPITALS_0003,Austria,Vienna
-WORLD_CAPITALS_0004,Vienna,Austria
-WORLD_CAPITALS_0005,Sao Tome and Principe,Sao Tome
-WORLD_CAPITALS_0006,Sao Tome,Sao Tome and Principe
-WORLD_CAPITALS_0007,Belize,Belmopan
-WORLD_CAPITALS_0008,Belmopan,Belize
-WORLD_CAPITALS_0009,England,London
-WORLD_CAPITALS_0010,London,England
-WORLD_CAPITALS_0011,Guinea-Bissau,Bissau
-WORLD_CAPITALS_0012,Bissau,Guinea-Bissau
-WORLD_CAPITALS_0013,Australia,Canberra
-WORLD_CAPITALS_0014,Canberra,Australia
-WORLD_CAPITALS_0015,Palestine,Jerusalem (Ramallah)
-WORLD_CAPITALS_0016,Jerusalem (Ramallah),Palestine
-WORLD_CAPITALS_0017,China,Beijing
-WORLD_CAPITALS_0018,Beijing,China
-WORLD_CAPITALS_0019,Canada,Ottawa
-WORLD_CAPITALS_0020,Ottawa,Canada
-WORLD_CAPITALS_0021,India,New Delhi
-WORLD_CAPITALS_0022,New Delhi,India
-WORLD_CAPITALS_0023,Iraq,Baghdad
-WORLD_CAPITALS_0024,Baghdad,Iraq
-WORLD_CAPITALS_0025,Luxembourg,Luxembourg
-WORLD_CAPITALS_0026,Luxembourg,Luxembourg
-WORLD_CAPITALS_0027,Iceland,Reykjavik
-WORLD_CAPITALS_0028,Reykjavik,Iceland
-WORLD_CAPITALS_0029,Israel,Jerusalem
-WORLD_CAPITALS_0030,Jerusalem,Israel
-WORLD_CAPITALS_0031,San Marino,San Marino
-WORLD_CAPITALS_0032,San Marino,San Marino
-WORLD_CAPITALS_0033,Cuba,Havana
-WORLD_CAPITALS_0034,Havana,Cuba
-WORLD_CAPITALS_0035,Germany,Berlin
-WORLD_CAPITALS_0036,Berlin,Germany
-WORLD_CAPITALS_0037,Guatemala,Guatemala City
-WORLD_CAPITALS_0038,Guatemala City,Guatemala
-WORLD_CAPITALS_0039,Ireland,Dublin
-WORLD_CAPITALS_0040,Dublin,Ireland
-WORLD_CAPITALS_0041,Northern Ireland,Belfast
-WORLD_CAPITALS_0042,Belfast,Northern Ireland
-WORLD_CAPITALS_0043,Netherlands,Amsterdam
-WORLD_CAPITALS_0044,Amsterdam,Netherlands
-WORLD_CAPITALS_0045,Andorra,Andorra la Vella
-WORLD_CAPITALS_0046,Andorra la Vella,Andorra
-WORLD_CAPITALS_0047,Tunisia,Tunis
-WORLD_CAPITALS_0048,Tunis,Tunisia
-WORLD_CAPITALS_0049,Singapore,Singapore
-WORLD_CAPITALS_0050,Singapore,Singapore
-WORLD_CAPITALS_0051,Argentina,Buenos Aires
-WORLD_CAPITALS_0052,Buenos Aires,Argentina
-WORLD_CAPITALS_0053,Cambodia,Phnom Penh
-WORLD_CAPITALS_0054,Phnom Penh,Cambodia
-WORLD_CAPITALS_0055,Taiwan,Taipei
-WORLD_CAPITALS_0056,Taipei,Taiwan
-WORLD_CAPITALS_0057,United States,Washington D.C.
-WORLD_CAPITALS_0058,Washington D.C.,United States
-WORLD_CAPITALS_0059,Croatia,Zagreb
-WORLD_CAPITALS_0060,Zagreb,Croatia
-WORLD_CAPITALS_0061,Thailand,Bangkok
-WORLD_CAPITALS_0062,Bangkok,Thailand
-WORLD_CAPITALS_0063,Panama,Panama City
-WORLD_CAPITALS_0064,Panama City,Panama
-WORLD_CAPITALS_0065,Egypt,Cairo
-WORLD_CAPITALS_0066,Cairo,Egypt
-WORLD_CAPITALS_0067,Mexico,Mexico City
-WORLD_CAPITALS_0068,Mexico City,Mexico
-WORLD_CAPITALS_0069,Poland,Warsaw
-WORLD_CAPITALS_0070,Warsaw,Poland
-WORLD_CAPITALS_0071,Sweden,Stockholm
-WORLD_CAPITALS_0072,Stockholm,Sweden
-WORLD_CAPITALS_0073,Monaco,Monaco
-WORLD_CAPITALS_0074,Monaco,Monaco
-WORLD_CAPITALS_0075,New Zealand,Wellington
-WORLD_CAPITALS_0076,Wellington,New Zealand
-WORLD_CAPITALS_0077,Philippines,Manila
-WORLD_CAPITALS_0078,Manila,Philippines
-WORLD_CAPITALS_0079,Spain,Madrid
-WORLD_CAPITALS_0080,Madrid,Spain
-WORLD_CAPITALS_0081,United Kingdom,London
-WORLD_CAPITALS_0082,London,United Kingdom
-WORLD_CAPITALS_0083,Portugal,Lisbon
-WORLD_CAPITALS_0084,Lisbon,Portugal
-WORLD_CAPITALS_0085,Algeria,Algiers
-WORLD_CAPITALS_0086,Algiers,Algeria
-WORLD_CAPITALS_0087,El Salvador,San Salvador
-WORLD_CAPITALS_0088,San Salvador,El Salvador
-WORLD_CAPITALS_0089,Greece,Athens
-WORLD_CAPITALS_0090,Athens,Greece
-WORLD_CAPITALS_0091,North Korea,Pyongyang
-WORLD_CAPITALS_0092,Pyongyang,North Korea
-WORLD_CAPITALS_0093,Vatican City,Vatican City
-WORLD_CAPITALS_0094,Vatican City,Vatican City
-WORLD_CAPITALS_0095,Switzerland,Bern
-WORLD_CAPITALS_0096,Bern,Switzerland
-WORLD_CAPITALS_0097,Italy,Rome
-WORLD_CAPITALS_0098,Rome,Italy
-WORLD_CAPITALS_0099,Bolivia,La Paz (administrative) Sucre (official)
-WORLD_CAPITALS_0100,La Paz (administrative) Sucre (official),Bolivia
-WORLD_CAPITALS_0101,Slovenia,Ljubljana
-WORLD_CAPITALS_0102,Ljubljana,Slovenia
-WORLD_CAPITALS_0103,Jamaica,Kingston
-WORLD_CAPITALS_0104,Kingston,Jamaica
-WORLD_CAPITALS_0105,Malta,Valletta
-WORLD_CAPITALS_0106,Valletta,Malta
-WORLD_CAPITALS_0107,Qatar,Doha
-WORLD_CAPITALS_0108,Doha,Qatar
-WORLD_CAPITALS_0109,Japan,Tokyo
-WORLD_CAPITALS_0110,Tokyo,Japan
-WORLD_CAPITALS_0111,Togo,Lome
-WORLD_CAPITALS_0112,Lome,Togo
-WORLD_CAPITALS_0113,Ukraine,Kyiv (Kiev)
-WORLD_CAPITALS_0114,Kyiv (Kiev),Ukraine
-WORLD_CAPITALS_0115,Morocco,Rabat
-WORLD_CAPITALS_0116,Rabat,Morocco
-WORLD_CAPITALS_0117,Serbia,Belgrade
-WORLD_CAPITALS_0118,Belgrade,Serbia
-WORLD_CAPITALS_0119,Zimbabwe,Harare
-WORLD_CAPITALS_0120,Harare,Zimbabwe
-WORLD_CAPITALS_0121,Albania,Tirana
-WORLD_CAPITALS_0122,Tirana,Albania
-WORLD_CAPITALS_0123,Maldives,Male
-WORLD_CAPITALS_0124,Male,Maldives
-WORLD_CAPITALS_0125,Paraguay,Asuncion
-WORLD_CAPITALS_0126,Asuncion,Paraguay
-WORLD_CAPITALS_0127,Kazakhstan,Astana
-WORLD_CAPITALS_0128,Astana,Kazakhstan
-WORLD_CAPITALS_0129,Myanmar (Burma),Naypyidaw
-WORLD_CAPITALS_0130,Naypyidaw,Myanmar (Burma)
-WORLD_CAPITALS_0131,Russia,Moscow
-WORLD_CAPITALS_0132,Moscow,Russia
-WORLD_CAPITALS_0133,South Sudan,Juba
-WORLD_CAPITALS_0134,Juba,South Sudan
-WORLD_CAPITALS_0135,Tanzania,Dodoma
-WORLD_CAPITALS_0136,Dodoma,Tanzania
-WORLD_CAPITALS_0137,France,Paris
-WORLD_CAPITALS_0138,Paris,France
-WORLD_CAPITALS_0139,Republic of the Congo,Brazzaville
-WORLD_CAPITALS_0140,Brazzaville,Republic of the Congo
-WORLD_CAPITALS_0141,Cote d'Ivoire (Ivory Coast),Yamoussoukro
-WORLD_CAPITALS_0142,Yamoussoukro,Cote d'Ivoire (Ivory Coast)
-WORLD_CAPITALS_0143,Guinea,Conakry
-WORLD_CAPITALS_0144,Conakry,Guinea
-WORLD_CAPITALS_0145,Laos,Vientiane
-WORLD_CAPITALS_0146,Vientiane,Laos
-WORLD_CAPITALS_0147,Latvia,Riga
-WORLD_CAPITALS_0148,Riga,Latvia
-WORLD_CAPITALS_0149,Liechtenstein,Vaduz
-WORLD_CAPITALS_0150,Vaduz,Liechtenstein
-WORLD_CAPITALS_0151,Azerbaijan,Baku
-WORLD_CAPITALS_0152,Baku,Azerbaijan
-WORLD_CAPITALS_0153,Lebanon,Beirut
-WORLD_CAPITALS_0154,Beirut,Lebanon
-WORLD_CAPITALS_0155,Hungary,Budapest
-WORLD_CAPITALS_0156,Budapest,Hungary
-WORLD_CAPITALS_0157,Ethiopia,Addis Ababa
-WORLD_CAPITALS_0158,Addis Ababa,Ethiopia
-WORLD_CAPITALS_0159,Saudi Arabia,Riyadh
-WORLD_CAPITALS_0160,Riyadh,Saudi Arabia
-WORLD_CAPITALS_0161,Somalia,Mogadishu
-WORLD_CAPITALS_0162,Mogadishu,Somalia
-WORLD_CAPITALS_0163,Haiti,Port au Prince
-WORLD_CAPITALS_0164,Port au Prince,Haiti
-WORLD_CAPITALS_0165,Kyrgyzstan,Bishkek
-WORLD_CAPITALS_0166,Bishkek,Kyrgyzstan
-WORLD_CAPITALS_0167,Samoa,Apia
-WORLD_CAPITALS_0168,Apia,Samoa
-WORLD_CAPITALS_0169,Vietnam,Hanoi
-WORLD_CAPITALS_0170,Hanoi,Vietnam
-WORLD_CAPITALS_0171,Libya,Tripoli
-WORLD_CAPITALS_0172,Tripoli,Libya
-WORLD_CAPITALS_0173,Jordan,Amman
-WORLD_CAPITALS_0174,Amman,Jordan
-WORLD_CAPITALS_0175,Norway,Oslo
-WORLD_CAPITALS_0176,Oslo,Norway
-WORLD_CAPITALS_0177,Djibouti,Djibouti
-WORLD_CAPITALS_0178,Djibouti,Djibouti
-WORLD_CAPITALS_0179,Georgia,Tbilisi
-WORLD_CAPITALS_0180,Tbilisi,Georgia
-WORLD_CAPITALS_0181,Honduras,Tegucigalpa
-WORLD_CAPITALS_0182,Tegucigalpa,Honduras
-WORLD_CAPITALS_0183,East Timor,Dili
-WORLD_CAPITALS_0184,Dili,East Timor
-WORLD_CAPITALS_0185,Finland,Helsinki
-WORLD_CAPITALS_0186,Helsinki,Finland
-WORLD_CAPITALS_0187,Uganda,Kampala
-WORLD_CAPITALS_0188,Kampala,Uganda
-WORLD_CAPITALS_0189,Ecuador,Quito
-WORLD_CAPITALS_0190,Quito,Ecuador
-WORLD_CAPITALS_0191,Kiribati,Tarawa Atoll
-WORLD_CAPITALS_0192,Tarawa Atoll,Kiribati
-WORLD_CAPITALS_0193,United Arab Emirates,Abu Dhabi
-WORLD_CAPITALS_0194,Abu Dhabi,United Arab Emirates
-WORLD_CAPITALS_0195,Armenia,Yerevan
-WORLD_CAPITALS_0196,Yerevan,Armenia
-WORLD_CAPITALS_0197,Sri Lanka,"Colombo (executive, judicial), Sri Jayawardenapura Kotte (legislative)"
-WORLD_CAPITALS_0198,"Colombo (executive, judicial), Sri Jayawardenapura Kotte (legislative)",Sri Lanka
-WORLD_CAPITALS_0199,Liberia,Monrovia
-WORLD_CAPITALS_0200,Monrovia,Liberia
-WORLD_CAPITALS_0201,Grenada,Saint George's
-WORLD_CAPITALS_0202,Saint George's,Grenada
-WORLD_CAPITALS_0203,Benin,Porto Novo
-WORLD_CAPITALS_0204,Porto Novo,Benin
-WORLD_CAPITALS_0205,Costa Rica,San Jose
-WORLD_CAPITALS_0206,San Jose,Costa Rica
-WORLD_CAPITALS_0207,Equatorial Guinea,Malabo
-WORLD_CAPITALS_0208,Malabo,Equatorial Guinea
-WORLD_CAPITALS_0209,Mongolia,Ulaanbaatar
-WORLD_CAPITALS_0210,Ulaanbaatar,Mongolia
-WORLD_CAPITALS_0211,Nicaragua,Managua
-WORLD_CAPITALS_0212,Managua,Nicaragua
-WORLD_CAPITALS_0213,Malaysia,Kuala Lumpur
-WORLD_CAPITALS_0214,Kuala Lumpur,Malaysia
-WORLD_CAPITALS_0215,South Korea,Seoul
-WORLD_CAPITALS_0216,Seoul,South Korea
-WORLD_CAPITALS_0217,Guyana,Georgetown
-WORLD_CAPITALS_0218,Georgetown,Guyana
-WORLD_CAPITALS_0219,Pakistan,Islamabad
-WORLD_CAPITALS_0220,Islamabad,Pakistan
-WORLD_CAPITALS_0221,Lithuania,Vilnius
-WORLD_CAPITALS_0222,Vilnius,Lithuania
-WORLD_CAPITALS_0223,Romania,Bucharest
-WORLD_CAPITALS_0224,Bucharest,Romania
-WORLD_CAPITALS_0225,Dominican Republic,Santo Domingo
-WORLD_CAPITALS_0226,Santo Domingo,Dominican Republic
-WORLD_CAPITALS_0227,Solomon Islands,Honiara
-WORLD_CAPITALS_0228,Honiara,Solomon Islands
-WORLD_CAPITALS_0229,Brazil,Brasilia
-WORLD_CAPITALS_0230,Brasilia,Brazil
-WORLD_CAPITALS_0231,Indonesia,Jakarta (Nusantara planned)
-WORLD_CAPITALS_0232,Jakarta (Nusantara planned),Indonesia
-WORLD_CAPITALS_0233,Kenya,Nairobi
-WORLD_CAPITALS_0234,Nairobi,Kenya
-WORLD_CAPITALS_0235,Afghanistan,Kabul
-WORLD_CAPITALS_0236,Kabul,Afghanistan
-WORLD_CAPITALS_0237,Bulgaria,Sofia
-WORLD_CAPITALS_0238,Sofia,Bulgaria
-WORLD_CAPITALS_0239,Niger,Niamey
-WORLD_CAPITALS_0240,Niamey,Niger
-WORLD_CAPITALS_0241,Scotland,Edinburgh
-WORLD_CAPITALS_0242,Edinburgh,Scotland
-WORLD_CAPITALS_0243,Marshall Islands,Majuro
-WORLD_CAPITALS_0244,Majuro,Marshall Islands
-WORLD_CAPITALS_0245,Antigua and Barbuda,Saint John's
-WORLD_CAPITALS_0246,Saint John's,Antigua and Barbuda
-WORLD_CAPITALS_0247,Bahamas,Nassau
-WORLD_CAPITALS_0248,Nassau,Bahamas
-WORLD_CAPITALS_0249,Denmark,Copenhagen
-WORLD_CAPITALS_0250,Copenhagen,Denmark
-WORLD_CAPITALS_0251,Eswatini (Swaziland),Mbabane
-WORLD_CAPITALS_0252,Mbabane,Eswatini (Swaziland)
-WORLD_CAPITALS_0253,Malawi,Lilongwe
-WORLD_CAPITALS_0254,Lilongwe,Malawi
-WORLD_CAPITALS_0255,Sierra Leone,Freetown
-WORLD_CAPITALS_0256,Freetown,Sierra Leone
-WORLD_CAPITALS_0257,Nauru,No Official Capital (Yaren)
-WORLD_CAPITALS_0258,No Official Capital (Yaren),Nauru
-WORLD_CAPITALS_0259,Papua New Guinea,Port Moresby
-WORLD_CAPITALS_0260,Port Moresby,Papua New Guinea
-WORLD_CAPITALS_0261,Suriname,Paramaribo
-WORLD_CAPITALS_0262,Paramaribo,Suriname
-WORLD_CAPITALS_0263,Botswana,Gaborone
-WORLD_CAPITALS_0264,Gaborone,Botswana
-WORLD_CAPITALS_0265,Czech Republic (Czechia),Prague
-WORLD_CAPITALS_0266,Prague,Czech Republic (Czechia)
-WORLD_CAPITALS_0267,Kosovo,Pristina
-WORLD_CAPITALS_0268,Pristina,Kosovo
-WORLD_CAPITALS_0269,Lesotho,Maseru
-WORLD_CAPITALS_0270,Maseru,Lesotho
-WORLD_CAPITALS_0271,Sudan,Khartoum
-WORLD_CAPITALS_0272,Khartoum,Sudan
-WORLD_CAPITALS_0273,Bangladesh,Dhaka
-WORLD_CAPITALS_0274,Dhaka,Bangladesh
-WORLD_CAPITALS_0275,Yemen,Sana'a
-WORLD_CAPITALS_0276,Sana'a,Yemen
-WORLD_CAPITALS_0277,Zambia,Lusaka
-WORLD_CAPITALS_0278,Lusaka,Zambia
-WORLD_CAPITALS_0279,Chad,N'Djamena
-WORLD_CAPITALS_0280,N'Djamena,Chad
-WORLD_CAPITALS_0281,Chile,Santiago
-WORLD_CAPITALS_0282,Santiago,Chile
-WORLD_CAPITALS_0283,Iran,Tehran
-WORLD_CAPITALS_0284,Tehran,Iran
-WORLD_CAPITALS_0285,Mauritania,Nouakchott
-WORLD_CAPITALS_0286,Nouakchott,Mauritania
-WORLD_CAPITALS_0287,Saint Lucia,Castries
-WORLD_CAPITALS_0288,Castries,Saint Lucia
-WORLD_CAPITALS_0289,Turkmenistan,Ashgabat
-WORLD_CAPITALS_0290,Ashgabat,Turkmenistan
-WORLD_CAPITALS_0291,Brunei,Bandar Seri Begawan
-WORLD_CAPITALS_0292,Bandar Seri Begawan,Brunei
-WORLD_CAPITALS_0293,Federated States of Micronesia,Palikir
-WORLD_CAPITALS_0294,Palikir,Federated States of Micronesia
-WORLD_CAPITALS_0295,Ghana,Accra
-WORLD_CAPITALS_0296,Accra,Ghana
-WORLD_CAPITALS_0297,Saint Kitts and Nevis,Basseterre
-WORLD_CAPITALS_0298,Basseterre,Saint Kitts and Nevis
-WORLD_CAPITALS_0299,Slovakia,Bratislava
-WORLD_CAPITALS_0300,Bratislava,Slovakia
-WORLD_CAPITALS_0301,Uruguay,Montevideo
-WORLD_CAPITALS_0302,Montevideo,Uruguay
-WORLD_CAPITALS_0303,Bhutan,Thimphu
-WORLD_CAPITALS_0304,Thimphu,Bhutan
-WORLD_CAPITALS_0305,Gabon,Libreville
-WORLD_CAPITALS_0306,Libreville,Gabon
-WORLD_CAPITALS_0307,Nigeria,Abuja
-WORLD_CAPITALS_0308,Abuja,Nigeria
-WORLD_CAPITALS_0309,North Macedonia (Macedonia),Skopje
-WORLD_CAPITALS_0310,Skopje,North Macedonia (Macedonia)
-WORLD_CAPITALS_0311,Tajikistan,Dushanbe
-WORLD_CAPITALS_0312,Dushanbe,Tajikistan
-WORLD_CAPITALS_0313,Turkiye (Turkey),Ankara
-WORLD_CAPITALS_0314,Ankara,Turkiye (Turkey)
-WORLD_CAPITALS_0315,Madagascar,Antananarivo
-WORLD_CAPITALS_0316,Antananarivo,Madagascar
-WORLD_CAPITALS_0317,Mauritius,Port Louis
-WORLD_CAPITALS_0318,Port Louis,Mauritius
-WORLD_CAPITALS_0319,Montenegro,Podgorica
-WORLD_CAPITALS_0320,Podgorica,Montenegro
-WORLD_CAPITALS_0321,Mozambique,Maputo
-WORLD_CAPITALS_0322,Maputo,Mozambique
-WORLD_CAPITALS_0323,Venezuela,Caracas
-WORLD_CAPITALS_0324,Caracas,Venezuela
-WORLD_CAPITALS_0325,Democratic Republic of the Congo,Kinshasa
-WORLD_CAPITALS_0326,Kinshasa,Democratic Republic of the Congo
-WORLD_CAPITALS_0327,Rwanda,Kigali
-WORLD_CAPITALS_0328,Kigali,Rwanda
-WORLD_CAPITALS_0329,Comoros,Moroni
-WORLD_CAPITALS_0330,Moroni,Comoros
-WORLD_CAPITALS_0331,Dominica,Roseau
-WORLD_CAPITALS_0332,Roseau,Dominica
-WORLD_CAPITALS_0333,Fiji,Suva
-WORLD_CAPITALS_0334,Suva,Fiji
-WORLD_CAPITALS_0335,Namibia,Windhoek
-WORLD_CAPITALS_0336,Windhoek,Namibia
-WORLD_CAPITALS_0337,Senegal,Dakar
-WORLD_CAPITALS_0338,Dakar,Senegal
-WORLD_CAPITALS_0339,Trinidad and Tobago,Port of Spain
-WORLD_CAPITALS_0340,Port of Spain,Trinidad and Tobago
-WORLD_CAPITALS_0341,Angola,Luanda
-WORLD_CAPITALS_0342,Luanda,Angola
-WORLD_CAPITALS_0343,Syria,Damascus
-WORLD_CAPITALS_0344,Damascus,Syria
-WORLD_CAPITALS_0345,Burkina Faso,Ouagadougou
-WORLD_CAPITALS_0346,Ouagadougou,Burkina Faso
-WORLD_CAPITALS_0347,Saint Vincent and the Grenadines,Kingstown
-WORLD_CAPITALS_0348,Kingstown,Saint Vincent and the Grenadines
-WORLD_CAPITALS_0349,Colombia,Bogota
-WORLD_CAPITALS_0350,Bogota,Colombia
-WORLD_CAPITALS_0351,Wales,Cardiff
-WORLD_CAPITALS_0352,Cardiff,Wales
-WORLD_CAPITALS_0353,Bahrain,Manama
-WORLD_CAPITALS_0354,Manama,Bahrain
-WORLD_CAPITALS_0355,Burundi,Gitega
-WORLD_CAPITALS_0356,Gitega,Burundi
-WORLD_CAPITALS_0357,Oman,Muscat
-WORLD_CAPITALS_0358,Muscat,Oman
-WORLD_CAPITALS_0359,South Africa,"Pretoria (administrative), Cape Town (legislative), Bloemfontein (judicial)"
-WORLD_CAPITALS_0360,"Pretoria (administrative), Cape Town (legislative), Bloemfontein (judicial)",South Africa
-WORLD_CAPITALS_0361,Eritrea,Asmara
-WORLD_CAPITALS_0362,Asmara,Eritrea
-WORLD_CAPITALS_0363,Uzbekistan,Tashkent
-WORLD_CAPITALS_0364,Tashkent,Uzbekistan
-WORLD_CAPITALS_0365,Bosnia and Herzegovina,Sarajevo
-WORLD_CAPITALS_0366,Sarajevo,Bosnia and Herzegovina
-WORLD_CAPITALS_0367,Cyprus,Nicosia
-WORLD_CAPITALS_0368,Nicosia,Cyprus
-WORLD_CAPITALS_0369,Estonia,Tallinn
-WORLD_CAPITALS_0370,Tallinn,Estonia
-WORLD_CAPITALS_0371,Seychelles,Victoria
-WORLD_CAPITALS_0372,Victoria,Seychelles
-WORLD_CAPITALS_0373,Barbados,Bridgetown
-WORLD_CAPITALS_0374,Bridgetown,Barbados
-WORLD_CAPITALS_0375,The Gambia,Banjul
-WORLD_CAPITALS_0376,Banjul,The Gambia
-WORLD_CAPITALS_0377,Moldova,Chisinau
-WORLD_CAPITALS_0378,Chisinau,Moldova
-WORLD_CAPITALS_0379,Nepal,Kathmandu
-WORLD_CAPITALS_0380,Kathmandu,Nepal
-WORLD_CAPITALS_0381,Cape Verde,Praia
-WORLD_CAPITALS_0382,Praia,Cape Verde
-WORLD_CAPITALS_0383,Central African Republic,Bangui
-WORLD_CAPITALS_0384,Bangui,Central African Republic
-WORLD_CAPITALS_0385,Tonga,Nuku'alofa
-WORLD_CAPITALS_0386,Nuku'alofa,Tonga
-WORLD_CAPITALS_0387,Tuvalu,Funafuti
-WORLD_CAPITALS_0388,Funafuti,Tuvalu
-WORLD_CAPITALS_0389,Vanuatu,Port Vila
-WORLD_CAPITALS_0390,Port Vila,Vanuatu
-WORLD_CAPITALS_0391,Mali,Bamako
-WORLD_CAPITALS_0392,Bamako,Mali
-WORLD_CAPITALS_0393,Palau,Ngerulmud
-WORLD_CAPITALS_0394,Ngerulmud,Palau
-WORLD_CAPITALS_0395,Cameroon,Yaounde
-WORLD_CAPITALS_0396,Yaounde,Cameroon
-WORLD_CAPITALS_0397,Peru,Lima
-WORLD_CAPITALS_0398,Lima,Peru
-WORLD_CAPITALS_0399,French Guiana (France),Cayenne
-WORLD_CAPITALS_0400,Cayenne,French Guiana (France)
-WORLD_CAPITALS_0401,Falkland Islands (UK),Stanley
-WORLD_CAPITALS_0402,Stanley,Falkland Islands (UK)
-WORLD_CAPITALS_0403,Tahiti (French Polynesia),Papeete
-WORLD_CAPITALS_0404,Papeete,Tahiti (French Polynesia)
-WORLD_CAPITALS_0405,Aruba (The Netherlands),Oranjestad
-WORLD_CAPITALS_0406,Oranjestad,Aruba (The Netherlands)
-WORLD_CAPITALS_0407,Bonaire (The Netherlands),Kralendijk
-WORLD_CAPITALS_0408,Kralendijk,Bonaire (The Netherlands)
-WORLD_CAPITALS_0409,Curacao (The Netherlands),Willemstad
-WORLD_CAPITALS_0410,Willemstad,Curacao (The Netherlands)
+WORLD_CAPITALS_0001,"World Capitals
+Kuwait",Kuwait City
+WORLD_CAPITALS_0002,"World Capitals
+Kuwait City",Kuwait
+WORLD_CAPITALS_0003,"World Capitals
+Austria",Vienna
+WORLD_CAPITALS_0004,"World Capitals
+Vienna",Austria
+WORLD_CAPITALS_0005,"World Capitals
+Sao Tome and Principe",Sao Tome
+WORLD_CAPITALS_0006,"World Capitals
+Sao Tome",Sao Tome and Principe
+WORLD_CAPITALS_0007,"World Capitals
+Belize",Belmopan
+WORLD_CAPITALS_0008,"World Capitals
+Belmopan",Belize
+WORLD_CAPITALS_0009,"World Capitals
+England",London
+WORLD_CAPITALS_0010,"World Capitals
+London",England
+WORLD_CAPITALS_0011,"World Capitals
+Guinea-Bissau",Bissau
+WORLD_CAPITALS_0012,"World Capitals
+Bissau",Guinea-Bissau
+WORLD_CAPITALS_0013,"World Capitals
+Australia",Canberra
+WORLD_CAPITALS_0014,"World Capitals
+Canberra",Australia
+WORLD_CAPITALS_0015,"World Capitals
+Palestine",Jerusalem (Ramallah)
+WORLD_CAPITALS_0016,"World Capitals
+Jerusalem (Ramallah)",Palestine
+WORLD_CAPITALS_0017,"World Capitals
+China",Beijing
+WORLD_CAPITALS_0018,"World Capitals
+Beijing",China
+WORLD_CAPITALS_0019,"World Capitals
+Canada",Ottawa
+WORLD_CAPITALS_0020,"World Capitals
+Ottawa",Canada
+WORLD_CAPITALS_0021,"World Capitals
+India",New Delhi
+WORLD_CAPITALS_0022,"World Capitals
+New Delhi",India
+WORLD_CAPITALS_0023,"World Capitals
+Iraq",Baghdad
+WORLD_CAPITALS_0024,"World Capitals
+Baghdad",Iraq
+WORLD_CAPITALS_0025,"World Capitals
+Luxembourg",Luxembourg
+WORLD_CAPITALS_0026,"World Capitals
+Luxembourg",Luxembourg
+WORLD_CAPITALS_0027,"World Capitals
+Iceland",Reykjavik
+WORLD_CAPITALS_0028,"World Capitals
+Reykjavik",Iceland
+WORLD_CAPITALS_0029,"World Capitals
+Israel",Jerusalem
+WORLD_CAPITALS_0030,"World Capitals
+Jerusalem",Israel
+WORLD_CAPITALS_0031,"World Capitals
+San Marino",San Marino
+WORLD_CAPITALS_0032,"World Capitals
+San Marino",San Marino
+WORLD_CAPITALS_0033,"World Capitals
+Cuba",Havana
+WORLD_CAPITALS_0034,"World Capitals
+Havana",Cuba
+WORLD_CAPITALS_0035,"World Capitals
+Germany",Berlin
+WORLD_CAPITALS_0036,"World Capitals
+Berlin",Germany
+WORLD_CAPITALS_0037,"World Capitals
+Guatemala",Guatemala City
+WORLD_CAPITALS_0038,"World Capitals
+Guatemala City",Guatemala
+WORLD_CAPITALS_0039,"World Capitals
+Ireland",Dublin
+WORLD_CAPITALS_0040,"World Capitals
+Dublin",Ireland
+WORLD_CAPITALS_0041,"World Capitals
+Northern Ireland",Belfast
+WORLD_CAPITALS_0042,"World Capitals
+Belfast",Northern Ireland
+WORLD_CAPITALS_0043,"World Capitals
+Netherlands",Amsterdam
+WORLD_CAPITALS_0044,"World Capitals
+Amsterdam",Netherlands
+WORLD_CAPITALS_0045,"World Capitals
+Andorra",Andorra la Vella
+WORLD_CAPITALS_0046,"World Capitals
+Andorra la Vella",Andorra
+WORLD_CAPITALS_0047,"World Capitals
+Tunisia",Tunis
+WORLD_CAPITALS_0048,"World Capitals
+Tunis",Tunisia
+WORLD_CAPITALS_0049,"World Capitals
+Singapore",Singapore
+WORLD_CAPITALS_0050,"World Capitals
+Singapore",Singapore
+WORLD_CAPITALS_0051,"World Capitals
+Argentina",Buenos Aires
+WORLD_CAPITALS_0052,"World Capitals
+Buenos Aires",Argentina
+WORLD_CAPITALS_0053,"World Capitals
+Cambodia",Phnom Penh
+WORLD_CAPITALS_0054,"World Capitals
+Phnom Penh",Cambodia
+WORLD_CAPITALS_0055,"World Capitals
+Taiwan",Taipei
+WORLD_CAPITALS_0056,"World Capitals
+Taipei",Taiwan
+WORLD_CAPITALS_0057,"World Capitals
+United States",Washington D.C.
+WORLD_CAPITALS_0058,"World Capitals
+Washington D.C.",United States
+WORLD_CAPITALS_0059,"World Capitals
+Croatia",Zagreb
+WORLD_CAPITALS_0060,"World Capitals
+Zagreb",Croatia
+WORLD_CAPITALS_0061,"World Capitals
+Thailand",Bangkok
+WORLD_CAPITALS_0062,"World Capitals
+Bangkok",Thailand
+WORLD_CAPITALS_0063,"World Capitals
+Panama",Panama City
+WORLD_CAPITALS_0064,"World Capitals
+Panama City",Panama
+WORLD_CAPITALS_0065,"World Capitals
+Egypt",Cairo
+WORLD_CAPITALS_0066,"World Capitals
+Cairo",Egypt
+WORLD_CAPITALS_0067,"World Capitals
+Mexico",Mexico City
+WORLD_CAPITALS_0068,"World Capitals
+Mexico City",Mexico
+WORLD_CAPITALS_0069,"World Capitals
+Poland",Warsaw
+WORLD_CAPITALS_0070,"World Capitals
+Warsaw",Poland
+WORLD_CAPITALS_0071,"World Capitals
+Sweden",Stockholm
+WORLD_CAPITALS_0072,"World Capitals
+Stockholm",Sweden
+WORLD_CAPITALS_0073,"World Capitals
+Monaco",Monaco
+WORLD_CAPITALS_0074,"World Capitals
+Monaco",Monaco
+WORLD_CAPITALS_0075,"World Capitals
+New Zealand",Wellington
+WORLD_CAPITALS_0076,"World Capitals
+Wellington",New Zealand
+WORLD_CAPITALS_0077,"World Capitals
+Philippines",Manila
+WORLD_CAPITALS_0078,"World Capitals
+Manila",Philippines
+WORLD_CAPITALS_0079,"World Capitals
+Spain",Madrid
+WORLD_CAPITALS_0080,"World Capitals
+Madrid",Spain
+WORLD_CAPITALS_0081,"World Capitals
+United Kingdom",London
+WORLD_CAPITALS_0082,"World Capitals
+London",United Kingdom
+WORLD_CAPITALS_0083,"World Capitals
+Portugal",Lisbon
+WORLD_CAPITALS_0084,"World Capitals
+Lisbon",Portugal
+WORLD_CAPITALS_0085,"World Capitals
+Algeria",Algiers
+WORLD_CAPITALS_0086,"World Capitals
+Algiers",Algeria
+WORLD_CAPITALS_0087,"World Capitals
+El Salvador",San Salvador
+WORLD_CAPITALS_0088,"World Capitals
+San Salvador",El Salvador
+WORLD_CAPITALS_0089,"World Capitals
+Greece",Athens
+WORLD_CAPITALS_0090,"World Capitals
+Athens",Greece
+WORLD_CAPITALS_0091,"World Capitals
+North Korea",Pyongyang
+WORLD_CAPITALS_0092,"World Capitals
+Pyongyang",North Korea
+WORLD_CAPITALS_0093,"World Capitals
+Vatican City",Vatican City
+WORLD_CAPITALS_0094,"World Capitals
+Vatican City",Vatican City
+WORLD_CAPITALS_0095,"World Capitals
+Switzerland",Bern
+WORLD_CAPITALS_0096,"World Capitals
+Bern",Switzerland
+WORLD_CAPITALS_0097,"World Capitals
+Italy",Rome
+WORLD_CAPITALS_0098,"World Capitals
+Rome",Italy
+WORLD_CAPITALS_0099,"World Capitals
+Bolivia",La Paz (administrative) Sucre (official)
+WORLD_CAPITALS_0100,"World Capitals
+La Paz (administrative) Sucre (official)",Bolivia
+WORLD_CAPITALS_0101,"World Capitals
+Slovenia",Ljubljana
+WORLD_CAPITALS_0102,"World Capitals
+Ljubljana",Slovenia
+WORLD_CAPITALS_0103,"World Capitals
+Jamaica",Kingston
+WORLD_CAPITALS_0104,"World Capitals
+Kingston",Jamaica
+WORLD_CAPITALS_0105,"World Capitals
+Malta",Valletta
+WORLD_CAPITALS_0106,"World Capitals
+Valletta",Malta
+WORLD_CAPITALS_0107,"World Capitals
+Qatar",Doha
+WORLD_CAPITALS_0108,"World Capitals
+Doha",Qatar
+WORLD_CAPITALS_0109,"World Capitals
+Japan",Tokyo
+WORLD_CAPITALS_0110,"World Capitals
+Tokyo",Japan
+WORLD_CAPITALS_0111,"World Capitals
+Togo",Lome
+WORLD_CAPITALS_0112,"World Capitals
+Lome",Togo
+WORLD_CAPITALS_0113,"World Capitals
+Ukraine",Kyiv (Kiev)
+WORLD_CAPITALS_0114,"World Capitals
+Kyiv (Kiev)",Ukraine
+WORLD_CAPITALS_0115,"World Capitals
+Morocco",Rabat
+WORLD_CAPITALS_0116,"World Capitals
+Rabat",Morocco
+WORLD_CAPITALS_0117,"World Capitals
+Serbia",Belgrade
+WORLD_CAPITALS_0118,"World Capitals
+Belgrade",Serbia
+WORLD_CAPITALS_0119,"World Capitals
+Zimbabwe",Harare
+WORLD_CAPITALS_0120,"World Capitals
+Harare",Zimbabwe
+WORLD_CAPITALS_0121,"World Capitals
+Albania",Tirana
+WORLD_CAPITALS_0122,"World Capitals
+Tirana",Albania
+WORLD_CAPITALS_0123,"World Capitals
+Maldives",Male
+WORLD_CAPITALS_0124,"World Capitals
+Male",Maldives
+WORLD_CAPITALS_0125,"World Capitals
+Paraguay",Asuncion
+WORLD_CAPITALS_0126,"World Capitals
+Asuncion",Paraguay
+WORLD_CAPITALS_0127,"World Capitals
+Kazakhstan",Astana
+WORLD_CAPITALS_0128,"World Capitals
+Astana",Kazakhstan
+WORLD_CAPITALS_0129,"World Capitals
+Myanmar (Burma)",Naypyidaw
+WORLD_CAPITALS_0130,"World Capitals
+Naypyidaw",Myanmar (Burma)
+WORLD_CAPITALS_0131,"World Capitals
+Russia",Moscow
+WORLD_CAPITALS_0132,"World Capitals
+Moscow",Russia
+WORLD_CAPITALS_0133,"World Capitals
+South Sudan",Juba
+WORLD_CAPITALS_0134,"World Capitals
+Juba",South Sudan
+WORLD_CAPITALS_0135,"World Capitals
+Tanzania",Dodoma
+WORLD_CAPITALS_0136,"World Capitals
+Dodoma",Tanzania
+WORLD_CAPITALS_0137,"World Capitals
+France",Paris
+WORLD_CAPITALS_0138,"World Capitals
+Paris",France
+WORLD_CAPITALS_0139,"World Capitals
+Republic of the Congo",Brazzaville
+WORLD_CAPITALS_0140,"World Capitals
+Brazzaville",Republic of the Congo
+WORLD_CAPITALS_0141,"World Capitals
+Cote d'Ivoire (Ivory Coast)",Yamoussoukro
+WORLD_CAPITALS_0142,"World Capitals
+Yamoussoukro",Cote d'Ivoire (Ivory Coast)
+WORLD_CAPITALS_0143,"World Capitals
+Guinea",Conakry
+WORLD_CAPITALS_0144,"World Capitals
+Conakry",Guinea
+WORLD_CAPITALS_0145,"World Capitals
+Laos",Vientiane
+WORLD_CAPITALS_0146,"World Capitals
+Vientiane",Laos
+WORLD_CAPITALS_0147,"World Capitals
+Latvia",Riga
+WORLD_CAPITALS_0148,"World Capitals
+Riga",Latvia
+WORLD_CAPITALS_0149,"World Capitals
+Liechtenstein",Vaduz
+WORLD_CAPITALS_0150,"World Capitals
+Vaduz",Liechtenstein
+WORLD_CAPITALS_0151,"World Capitals
+Azerbaijan",Baku
+WORLD_CAPITALS_0152,"World Capitals
+Baku",Azerbaijan
+WORLD_CAPITALS_0153,"World Capitals
+Lebanon",Beirut
+WORLD_CAPITALS_0154,"World Capitals
+Beirut",Lebanon
+WORLD_CAPITALS_0155,"World Capitals
+Hungary",Budapest
+WORLD_CAPITALS_0156,"World Capitals
+Budapest",Hungary
+WORLD_CAPITALS_0157,"World Capitals
+Ethiopia",Addis Ababa
+WORLD_CAPITALS_0158,"World Capitals
+Addis Ababa",Ethiopia
+WORLD_CAPITALS_0159,"World Capitals
+Saudi Arabia",Riyadh
+WORLD_CAPITALS_0160,"World Capitals
+Riyadh",Saudi Arabia
+WORLD_CAPITALS_0161,"World Capitals
+Somalia",Mogadishu
+WORLD_CAPITALS_0162,"World Capitals
+Mogadishu",Somalia
+WORLD_CAPITALS_0163,"World Capitals
+Haiti",Port au Prince
+WORLD_CAPITALS_0164,"World Capitals
+Port au Prince",Haiti
+WORLD_CAPITALS_0165,"World Capitals
+Kyrgyzstan",Bishkek
+WORLD_CAPITALS_0166,"World Capitals
+Bishkek",Kyrgyzstan
+WORLD_CAPITALS_0167,"World Capitals
+Samoa",Apia
+WORLD_CAPITALS_0168,"World Capitals
+Apia",Samoa
+WORLD_CAPITALS_0169,"World Capitals
+Vietnam",Hanoi
+WORLD_CAPITALS_0170,"World Capitals
+Hanoi",Vietnam
+WORLD_CAPITALS_0171,"World Capitals
+Libya",Tripoli
+WORLD_CAPITALS_0172,"World Capitals
+Tripoli",Libya
+WORLD_CAPITALS_0173,"World Capitals
+Jordan",Amman
+WORLD_CAPITALS_0174,"World Capitals
+Amman",Jordan
+WORLD_CAPITALS_0175,"World Capitals
+Norway",Oslo
+WORLD_CAPITALS_0176,"World Capitals
+Oslo",Norway
+WORLD_CAPITALS_0177,"World Capitals
+Djibouti",Djibouti
+WORLD_CAPITALS_0178,"World Capitals
+Djibouti",Djibouti
+WORLD_CAPITALS_0179,"World Capitals
+Georgia",Tbilisi
+WORLD_CAPITALS_0180,"World Capitals
+Tbilisi",Georgia
+WORLD_CAPITALS_0181,"World Capitals
+Honduras",Tegucigalpa
+WORLD_CAPITALS_0182,"World Capitals
+Tegucigalpa",Honduras
+WORLD_CAPITALS_0183,"World Capitals
+East Timor",Dili
+WORLD_CAPITALS_0184,"World Capitals
+Dili",East Timor
+WORLD_CAPITALS_0185,"World Capitals
+Finland",Helsinki
+WORLD_CAPITALS_0186,"World Capitals
+Helsinki",Finland
+WORLD_CAPITALS_0187,"World Capitals
+Uganda",Kampala
+WORLD_CAPITALS_0188,"World Capitals
+Kampala",Uganda
+WORLD_CAPITALS_0189,"World Capitals
+Ecuador",Quito
+WORLD_CAPITALS_0190,"World Capitals
+Quito",Ecuador
+WORLD_CAPITALS_0191,"World Capitals
+Kiribati",Tarawa Atoll
+WORLD_CAPITALS_0192,"World Capitals
+Tarawa Atoll",Kiribati
+WORLD_CAPITALS_0193,"World Capitals
+United Arab Emirates",Abu Dhabi
+WORLD_CAPITALS_0194,"World Capitals
+Abu Dhabi",United Arab Emirates
+WORLD_CAPITALS_0195,"World Capitals
+Armenia",Yerevan
+WORLD_CAPITALS_0196,"World Capitals
+Yerevan",Armenia
+WORLD_CAPITALS_0197,"World Capitals
+Sri Lanka","Colombo (executive, judicial), Sri Jayawardenapura Kotte (legislative)"
+WORLD_CAPITALS_0198,"World Capitals
+Colombo (executive, judicial), Sri Jayawardenapura Kotte (legislative)",Sri Lanka
+WORLD_CAPITALS_0199,"World Capitals
+Liberia",Monrovia
+WORLD_CAPITALS_0200,"World Capitals
+Monrovia",Liberia
+WORLD_CAPITALS_0201,"World Capitals
+Grenada",Saint George's
+WORLD_CAPITALS_0202,"World Capitals
+Saint George's",Grenada
+WORLD_CAPITALS_0203,"World Capitals
+Benin",Porto Novo
+WORLD_CAPITALS_0204,"World Capitals
+Porto Novo",Benin
+WORLD_CAPITALS_0205,"World Capitals
+Costa Rica",San Jose
+WORLD_CAPITALS_0206,"World Capitals
+San Jose",Costa Rica
+WORLD_CAPITALS_0207,"World Capitals
+Equatorial Guinea",Malabo
+WORLD_CAPITALS_0208,"World Capitals
+Malabo",Equatorial Guinea
+WORLD_CAPITALS_0209,"World Capitals
+Mongolia",Ulaanbaatar
+WORLD_CAPITALS_0210,"World Capitals
+Ulaanbaatar",Mongolia
+WORLD_CAPITALS_0211,"World Capitals
+Nicaragua",Managua
+WORLD_CAPITALS_0212,"World Capitals
+Managua",Nicaragua
+WORLD_CAPITALS_0213,"World Capitals
+Malaysia",Kuala Lumpur
+WORLD_CAPITALS_0214,"World Capitals
+Kuala Lumpur",Malaysia
+WORLD_CAPITALS_0215,"World Capitals
+South Korea",Seoul
+WORLD_CAPITALS_0216,"World Capitals
+Seoul",South Korea
+WORLD_CAPITALS_0217,"World Capitals
+Guyana",Georgetown
+WORLD_CAPITALS_0218,"World Capitals
+Georgetown",Guyana
+WORLD_CAPITALS_0219,"World Capitals
+Pakistan",Islamabad
+WORLD_CAPITALS_0220,"World Capitals
+Islamabad",Pakistan
+WORLD_CAPITALS_0221,"World Capitals
+Lithuania",Vilnius
+WORLD_CAPITALS_0222,"World Capitals
+Vilnius",Lithuania
+WORLD_CAPITALS_0223,"World Capitals
+Romania",Bucharest
+WORLD_CAPITALS_0224,"World Capitals
+Bucharest",Romania
+WORLD_CAPITALS_0225,"World Capitals
+Dominican Republic",Santo Domingo
+WORLD_CAPITALS_0226,"World Capitals
+Santo Domingo",Dominican Republic
+WORLD_CAPITALS_0227,"World Capitals
+Solomon Islands",Honiara
+WORLD_CAPITALS_0228,"World Capitals
+Honiara",Solomon Islands
+WORLD_CAPITALS_0229,"World Capitals
+Brazil",Brasilia
+WORLD_CAPITALS_0230,"World Capitals
+Brasilia",Brazil
+WORLD_CAPITALS_0231,"World Capitals
+Indonesia",Jakarta (Nusantara planned)
+WORLD_CAPITALS_0232,"World Capitals
+Jakarta (Nusantara planned)",Indonesia
+WORLD_CAPITALS_0233,"World Capitals
+Kenya",Nairobi
+WORLD_CAPITALS_0234,"World Capitals
+Nairobi",Kenya
+WORLD_CAPITALS_0235,"World Capitals
+Afghanistan",Kabul
+WORLD_CAPITALS_0236,"World Capitals
+Kabul",Afghanistan
+WORLD_CAPITALS_0237,"World Capitals
+Bulgaria",Sofia
+WORLD_CAPITALS_0238,"World Capitals
+Sofia",Bulgaria
+WORLD_CAPITALS_0239,"World Capitals
+Niger",Niamey
+WORLD_CAPITALS_0240,"World Capitals
+Niamey",Niger
+WORLD_CAPITALS_0241,"World Capitals
+Scotland",Edinburgh
+WORLD_CAPITALS_0242,"World Capitals
+Edinburgh",Scotland
+WORLD_CAPITALS_0243,"World Capitals
+Marshall Islands",Majuro
+WORLD_CAPITALS_0244,"World Capitals
+Majuro",Marshall Islands
+WORLD_CAPITALS_0245,"World Capitals
+Antigua and Barbuda",Saint John's
+WORLD_CAPITALS_0246,"World Capitals
+Saint John's",Antigua and Barbuda
+WORLD_CAPITALS_0247,"World Capitals
+Bahamas",Nassau
+WORLD_CAPITALS_0248,"World Capitals
+Nassau",Bahamas
+WORLD_CAPITALS_0249,"World Capitals
+Denmark",Copenhagen
+WORLD_CAPITALS_0250,"World Capitals
+Copenhagen",Denmark
+WORLD_CAPITALS_0251,"World Capitals
+Eswatini (Swaziland)",Mbabane
+WORLD_CAPITALS_0252,"World Capitals
+Mbabane",Eswatini (Swaziland)
+WORLD_CAPITALS_0253,"World Capitals
+Malawi",Lilongwe
+WORLD_CAPITALS_0254,"World Capitals
+Lilongwe",Malawi
+WORLD_CAPITALS_0255,"World Capitals
+Sierra Leone",Freetown
+WORLD_CAPITALS_0256,"World Capitals
+Freetown",Sierra Leone
+WORLD_CAPITALS_0257,"World Capitals
+Nauru",No Official Capital (Yaren)
+WORLD_CAPITALS_0258,"World Capitals
+No Official Capital (Yaren)",Nauru
+WORLD_CAPITALS_0259,"World Capitals
+Papua New Guinea",Port Moresby
+WORLD_CAPITALS_0260,"World Capitals
+Port Moresby",Papua New Guinea
+WORLD_CAPITALS_0261,"World Capitals
+Suriname",Paramaribo
+WORLD_CAPITALS_0262,"World Capitals
+Paramaribo",Suriname
+WORLD_CAPITALS_0263,"World Capitals
+Botswana",Gaborone
+WORLD_CAPITALS_0264,"World Capitals
+Gaborone",Botswana
+WORLD_CAPITALS_0265,"World Capitals
+Czech Republic (Czechia)",Prague
+WORLD_CAPITALS_0266,"World Capitals
+Prague",Czech Republic (Czechia)
+WORLD_CAPITALS_0267,"World Capitals
+Kosovo",Pristina
+WORLD_CAPITALS_0268,"World Capitals
+Pristina",Kosovo
+WORLD_CAPITALS_0269,"World Capitals
+Lesotho",Maseru
+WORLD_CAPITALS_0270,"World Capitals
+Maseru",Lesotho
+WORLD_CAPITALS_0271,"World Capitals
+Sudan",Khartoum
+WORLD_CAPITALS_0272,"World Capitals
+Khartoum",Sudan
+WORLD_CAPITALS_0273,"World Capitals
+Bangladesh",Dhaka
+WORLD_CAPITALS_0274,"World Capitals
+Dhaka",Bangladesh
+WORLD_CAPITALS_0275,"World Capitals
+Yemen",Sana'a
+WORLD_CAPITALS_0276,"World Capitals
+Sana'a",Yemen
+WORLD_CAPITALS_0277,"World Capitals
+Zambia",Lusaka
+WORLD_CAPITALS_0278,"World Capitals
+Lusaka",Zambia
+WORLD_CAPITALS_0279,"World Capitals
+Chad",N'Djamena
+WORLD_CAPITALS_0280,"World Capitals
+N'Djamena",Chad
+WORLD_CAPITALS_0281,"World Capitals
+Chile",Santiago
+WORLD_CAPITALS_0282,"World Capitals
+Santiago",Chile
+WORLD_CAPITALS_0283,"World Capitals
+Iran",Tehran
+WORLD_CAPITALS_0284,"World Capitals
+Tehran",Iran
+WORLD_CAPITALS_0285,"World Capitals
+Mauritania",Nouakchott
+WORLD_CAPITALS_0286,"World Capitals
+Nouakchott",Mauritania
+WORLD_CAPITALS_0287,"World Capitals
+Saint Lucia",Castries
+WORLD_CAPITALS_0288,"World Capitals
+Castries",Saint Lucia
+WORLD_CAPITALS_0289,"World Capitals
+Turkmenistan",Ashgabat
+WORLD_CAPITALS_0290,"World Capitals
+Ashgabat",Turkmenistan
+WORLD_CAPITALS_0291,"World Capitals
+Brunei",Bandar Seri Begawan
+WORLD_CAPITALS_0292,"World Capitals
+Bandar Seri Begawan",Brunei
+WORLD_CAPITALS_0293,"World Capitals
+Federated States of Micronesia",Palikir
+WORLD_CAPITALS_0294,"World Capitals
+Palikir",Federated States of Micronesia
+WORLD_CAPITALS_0295,"World Capitals
+Ghana",Accra
+WORLD_CAPITALS_0296,"World Capitals
+Accra",Ghana
+WORLD_CAPITALS_0297,"World Capitals
+Saint Kitts and Nevis",Basseterre
+WORLD_CAPITALS_0298,"World Capitals
+Basseterre",Saint Kitts and Nevis
+WORLD_CAPITALS_0299,"World Capitals
+Slovakia",Bratislava
+WORLD_CAPITALS_0300,"World Capitals
+Bratislava",Slovakia
+WORLD_CAPITALS_0301,"World Capitals
+Uruguay",Montevideo
+WORLD_CAPITALS_0302,"World Capitals
+Montevideo",Uruguay
+WORLD_CAPITALS_0303,"World Capitals
+Bhutan",Thimphu
+WORLD_CAPITALS_0304,"World Capitals
+Thimphu",Bhutan
+WORLD_CAPITALS_0305,"World Capitals
+Gabon",Libreville
+WORLD_CAPITALS_0306,"World Capitals
+Libreville",Gabon
+WORLD_CAPITALS_0307,"World Capitals
+Nigeria",Abuja
+WORLD_CAPITALS_0308,"World Capitals
+Abuja",Nigeria
+WORLD_CAPITALS_0309,"World Capitals
+North Macedonia (Macedonia)",Skopje
+WORLD_CAPITALS_0310,"World Capitals
+Skopje",North Macedonia (Macedonia)
+WORLD_CAPITALS_0311,"World Capitals
+Tajikistan",Dushanbe
+WORLD_CAPITALS_0312,"World Capitals
+Dushanbe",Tajikistan
+WORLD_CAPITALS_0313,"World Capitals
+Turkiye (Turkey)",Ankara
+WORLD_CAPITALS_0314,"World Capitals
+Ankara",Turkiye (Turkey)
+WORLD_CAPITALS_0315,"World Capitals
+Madagascar",Antananarivo
+WORLD_CAPITALS_0316,"World Capitals
+Antananarivo",Madagascar
+WORLD_CAPITALS_0317,"World Capitals
+Mauritius",Port Louis
+WORLD_CAPITALS_0318,"World Capitals
+Port Louis",Mauritius
+WORLD_CAPITALS_0319,"World Capitals
+Montenegro",Podgorica
+WORLD_CAPITALS_0320,"World Capitals
+Podgorica",Montenegro
+WORLD_CAPITALS_0321,"World Capitals
+Mozambique",Maputo
+WORLD_CAPITALS_0322,"World Capitals
+Maputo",Mozambique
+WORLD_CAPITALS_0323,"World Capitals
+Venezuela",Caracas
+WORLD_CAPITALS_0324,"World Capitals
+Caracas",Venezuela
+WORLD_CAPITALS_0325,"World Capitals
+Democratic Republic of the Congo",Kinshasa
+WORLD_CAPITALS_0326,"World Capitals
+Kinshasa",Democratic Republic of the Congo
+WORLD_CAPITALS_0327,"World Capitals
+Rwanda",Kigali
+WORLD_CAPITALS_0328,"World Capitals
+Kigali",Rwanda
+WORLD_CAPITALS_0329,"World Capitals
+Comoros",Moroni
+WORLD_CAPITALS_0330,"World Capitals
+Moroni",Comoros
+WORLD_CAPITALS_0331,"World Capitals
+Dominica",Roseau
+WORLD_CAPITALS_0332,"World Capitals
+Roseau",Dominica
+WORLD_CAPITALS_0333,"World Capitals
+Fiji",Suva
+WORLD_CAPITALS_0334,"World Capitals
+Suva",Fiji
+WORLD_CAPITALS_0335,"World Capitals
+Namibia",Windhoek
+WORLD_CAPITALS_0336,"World Capitals
+Windhoek",Namibia
+WORLD_CAPITALS_0337,"World Capitals
+Senegal",Dakar
+WORLD_CAPITALS_0338,"World Capitals
+Dakar",Senegal
+WORLD_CAPITALS_0339,"World Capitals
+Trinidad and Tobago",Port of Spain
+WORLD_CAPITALS_0340,"World Capitals
+Port of Spain",Trinidad and Tobago
+WORLD_CAPITALS_0341,"World Capitals
+Angola",Luanda
+WORLD_CAPITALS_0342,"World Capitals
+Luanda",Angola
+WORLD_CAPITALS_0343,"World Capitals
+Syria",Damascus
+WORLD_CAPITALS_0344,"World Capitals
+Damascus",Syria
+WORLD_CAPITALS_0345,"World Capitals
+Burkina Faso",Ouagadougou
+WORLD_CAPITALS_0346,"World Capitals
+Ouagadougou",Burkina Faso
+WORLD_CAPITALS_0347,"World Capitals
+Saint Vincent and the Grenadines",Kingstown
+WORLD_CAPITALS_0348,"World Capitals
+Kingstown",Saint Vincent and the Grenadines
+WORLD_CAPITALS_0349,"World Capitals
+Colombia",Bogota
+WORLD_CAPITALS_0350,"World Capitals
+Bogota",Colombia
+WORLD_CAPITALS_0351,"World Capitals
+Wales",Cardiff
+WORLD_CAPITALS_0352,"World Capitals
+Cardiff",Wales
+WORLD_CAPITALS_0353,"World Capitals
+Bahrain",Manama
+WORLD_CAPITALS_0354,"World Capitals
+Manama",Bahrain
+WORLD_CAPITALS_0355,"World Capitals
+Burundi",Gitega
+WORLD_CAPITALS_0356,"World Capitals
+Gitega",Burundi
+WORLD_CAPITALS_0357,"World Capitals
+Oman",Muscat
+WORLD_CAPITALS_0358,"World Capitals
+Muscat",Oman
+WORLD_CAPITALS_0359,"World Capitals
+South Africa","Pretoria (administrative), Cape Town (legislative), Bloemfontein (judicial)"
+WORLD_CAPITALS_0360,"World Capitals
+Pretoria (administrative), Cape Town (legislative), Bloemfontein (judicial)",South Africa
+WORLD_CAPITALS_0361,"World Capitals
+Eritrea",Asmara
+WORLD_CAPITALS_0362,"World Capitals
+Asmara",Eritrea
+WORLD_CAPITALS_0363,"World Capitals
+Uzbekistan",Tashkent
+WORLD_CAPITALS_0364,"World Capitals
+Tashkent",Uzbekistan
+WORLD_CAPITALS_0365,"World Capitals
+Bosnia and Herzegovina",Sarajevo
+WORLD_CAPITALS_0366,"World Capitals
+Sarajevo",Bosnia and Herzegovina
+WORLD_CAPITALS_0367,"World Capitals
+Cyprus",Nicosia
+WORLD_CAPITALS_0368,"World Capitals
+Nicosia",Cyprus
+WORLD_CAPITALS_0369,"World Capitals
+Estonia",Tallinn
+WORLD_CAPITALS_0370,"World Capitals
+Tallinn",Estonia
+WORLD_CAPITALS_0371,"World Capitals
+Seychelles",Victoria
+WORLD_CAPITALS_0372,"World Capitals
+Victoria",Seychelles
+WORLD_CAPITALS_0373,"World Capitals
+Barbados",Bridgetown
+WORLD_CAPITALS_0374,"World Capitals
+Bridgetown",Barbados
+WORLD_CAPITALS_0375,"World Capitals
+The Gambia",Banjul
+WORLD_CAPITALS_0376,"World Capitals
+Banjul",The Gambia
+WORLD_CAPITALS_0377,"World Capitals
+Moldova",Chisinau
+WORLD_CAPITALS_0378,"World Capitals
+Chisinau",Moldova
+WORLD_CAPITALS_0379,"World Capitals
+Nepal",Kathmandu
+WORLD_CAPITALS_0380,"World Capitals
+Kathmandu",Nepal
+WORLD_CAPITALS_0381,"World Capitals
+Cape Verde",Praia
+WORLD_CAPITALS_0382,"World Capitals
+Praia",Cape Verde
+WORLD_CAPITALS_0383,"World Capitals
+Central African Republic",Bangui
+WORLD_CAPITALS_0384,"World Capitals
+Bangui",Central African Republic
+WORLD_CAPITALS_0385,"World Capitals
+Tonga",Nuku'alofa
+WORLD_CAPITALS_0386,"World Capitals
+Nuku'alofa",Tonga
+WORLD_CAPITALS_0387,"World Capitals
+Tuvalu",Funafuti
+WORLD_CAPITALS_0388,"World Capitals
+Funafuti",Tuvalu
+WORLD_CAPITALS_0389,"World Capitals
+Vanuatu",Port Vila
+WORLD_CAPITALS_0390,"World Capitals
+Port Vila",Vanuatu
+WORLD_CAPITALS_0391,"World Capitals
+Mali",Bamako
+WORLD_CAPITALS_0392,"World Capitals
+Bamako",Mali
+WORLD_CAPITALS_0393,"World Capitals
+Palau",Ngerulmud
+WORLD_CAPITALS_0394,"World Capitals
+Ngerulmud",Palau
+WORLD_CAPITALS_0395,"World Capitals
+Cameroon",Yaounde
+WORLD_CAPITALS_0396,"World Capitals
+Yaounde",Cameroon
+WORLD_CAPITALS_0397,"World Capitals
+Peru",Lima
+WORLD_CAPITALS_0398,"World Capitals
+Lima",Peru
+WORLD_CAPITALS_0399,"World Capitals
+French Guiana (France)",Cayenne
+WORLD_CAPITALS_0400,"World Capitals
+Cayenne",French Guiana (France)
+WORLD_CAPITALS_0401,"World Capitals
+Falkland Islands (UK)",Stanley
+WORLD_CAPITALS_0402,"World Capitals
+Stanley",Falkland Islands (UK)
+WORLD_CAPITALS_0403,"World Capitals
+Tahiti (French Polynesia)",Papeete
+WORLD_CAPITALS_0404,"World Capitals
+Papeete",Tahiti (French Polynesia)
+WORLD_CAPITALS_0405,"World Capitals
+Aruba (The Netherlands)",Oranjestad
+WORLD_CAPITALS_0406,"World Capitals
+Oranjestad",Aruba (The Netherlands)
+WORLD_CAPITALS_0407,"World Capitals
+Bonaire (The Netherlands)",Kralendijk
+WORLD_CAPITALS_0408,"World Capitals
+Kralendijk",Bonaire (The Netherlands)
+WORLD_CAPITALS_0409,"World Capitals
+Curacao (The Netherlands)",Willemstad
+WORLD_CAPITALS_0410,"World Capitals
+Willemstad",Curacao (The Netherlands)

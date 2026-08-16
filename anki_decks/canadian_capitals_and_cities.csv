@@ -1,55 +1,110 @@
-CANADIAN_CAPITALS_0001,Capital of Ontario (ON),Toronto
-CANADIAN_CAPITALS_0002,Toronto,Capital + Most Populous City of Ontario (ON)
-CANADIAN_CAPITALS_0003,Capital of Quebec (QC),Quebec City
-CANADIAN_CAPITALS_0004,Quebec City,Capital of Quebec (QC)
-CANADIAN_CAPITALS_0005,Capital of Nova Scotia (NS),Halifax
-CANADIAN_CAPITALS_0006,Halifax,Capital + Most Populous City of Nova Scotia (NS)
-CANADIAN_CAPITALS_0007,Capital of New Brunswick (NB),Fredericton
-CANADIAN_CAPITALS_0008,Fredericton,Capital of New Brunswick (NB)
-CANADIAN_CAPITALS_0009,Capital of Manitoba (MB),Winnipeg
-CANADIAN_CAPITALS_0010,Winnipeg,Capital + Most Populous City of Manitoba (MB)
-CANADIAN_CAPITALS_0011,Capital of British Columbia (BC),Victoria
-CANADIAN_CAPITALS_0012,Victoria,Capital of British Columbia (BC)
-CANADIAN_CAPITALS_0013,Capital of Prince Edward Island (PE),Charlottetown
-CANADIAN_CAPITALS_0014,Charlottetown,Capital + Most Populous City of Prince Edward Island (PE)
-CANADIAN_CAPITALS_0015,Capital of Saskatchewan (SK),Regina
-CANADIAN_CAPITALS_0016,Regina,Capital of Saskatchewan (SK)
-CANADIAN_CAPITALS_0017,Capital of Alberta (AB),Edmonton
-CANADIAN_CAPITALS_0018,Edmonton,Capital of Alberta (AB)
-CANADIAN_CAPITALS_0019,Capital of Newfoundland and Labrador (NL),St. John's
-CANADIAN_CAPITALS_0020,St. John's,Capital + Most Populous City of Newfoundland and Labrador (NL)
-CANADIAN_CAPITALS_0021,Capital of Northwest Territories (NT) [Territory],Yellowknife
-CANADIAN_CAPITALS_0022,Yellowknife,Capital + Most Populous City of Northwest Territories (NT) [Territory]
-CANADIAN_CAPITALS_0023,Capital of Yukon (YT) [Territory],Whitehorse
-CANADIAN_CAPITALS_0024,Whitehorse,Capital + Most Populous City of Yukon (YT) [Territory]
-CANADIAN_CAPITALS_0025,Capital of Nunavut (NU) [Territory],Iqaluit
-CANADIAN_CAPITALS_0026,Iqaluit,Capital + Most Populous City of Nunavut (NU) [Territory]
-CANADIAN_CAPITALS_0027,Most Populous City in British Columbia (BC),Vancouver
-CANADIAN_CAPITALS_0028,Vancouver,Most Populous City in British Columbia (BC)
-CANADIAN_CAPITALS_0029,Most Populous City in Quebec (QC),Montreal
-CANADIAN_CAPITALS_0030,Montreal,Most Populous City in Quebec (QC)
-CANADIAN_CAPITALS_0031,Most Populous City in Alberta (AB),Calgary
-CANADIAN_CAPITALS_0032,Calgary,Most Populous City in Alberta (AB)
-CANADIAN_CAPITALS_0033,Most Populous City in Saskatchewan (SK),Saskatoon
-CANADIAN_CAPITALS_0034,Saskatoon,Most Populous City in Saskatchewan (SK)
-CANADIAN_CAPITALS_0035,Most Populous City in New Brunswick (NB),Moncton
-CANADIAN_CAPITALS_0036,Moncton,Most Populous City in New Brunswick (NB)
-CANADIAN_CAPITALS_0037,Most Populous City in Ontario (ON),Toronto
-CANADIAN_CAPITALS_0038,Capital of Canada,Ottawa · 2nd Most Populous City in Ontario (ON)
-CANADIAN_CAPITALS_0039,Most Populous City in Nova Scotia (NS),Halifax
-CANADIAN_CAPITALS_0040,Ottawa,Capital of Canada · 2nd Most Populous City in Ontario (ON)
-CANADIAN_CAPITALS_0041,Most Populous City in Manitoba (MB),Winnipeg
-CANADIAN_CAPITALS_0042,2nd Most Populous City in Ontario (ON),Ottawa · Capital of Canada
-CANADIAN_CAPITALS_0043,Most Populous City in Prince Edward Island (PE),Charlottetown
-CANADIAN_CAPITALS_0044,5th Most Populous City in Ontario (ON),Hamilton
-CANADIAN_CAPITALS_0045,Most Populous City in Newfoundland and Labrador (NL),St. John's
-CANADIAN_CAPITALS_0046,Hamilton,5th Most Populous City in Ontario (ON)
-CANADIAN_CAPITALS_0047,Most Populous City in Northwest Territories (NT),Yellowknife
-CANADIAN_CAPITALS_0048,6th Most Populous City in Ontario (ON),"London, ON"
-CANADIAN_CAPITALS_0049,Most Populous City in Yukon (YT),Whitehorse
-CANADIAN_CAPITALS_0050,"London, ON",6th Most Populous City in Ontario (ON)
-CANADIAN_CAPITALS_0051,Most Populous City in Nunavut (NU),Iqaluit
-CANADIAN_CAPITALS_0052,10th Most Populous City in Ontario (ON),Windsor
-CANADIAN_CAPITALS_0053,Windsor,10th Most Populous City in Ontario (ON)
-CANADIAN_CAPITALS_0054,5th Most Populous City in Quebec (QC),Gatineau
-CANADIAN_CAPITALS_0055,Gatineau,5th Most Populous City in Quebec (QC)
+CANADIAN_CAPITALS_0001,"Canadian Capitals & Cities
+Capital of Ontario (ON)",Toronto
+CANADIAN_CAPITALS_0002,"Canadian Capitals & Cities
+Toronto",Capital + Most Populous City of Ontario (ON)
+CANADIAN_CAPITALS_0003,"Canadian Capitals & Cities
+Capital of Quebec (QC)",Quebec City
+CANADIAN_CAPITALS_0004,"Canadian Capitals & Cities
+Quebec City",Capital of Quebec (QC)
+CANADIAN_CAPITALS_0005,"Canadian Capitals & Cities
+Capital of Nova Scotia (NS)",Halifax
+CANADIAN_CAPITALS_0006,"Canadian Capitals & Cities
+Halifax",Capital + Most Populous City of Nova Scotia (NS)
+CANADIAN_CAPITALS_0007,"Canadian Capitals & Cities
+Capital of New Brunswick (NB)",Fredericton
+CANADIAN_CAPITALS_0008,"Canadian Capitals & Cities
+Fredericton",Capital of New Brunswick (NB)
+CANADIAN_CAPITALS_0009,"Canadian Capitals & Cities
+Capital of Manitoba (MB)",Winnipeg
+CANADIAN_CAPITALS_0010,"Canadian Capitals & Cities
+Winnipeg",Capital + Most Populous City of Manitoba (MB)
+CANADIAN_CAPITALS_0011,"Canadian Capitals & Cities
+Capital of British Columbia (BC)",Victoria
+CANADIAN_CAPITALS_0012,"Canadian Capitals & Cities
+Victoria",Capital of British Columbia (BC)
+CANADIAN_CAPITALS_0013,"Canadian Capitals & Cities
+Capital of Prince Edward Island (PE)",Charlottetown
+CANADIAN_CAPITALS_0014,"Canadian Capitals & Cities
+Charlottetown",Capital + Most Populous City of Prince Edward Island (PE)
+CANADIAN_CAPITALS_0015,"Canadian Capitals & Cities
+Capital of Saskatchewan (SK)",Regina
+CANADIAN_CAPITALS_0016,"Canadian Capitals & Cities
+Regina",Capital of Saskatchewan (SK)
+CANADIAN_CAPITALS_0017,"Canadian Capitals & Cities
+Capital of Alberta (AB)",Edmonton
+CANADIAN_CAPITALS_0018,"Canadian Capitals & Cities
+Edmonton",Capital of Alberta (AB)
+CANADIAN_CAPITALS_0019,"Canadian Capitals & Cities
+Capital of Newfoundland and Labrador (NL)",St. John's
+CANADIAN_CAPITALS_0020,"Canadian Capitals & Cities
+St. John's",Capital + Most Populous City of Newfoundland and Labrador (NL)
+CANADIAN_CAPITALS_0021,"Canadian Capitals & Cities
+Capital of Northwest Territories (NT) [Territory]",Yellowknife
+CANADIAN_CAPITALS_0022,"Canadian Capitals & Cities
+Yellowknife",Capital + Most Populous City of Northwest Territories (NT) [Territory]
+CANADIAN_CAPITALS_0023,"Canadian Capitals & Cities
+Capital of Yukon (YT) [Territory]",Whitehorse
+CANADIAN_CAPITALS_0024,"Canadian Capitals & Cities
+Whitehorse",Capital + Most Populous City of Yukon (YT) [Territory]
+CANADIAN_CAPITALS_0025,"Canadian Capitals & Cities
+Capital of Nunavut (NU) [Territory]",Iqaluit
+CANADIAN_CAPITALS_0026,"Canadian Capitals & Cities
+Iqaluit",Capital + Most Populous City of Nunavut (NU) [Territory]
+CANADIAN_CAPITALS_0027,"Canadian Capitals & Cities
+Most Populous City in British Columbia (BC)",Vancouver
+CANADIAN_CAPITALS_0028,"Canadian Capitals & Cities
+Vancouver",Most Populous City in British Columbia (BC)
+CANADIAN_CAPITALS_0029,"Canadian Capitals & Cities
+Most Populous City in Quebec (QC)",Montreal
+CANADIAN_CAPITALS_0030,"Canadian Capitals & Cities
+Montreal",Most Populous City in Quebec (QC)
+CANADIAN_CAPITALS_0031,"Canadian Capitals & Cities
+Most Populous City in Alberta (AB)",Calgary
+CANADIAN_CAPITALS_0032,"Canadian Capitals & Cities
+Calgary",Most Populous City in Alberta (AB)
+CANADIAN_CAPITALS_0033,"Canadian Capitals & Cities
+Most Populous City in Saskatchewan (SK)",Saskatoon
+CANADIAN_CAPITALS_0034,"Canadian Capitals & Cities
+Saskatoon",Most Populous City in Saskatchewan (SK)
+CANADIAN_CAPITALS_0035,"Canadian Capitals & Cities
+Most Populous City in New Brunswick (NB)",Moncton
+CANADIAN_CAPITALS_0036,"Canadian Capitals & Cities
+Moncton",Most Populous City in New Brunswick (NB)
+CANADIAN_CAPITALS_0037,"Canadian Capitals & Cities
+Most Populous City in Ontario (ON)",Toronto
+CANADIAN_CAPITALS_0038,"Canadian Capitals & Cities
+Capital of Canada",Ottawa · 2nd Most Populous City in Ontario (ON)
+CANADIAN_CAPITALS_0039,"Canadian Capitals & Cities
+Most Populous City in Nova Scotia (NS)",Halifax
+CANADIAN_CAPITALS_0040,"Canadian Capitals & Cities
+Ottawa",Capital of Canada · 2nd Most Populous City in Ontario (ON)
+CANADIAN_CAPITALS_0041,"Canadian Capitals & Cities
+Most Populous City in Manitoba (MB)",Winnipeg
+CANADIAN_CAPITALS_0042,"Canadian Capitals & Cities
+2nd Most Populous City in Ontario (ON)",Ottawa · Capital of Canada
+CANADIAN_CAPITALS_0043,"Canadian Capitals & Cities
+Most Populous City in Prince Edward Island (PE)",Charlottetown
+CANADIAN_CAPITALS_0044,"Canadian Capitals & Cities
+5th Most Populous City in Ontario (ON)",Hamilton
+CANADIAN_CAPITALS_0045,"Canadian Capitals & Cities
+Most Populous City in Newfoundland and Labrador (NL)",St. John's
+CANADIAN_CAPITALS_0046,"Canadian Capitals & Cities
+Hamilton",5th Most Populous City in Ontario (ON)
+CANADIAN_CAPITALS_0047,"Canadian Capitals & Cities
+Most Populous City in Northwest Territories (NT)",Yellowknife
+CANADIAN_CAPITALS_0048,"Canadian Capitals & Cities
+6th Most Populous City in Ontario (ON)","London, ON"
+CANADIAN_CAPITALS_0049,"Canadian Capitals & Cities
+Most Populous City in Yukon (YT)",Whitehorse
+CANADIAN_CAPITALS_0050,"Canadian Capitals & Cities
+London, ON",6th Most Populous City in Ontario (ON)
+CANADIAN_CAPITALS_0051,"Canadian Capitals & Cities
+Most Populous City in Nunavut (NU)",Iqaluit
+CANADIAN_CAPITALS_0052,"Canadian Capitals & Cities
+10th Most Populous City in Ontario (ON)",Windsor
+CANADIAN_CAPITALS_0053,"Canadian Capitals & Cities
+Windsor",10th Most Populous City in Ontario (ON)
+CANADIAN_CAPITALS_0054,"Canadian Capitals & Cities
+5th Most Populous City in Quebec (QC)",Gatineau
+CANADIAN_CAPITALS_0055,"Canadian Capitals & Cities
+Gatineau",5th Most Populous City in Quebec (QC)
