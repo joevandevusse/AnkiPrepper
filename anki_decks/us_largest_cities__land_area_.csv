@@ -1,40 +1,80 @@
-US_LARGEST_CITIES__LAND_AREA__0001,"Sitka, AK [Area]","#1 · 2,900 sq mi"
-US_LARGEST_CITIES__LAND_AREA__0002,Largest US City by Area: #1,"Sitka, AK · 2,900 sq mi"
-US_LARGEST_CITIES__LAND_AREA__0003,"Juneau, AK [Area]","#2 · 2,700 sq mi"
-US_LARGEST_CITIES__LAND_AREA__0004,Largest US City by Area: #2,"Juneau, AK · 2,700 sq mi"
-US_LARGEST_CITIES__LAND_AREA__0005,"Wrangell, AK [Area]","#3 · 2,600 sq mi"
-US_LARGEST_CITIES__LAND_AREA__0006,Largest US City by Area: #3,"Wrangell, AK · 2,600 sq mi"
-US_LARGEST_CITIES__LAND_AREA__0007,"Anchorage, AK [Area]","#4 · 1,700 sq mi"
-US_LARGEST_CITIES__LAND_AREA__0008,Largest US City by Area: #4,"Anchorage, AK · 1,700 sq mi"
-US_LARGEST_CITIES__LAND_AREA__0009,"Tribune, KS [Area]",#5 · 780 sq mi
-US_LARGEST_CITIES__LAND_AREA__0010,Largest US City by Area: #5,"Tribune, KS · 780 sq mi"
-US_LARGEST_CITIES__LAND_AREA__0011,"Jacksonville, FL [Area]",#6 · 750 sq mi
-US_LARGEST_CITIES__LAND_AREA__0012,Largest US City by Area: #6,"Jacksonville, FL · 750 sq mi"
-US_LARGEST_CITIES__LAND_AREA__0013,"Anaconda, MT [Area]",#7 · 740 sq mi
-US_LARGEST_CITIES__LAND_AREA__0014,Largest US City by Area: #7,"Anaconda, MT · 740 sq mi"
-US_LARGEST_CITIES__LAND_AREA__0015,"Butte, MT [Area]",#8 · 720 sq mi
-US_LARGEST_CITIES__LAND_AREA__0016,Largest US City by Area: #8,"Butte, MT · 720 sq mi"
-US_LARGEST_CITIES__LAND_AREA__0017,"Houston, TX [Area]",#9 · 640 sq mi
-US_LARGEST_CITIES__LAND_AREA__0018,Largest US City by Area: #9,"Houston, TX · 640 sq mi"
-US_LARGEST_CITIES__LAND_AREA__0019,"Oklahoma City, OK [Area]",#10 · 610 sq mi
-US_LARGEST_CITIES__LAND_AREA__0020,Largest US City by Area: #10,"Oklahoma City, OK · 610 sq mi"
-US_LARGEST_CITIES__LAND_AREA__0021,"Phoenix, AZ [Area]",#11 · 520 sq mi
-US_LARGEST_CITIES__LAND_AREA__0022,Largest US City by Area: #11,"Phoenix, AZ · 520 sq mi"
-US_LARGEST_CITIES__LAND_AREA__0023,"San Antonio, TX [Area]",#12 · 500 sq mi
-US_LARGEST_CITIES__LAND_AREA__0024,Largest US City by Area: #12,"San Antonio, TX · 500 sq mi"
-US_LARGEST_CITIES__LAND_AREA__0025,"Nashville, TN [Area]",#13 · 480 sq mi
-US_LARGEST_CITIES__LAND_AREA__0026,Largest US City by Area: #13,"Nashville, TN · 480 sq mi"
-US_LARGEST_CITIES__LAND_AREA__0027,"Los Angeles, CA [Area]",#14 · 470 sq mi
-US_LARGEST_CITIES__LAND_AREA__0028,Largest US City by Area: #14,"Los Angeles, CA · 470 sq mi"
-US_LARGEST_CITIES__LAND_AREA__0029,"Statenville, GA [Area]",#15 · 420 sq mi
-US_LARGEST_CITIES__LAND_AREA__0030,Largest US City by Area: #15,"Statenville, GA · 420 sq mi"
-US_LARGEST_CITIES__LAND_AREA__0031,"Suffolk, VA [Area]",#16 · 400 sq mi
-US_LARGEST_CITIES__LAND_AREA__0032,Largest US City by Area: #16,"Suffolk, VA · 400 sq mi"
-US_LARGEST_CITIES__LAND_AREA__0033,"Buckeye, AZ [Area]",#17 · 400 sq mi
-US_LARGEST_CITIES__LAND_AREA__0034,Largest US City by Area: #17,"Buckeye, AZ · 400 sq mi"
-US_LARGEST_CITIES__LAND_AREA__0035,"Indianapolis, IN [Area]",#18 · 360 sq mi
-US_LARGEST_CITIES__LAND_AREA__0036,Largest US City by Area: #18,"Indianapolis, IN · 360 sq mi"
-US_LARGEST_CITIES__LAND_AREA__0037,"Fort Worth, TX [Area]",#19 · 350 sq mi
-US_LARGEST_CITIES__LAND_AREA__0038,Largest US City by Area: #19,"Fort Worth, TX · 350 sq mi"
-US_LARGEST_CITIES__LAND_AREA__0039,"Dallas, TX [Area]",#20 · 340 sq mi
-US_LARGEST_CITIES__LAND_AREA__0040,Largest US City by Area: #20,"Dallas, TX · 340 sq mi"
+US_LARGEST_CITIES__LAND_AREA__0001,"US Cities by Land Area
+Sitka, AK","#1 · 2,900 sq mi"
+US_LARGEST_CITIES__LAND_AREA__0002,"US Cities by Land Area
+#1","Sitka, AK · 2,900 sq mi"
+US_LARGEST_CITIES__LAND_AREA__0003,"US Cities by Land Area
+Juneau, AK","#2 · 2,700 sq mi"
+US_LARGEST_CITIES__LAND_AREA__0004,"US Cities by Land Area
+#2","Juneau, AK · 2,700 sq mi"
+US_LARGEST_CITIES__LAND_AREA__0005,"US Cities by Land Area
+Wrangell, AK","#3 · 2,600 sq mi"
+US_LARGEST_CITIES__LAND_AREA__0006,"US Cities by Land Area
+#3","Wrangell, AK · 2,600 sq mi"
+US_LARGEST_CITIES__LAND_AREA__0007,"US Cities by Land Area
+Anchorage, AK","#4 · 1,700 sq mi"
+US_LARGEST_CITIES__LAND_AREA__0008,"US Cities by Land Area
+#4","Anchorage, AK · 1,700 sq mi"
+US_LARGEST_CITIES__LAND_AREA__0009,"US Cities by Land Area
+Tribune, KS",#5 · 780 sq mi
+US_LARGEST_CITIES__LAND_AREA__0010,"US Cities by Land Area
+#5","Tribune, KS · 780 sq mi"
+US_LARGEST_CITIES__LAND_AREA__0011,"US Cities by Land Area
+Jacksonville, FL",#6 · 750 sq mi
+US_LARGEST_CITIES__LAND_AREA__0012,"US Cities by Land Area
+#6","Jacksonville, FL · 750 sq mi"
+US_LARGEST_CITIES__LAND_AREA__0013,"US Cities by Land Area
+Anaconda, MT",#7 · 740 sq mi
+US_LARGEST_CITIES__LAND_AREA__0014,"US Cities by Land Area
+#7","Anaconda, MT · 740 sq mi"
+US_LARGEST_CITIES__LAND_AREA__0015,"US Cities by Land Area
+Butte, MT",#8 · 720 sq mi
+US_LARGEST_CITIES__LAND_AREA__0016,"US Cities by Land Area
+#8","Butte, MT · 720 sq mi"
+US_LARGEST_CITIES__LAND_AREA__0017,"US Cities by Land Area
+Houston, TX",#9 · 640 sq mi
+US_LARGEST_CITIES__LAND_AREA__0018,"US Cities by Land Area
+#9","Houston, TX · 640 sq mi"
+US_LARGEST_CITIES__LAND_AREA__0019,"US Cities by Land Area
+Oklahoma City, OK",#10 · 610 sq mi
+US_LARGEST_CITIES__LAND_AREA__0020,"US Cities by Land Area
+#10","Oklahoma City, OK · 610 sq mi"
+US_LARGEST_CITIES__LAND_AREA__0021,"US Cities by Land Area
+Phoenix, AZ",#11 · 520 sq mi
+US_LARGEST_CITIES__LAND_AREA__0022,"US Cities by Land Area
+#11","Phoenix, AZ · 520 sq mi"
+US_LARGEST_CITIES__LAND_AREA__0023,"US Cities by Land Area
+San Antonio, TX",#12 · 500 sq mi
+US_LARGEST_CITIES__LAND_AREA__0024,"US Cities by Land Area
+#12","San Antonio, TX · 500 sq mi"
+US_LARGEST_CITIES__LAND_AREA__0025,"US Cities by Land Area
+Nashville, TN",#13 · 480 sq mi
+US_LARGEST_CITIES__LAND_AREA__0026,"US Cities by Land Area
+#13","Nashville, TN · 480 sq mi"
+US_LARGEST_CITIES__LAND_AREA__0027,"US Cities by Land Area
+Los Angeles, CA",#14 · 470 sq mi
+US_LARGEST_CITIES__LAND_AREA__0028,"US Cities by Land Area
+#14","Los Angeles, CA · 470 sq mi"
+US_LARGEST_CITIES__LAND_AREA__0029,"US Cities by Land Area
+Statenville, GA",#15 · 420 sq mi
+US_LARGEST_CITIES__LAND_AREA__0030,"US Cities by Land Area
+#15","Statenville, GA · 420 sq mi"
+US_LARGEST_CITIES__LAND_AREA__0031,"US Cities by Land Area
+Suffolk, VA",#16 · 400 sq mi
+US_LARGEST_CITIES__LAND_AREA__0032,"US Cities by Land Area
+#16","Suffolk, VA · 400 sq mi"
+US_LARGEST_CITIES__LAND_AREA__0033,"US Cities by Land Area
+Buckeye, AZ",#17 · 400 sq mi
+US_LARGEST_CITIES__LAND_AREA__0034,"US Cities by Land Area
+#17","Buckeye, AZ · 400 sq mi"
+US_LARGEST_CITIES__LAND_AREA__0035,"US Cities by Land Area
+Indianapolis, IN",#18 · 360 sq mi
+US_LARGEST_CITIES__LAND_AREA__0036,"US Cities by Land Area
+#18","Indianapolis, IN · 360 sq mi"
+US_LARGEST_CITIES__LAND_AREA__0037,"US Cities by Land Area
+Fort Worth, TX",#19 · 350 sq mi
+US_LARGEST_CITIES__LAND_AREA__0038,"US Cities by Land Area
+#19","Fort Worth, TX · 350 sq mi"
+US_LARGEST_CITIES__LAND_AREA__0039,"US Cities by Land Area
+Dallas, TX",#20 · 340 sq mi
+US_LARGEST_CITIES__LAND_AREA__0040,"US Cities by Land Area
+#20","Dallas, TX · 340 sq mi"
