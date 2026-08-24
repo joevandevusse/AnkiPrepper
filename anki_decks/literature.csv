@@ -1,430 +1,642 @@
-LITERATURE_0001,"Herman Melville
+LITERATURE_0001,"Notable Works of Literature
+Herman Melville
 1851",Moby Dick
-LITERATURE_0002,Moby Dick,"Herman Melville
+LITERATURE_0002,"Notable Works of Literature
+Moby Dick","Herman Melville
 1851"
-LITERATURE_0003,"John Steinbeck
+LITERATURE_0003,"Notable Works of Literature
+John Steinbeck
 1939",The Grapes of Wrath
-LITERATURE_0004,The Grapes of Wrath,"John Steinbeck
+LITERATURE_0004,"Notable Works of Literature
+The Grapes of Wrath","John Steinbeck
 1939"
-LITERATURE_0005,"Ralph Ellison
+LITERATURE_0005,"Notable Works of Literature
+Ralph Ellison
 1952",Invisible Man
-LITERATURE_0006,Invisible Man,"Ralph Ellison
+LITERATURE_0006,"Notable Works of Literature
+Invisible Man","Ralph Ellison
 1952"
-LITERATURE_0007,"John Milton
+LITERATURE_0007,"Notable Works of Literature
+John Milton
 1667",Paradise Lost
-LITERATURE_0008,Paradise Lost,"John Milton
+LITERATURE_0008,"Notable Works of Literature
+Paradise Lost","John Milton
 1667"
-LITERATURE_0009,"Evelyn Waugh
+LITERATURE_0009,"Notable Works of Literature
+Evelyn Waugh
 1945",Brideshead Revisited
-LITERATURE_0010,Brideshead Revisited,"Evelyn Waugh
+LITERATURE_0010,"Notable Works of Literature
+Brideshead Revisited","Evelyn Waugh
 1945"
-LITERATURE_0011,"Miguel de Cervantes
+LITERATURE_0011,"Notable Works of Literature
+Miguel de Cervantes
 1605 (Part One)
 1615 (Part Two)",Don Quixote
-LITERATURE_0012,Don Quixote,"Miguel de Cervantes
+LITERATURE_0012,"Notable Works of Literature
+Don Quixote","Miguel de Cervantes
 1605 (Part One)
 1615 (Part Two)"
-LITERATURE_0013,"James Joyce
+LITERATURE_0013,"Notable Works of Literature
+James Joyce
 1922",Ulysses
-LITERATURE_0014,Ulysses,"James Joyce
+LITERATURE_0014,"Notable Works of Literature
+Ulysses","James Joyce
 1922"
-LITERATURE_0015,"F. Scott Fitzgerald
+LITERATURE_0015,"Notable Works of Literature
+F. Scott Fitzgerald
 1925",The Great Gatsby
-LITERATURE_0016,The Great Gatsby,"F. Scott Fitzgerald
+LITERATURE_0016,"Notable Works of Literature
+The Great Gatsby","F. Scott Fitzgerald
 1925"
-LITERATURE_0017,"James Joyce
+LITERATURE_0017,"Notable Works of Literature
+James Joyce
 1916",A Portrait of the Artist as a Young Man
-LITERATURE_0018,A Portrait of the Artist as a Young Man,"James Joyce
+LITERATURE_0018,"Notable Works of Literature
+A Portrait of the Artist as a Young Man","James Joyce
 1916"
-LITERATURE_0019,"Richard Wright
+LITERATURE_0019,"Notable Works of Literature
+Richard Wright
 1940",Native Son
-LITERATURE_0020,Native Son,"Richard Wright
+LITERATURE_0020,"Notable Works of Literature
+Native Son","Richard Wright
 1940"
-LITERATURE_0021,"William Golding
+LITERATURE_0021,"Notable Works of Literature
+William Golding
 1954",Lord of the Flies
-LITERATURE_0022,Lord of the Flies,"William Golding
+LITERATURE_0022,"Notable Works of Literature
+Lord of the Flies","William Golding
 1954"
-LITERATURE_0023,"Virginia Woolf
+LITERATURE_0023,"Notable Works of Literature
+Virginia Woolf
 1927",To the Lighthouse
-LITERATURE_0024,To the Lighthouse,"Virginia Woolf
+LITERATURE_0024,"Notable Works of Literature
+To the Lighthouse","Virginia Woolf
 1927"
-LITERATURE_0025,"Theodore Dreiser
+LITERATURE_0025,"Notable Works of Literature
+Theodore Dreiser
 1925",An American Tragedy
-LITERATURE_0026,An American Tragedy,"Theodore Dreiser
+LITERATURE_0026,"Notable Works of Literature
+An American Tragedy","Theodore Dreiser
 1925"
-LITERATURE_0027,"Kurt Vonnegut
+LITERATURE_0027,"Notable Works of Literature
+Kurt Vonnegut
 1969",Slaughterhouse-Five
-LITERATURE_0028,Slaughterhouse-Five,"Kurt Vonnegut
+LITERATURE_0028,"Notable Works of Literature
+Slaughterhouse-Five","Kurt Vonnegut
 1969"
-LITERATURE_0029,"Jack Kerouac
+LITERATURE_0029,"Notable Works of Literature
+Jack Kerouac
 1957",On the Road
-LITERATURE_0030,On the Road,"Jack Kerouac
+LITERATURE_0030,"Notable Works of Literature
+On the Road","Jack Kerouac
 1957"
-LITERATURE_0031,"Gabriel Garcia Marquez
+LITERATURE_0031,"Notable Works of Literature
+Gabriel Garcia Marquez
 1967",One Hundred Years of Solitude
-LITERATURE_0032,One Hundred Years of Solitude,"Gabriel Garcia Marquez
+LITERATURE_0032,"Notable Works of Literature
+One Hundred Years of Solitude","Gabriel Garcia Marquez
 1967"
-LITERATURE_0033,"D.H. Lawrence
+LITERATURE_0033,"Notable Works of Literature
+D.H. Lawrence
 1913",Sons and Lovers
-LITERATURE_0034,Sons and Lovers,"D.H. Lawrence
+LITERATURE_0034,"Notable Works of Literature
+Sons and Lovers","D.H. Lawrence
 1913"
-LITERATURE_0035,"George Orwell
+LITERATURE_0035,"Notable Works of Literature
+George Orwell
 1949",1984
-LITERATURE_0036,1984,"George Orwell
+LITERATURE_0036,"Notable Works of Literature
+1984","George Orwell
 1949"
-LITERATURE_0037,"Robert Graves
+LITERATURE_0037,"Notable Works of Literature
+Robert Graves
 1934","I, Claudius"
-LITERATURE_0038,"I, Claudius","Robert Graves
+LITERATURE_0038,"Notable Works of Literature
+I, Claudius","Robert Graves
 1934"
-LITERATURE_0039,"Saul Bellow
+LITERATURE_0039,"Notable Works of Literature
+Saul Bellow
 1953",The Adventures of Augie March
-LITERATURE_0040,The Adventures of Augie March,"Saul Bellow
+LITERATURE_0040,"Notable Works of Literature
+The Adventures of Augie March","Saul Bellow
 1953"
-LITERATURE_0041,"Edith Wharton
+LITERATURE_0041,"Notable Works of Literature
+Edith Wharton
 1920",The Age of Innocence
-LITERATURE_0042,The Age of Innocence,"Edith Wharton
+LITERATURE_0042,"Notable Works of Literature
+The Age of Innocence","Edith Wharton
 1920"
-LITERATURE_0043,"Anthony Burgess
+LITERATURE_0043,"Notable Works of Literature
+Anthony Burgess
 1962",A Clockwork Orange
-LITERATURE_0044,A Clockwork Orange,"Anthony Burgess
+LITERATURE_0044,"Notable Works of Literature
+A Clockwork Orange","Anthony Burgess
 1962"
-LITERATURE_0045,"Joseph Conrad
+LITERATURE_0045,"Notable Works of Literature
+Joseph Conrad
 1899",Heart of Darkness
-LITERATURE_0046,Heart of Darkness,"Joseph Conrad
+LITERATURE_0046,"Notable Works of Literature
+Heart of Darkness","Joseph Conrad
 1899"
-LITERATURE_0047,"James Joyce
+LITERATURE_0047,"Notable Works of Literature
+James Joyce
 1939",Finnegans Wake
-LITERATURE_0048,Finnegans Wake,"James Joyce
+LITERATURE_0048,"Notable Works of Literature
+Finnegans Wake","James Joyce
 1939"
-LITERATURE_0049,"Joseph Conrad
+LITERATURE_0049,"Notable Works of Literature
+Joseph Conrad
 1900",Lord Jim
-LITERATURE_0050,Lord Jim,"Joseph Conrad
+LITERATURE_0050,"Notable Works of Literature
+Lord Jim","Joseph Conrad
 1900"
-LITERATURE_0051,"Marcel Proust
+LITERATURE_0051,"Notable Works of Literature
+Marcel Proust
 1927",In Search of Lost Time
-LITERATURE_0052,In Search of Lost Time,"Marcel Proust
+LITERATURE_0052,"Notable Works of Literature
+In Search of Lost Time","Marcel Proust
 1927"
-LITERATURE_0053,"Fyodor Dostoyevsky
+LITERATURE_0053,"Notable Works of Literature
+Fyodor Dostoyevsky
 1866",Crime and Punishment
-LITERATURE_0054,Crime and Punishment,"Fyodor Dostoyevsky
+LITERATURE_0054,"Notable Works of Literature
+Crime and Punishment","Fyodor Dostoyevsky
 1866"
-LITERATURE_0055,"Emily Bronte
+LITERATURE_0055,"Notable Works of Literature
+Emily Bronte
 1847",Wuthering Heights
-LITERATURE_0056,Wuthering Heights,"Emily Bronte
+LITERATURE_0056,"Notable Works of Literature
+Wuthering Heights","Emily Bronte
 1847"
-LITERATURE_0057,"William Faulkner
+LITERATURE_0057,"Notable Works of Literature
+William Faulkner
 1929",The Sound and the Fury
-LITERATURE_0058,The Sound and the Fury,"William Faulkner
+LITERATURE_0058,"Notable Works of Literature
+The Sound and the Fury","William Faulkner
 1929"
-LITERATURE_0059,"Robert Penn Warren
+LITERATURE_0059,"Notable Works of Literature
+Robert Penn Warren
 1946",All the King's Men
-LITERATURE_0060,All the King's Men,"Robert Penn Warren
+LITERATURE_0060,"Notable Works of Literature
+All the King's Men","Robert Penn Warren
 1946"
-LITERATURE_0061,"Rudyard Kipling
+LITERATURE_0061,"Notable Works of Literature
+Rudyard Kipling
 1901",Kim
-LITERATURE_0062,Kim,"Rudyard Kipling
+LITERATURE_0062,"Notable Works of Literature
+Kim","Rudyard Kipling
 1901"
-LITERATURE_0063,"Salman Rushdie
+LITERATURE_0063,"Notable Works of Literature
+Salman Rushdie
 1981",Midnight's Children
-LITERATURE_0064,Midnight's Children,"Salman Rushdie
+LITERATURE_0064,"Notable Works of Literature
+Midnight's Children","Salman Rushdie
 1981"
-LITERATURE_0065,"Aldous Huxley
+LITERATURE_0065,"Notable Works of Literature
+Aldous Huxley
 1932",Brave New World
-LITERATURE_0066,Brave New World,"Aldous Huxley
+LITERATURE_0066,"Notable Works of Literature
+Brave New World","Aldous Huxley
 1932"
-LITERATURE_0067,"Judy Blume
+LITERATURE_0067,"Notable Works of Literature
+Judy Blume
 1970","Are You There God? It's Me, Margaret"
-LITERATURE_0068,"Are You There God? It's Me, Margaret","Judy Blume
+LITERATURE_0068,"Notable Works of Literature
+Are You There God? It's Me, Margaret","Judy Blume
 1970"
-LITERATURE_0069,"Ernest Hemingway
+LITERATURE_0069,"Notable Works of Literature
+Ernest Hemingway
 1926",The Sun Also Rises
-LITERATURE_0070,The Sun Also Rises,"Ernest Hemingway
+LITERATURE_0070,"Notable Works of Literature
+The Sun Also Rises","Ernest Hemingway
 1926"
-LITERATURE_0071,"Sinclair Lewis
+LITERATURE_0071,"Notable Works of Literature
+Sinclair Lewis
 1920",Main Street
-LITERATURE_0072,Main Street,"Sinclair Lewis
+LITERATURE_0072,"Notable Works of Literature
+Main Street","Sinclair Lewis
 1920"
-LITERATURE_0073,"Edith Wharton
+LITERATURE_0073,"Notable Works of Literature
+Edith Wharton
 1905",The House of Mirth
-LITERATURE_0074,The House of Mirth,"Edith Wharton
+LITERATURE_0074,"Notable Works of Literature
+The House of Mirth","Edith Wharton
 1905"
-LITERATURE_0075,"Leo Tolstoy
+LITERATURE_0075,"Notable Works of Literature
+Leo Tolstoy
 1869",War and Peace
-LITERATURE_0076,War and Peace,"Leo Tolstoy
+LITERATURE_0076,"Notable Works of Literature
+War and Peace","Leo Tolstoy
 1869"
-LITERATURE_0077,"Charlotte Bronte
+LITERATURE_0077,"Notable Works of Literature
+Charlotte Bronte
 1847",Jane Eyre
-LITERATURE_0078,Jane Eyre,"Charlotte Bronte
+LITERATURE_0078,"Notable Works of Literature
+Jane Eyre","Charlotte Bronte
 1847"
-LITERATURE_0079,"Vladimir Nabokov
+LITERATURE_0079,"Notable Works of Literature
+Vladimir Nabokov
 1955",Lolita
-LITERATURE_0080,Lolita,"Vladimir Nabokov
+LITERATURE_0080,"Notable Works of Literature
+Lolita","Vladimir Nabokov
 1955"
-LITERATURE_0081,"Joseph Heller
+LITERATURE_0081,"Notable Works of Literature
+Joseph Heller
 1961",Catch-22
-LITERATURE_0082,Catch-22,"Joseph Heller
+LITERATURE_0082,"Notable Works of Literature
+Catch-22","Joseph Heller
 1961"
-LITERATURE_0083,"E.M. Forster
+LITERATURE_0083,"Notable Works of Literature
+E.M. Forster
 1924",A Passage to India
-LITERATURE_0084,A Passage to India,"E.M. Forster
+LITERATURE_0084,"Notable Works of Literature
+A Passage to India","E.M. Forster
 1924"
-LITERATURE_0085,"William Faulkner
+LITERATURE_0085,"Notable Works of Literature
+William Faulkner
 1930",As I Lay Dying
-LITERATURE_0086,As I Lay Dying,"William Faulkner
+LITERATURE_0086,"Notable Works of Literature
+As I Lay Dying","William Faulkner
 1930"
-LITERATURE_0087,"J.D. Salinger
+LITERATURE_0087,"Notable Works of Literature
+J.D. Salinger
 1951",The Catcher in the Rye
-LITERATURE_0088,The Catcher in the Rye,"J.D. Salinger
+LITERATURE_0088,"Notable Works of Literature
+The Catcher in the Rye","J.D. Salinger
 1951"
-LITERATURE_0089,"E.M. Forster
+LITERATURE_0089,"Notable Works of Literature
+E.M. Forster
 1908",A Room With a View
-LITERATURE_0090,A Room With a View,"E.M. Forster
+LITERATURE_0090,"Notable Works of Literature
+A Room With a View","E.M. Forster
 1908"
-LITERATURE_0091,"George Orwell
+LITERATURE_0091,"Notable Works of Literature
+George Orwell
 1945 (UK)
 1946 (US)",Animal Farm
-LITERATURE_0092,Animal Farm,"George Orwell
+LITERATURE_0092,"Notable Works of Literature
+Animal Farm","George Orwell
 1945 (UK)
 1946 (US)"
-LITERATURE_0093,"Ernest Hemingway
+LITERATURE_0093,"Notable Works of Literature
+Ernest Hemingway
 1929",A Farewell to Arms
-LITERATURE_0094,A Farewell to Arms,"Ernest Hemingway
+LITERATURE_0094,"Notable Works of Literature
+A Farewell to Arms","Ernest Hemingway
 1929"
-LITERATURE_0095,"Jane Austen
+LITERATURE_0095,"Notable Works of Literature
+Jane Austen
 1813",Pride and Prejudice
-LITERATURE_0096,Pride and Prejudice,"Jane Austen
+LITERATURE_0096,"Notable Works of Literature
+Pride and Prejudice","Jane Austen
 1813"
-LITERATURE_0097,"Leo Tolstoy
+LITERATURE_0097,"Notable Works of Literature
+Leo Tolstoy
 1878",Anna Karenina
-LITERATURE_0098,Anna Karenina,"Leo Tolstoy
+LITERATURE_0098,"Notable Works of Literature
+Anna Karenina","Leo Tolstoy
 1878"
-LITERATURE_0099,"Lewis Carroll
+LITERATURE_0099,"Notable Works of Literature
+Lewis Carroll
 1865",Alice's Adventures in Wonderland
-LITERATURE_0100,Alice's Adventures in Wonderland,"Lewis Carroll
+LITERATURE_0100,"Notable Works of Literature
+Alice's Adventures in Wonderland","Lewis Carroll
 1865"
-LITERATURE_0101,"George Eliot
+LITERATURE_0101,"Notable Works of Literature
+George Eliot
 1871",Middlemarch
-LITERATURE_0102,Middlemarch,"George Eliot
+LITERATURE_0102,"Notable Works of Literature
+Middlemarch","George Eliot
 1871"
-LITERATURE_0103,"Jonathan Swift
+LITERATURE_0103,"Notable Works of Literature
+Jonathan Swift
 1726",Gulliver's Travels
-LITERATURE_0104,Gulliver's Travels,"Jonathan Swift
+LITERATURE_0104,"Notable Works of Literature
+Gulliver's Travels","Jonathan Swift
 1726"
-LITERATURE_0105,"Albert Camus
+LITERATURE_0105,"Notable Works of Literature
+Albert Camus
 1942",The Stranger
-LITERATURE_0106,The Stranger,"Albert Camus
+LITERATURE_0106,"Notable Works of Literature
+The Stranger","Albert Camus
 1942"
-LITERATURE_0107,"Virgil
+LITERATURE_0107,"Notable Works of Literature
+Virgil
 30-19 BCE",The Aeneid
-LITERATURE_0108,The Aeneid,"Virgil
+LITERATURE_0108,"Notable Works of Literature
+The Aeneid","Virgil
 30-19 BCE"
-LITERATURE_0109,"Virginia Woolf
+LITERATURE_0109,"Notable Works of Literature
+Virginia Woolf
 1925",Mrs. Dalloway
-LITERATURE_0110,Mrs. Dalloway,"Virginia Woolf
+LITERATURE_0110,"Notable Works of Literature
+Mrs. Dalloway","Virginia Woolf
 1925"
-LITERATURE_0111,"Voltaire
+LITERATURE_0111,"Notable Works of Literature
+Voltaire
 1759",Candide
-LITERATURE_0112,Candide,"Voltaire
+LITERATURE_0112,"Notable Works of Literature
+Candide","Voltaire
 1759"
-LITERATURE_0113,"Thomas Mann
+LITERATURE_0113,"Notable Works of Literature
+Thomas Mann
 1924",The Magic Mountain
-LITERATURE_0114,The Magic Mountain,"Thomas Mann
+LITERATURE_0114,"Notable Works of Literature
+The Magic Mountain","Thomas Mann
 1924"
-LITERATURE_0115,"Fyodor Dostoyevsky
+LITERATURE_0115,"Notable Works of Literature
+Fyodor Dostoyevsky
 1880",The Brothers Karamazov
-LITERATURE_0116,The Brothers Karamazov,"Fyodor Dostoyevsky
+LITERATURE_0116,"Notable Works of Literature
+The Brothers Karamazov","Fyodor Dostoyevsky
 1880"
-LITERATURE_0117,"William Faulkner
+LITERATURE_0117,"Notable Works of Literature
+William Faulkner
 1936","Absalom, Absalom"
-LITERATURE_0118,"Absalom, Absalom","William Faulkner
+LITERATURE_0118,"Notable Works of Literature
+Absalom, Absalom","William Faulkner
 1936"
-LITERATURE_0119,"Walt Whitman
+LITERATURE_0119,"Notable Works of Literature
+Walt Whitman
 1855",Leaves of Grass
-LITERATURE_0120,Leaves of Grass,"Walt Whitman
+LITERATURE_0120,"Notable Works of Literature
+Leaves of Grass","Walt Whitman
 1855"
-LITERATURE_0121,"David Foster Wallace
+LITERATURE_0121,"Notable Works of Literature
+David Foster Wallace
 1996",Infinite Jest
-LITERATURE_0122,Infinite Jest,"David Foster Wallace
+LITERATURE_0122,"Notable Works of Literature
+Infinite Jest","David Foster Wallace
 1996"
-LITERATURE_0123,"Samuel Beckett
+LITERATURE_0123,"Notable Works of Literature
+Samuel Beckett
 1953",Waiting for Godot
-LITERATURE_0124,Waiting for Godot,"Samuel Beckett
+LITERATURE_0124,"Notable Works of Literature
+Waiting for Godot","Samuel Beckett
 1953"
-LITERATURE_0125,"D.H. Lawrence
+LITERATURE_0125,"Notable Works of Literature
+D.H. Lawrence
 1928",Lady Chatterley's Lover
-LITERATURE_0126,Lady Chatterley's Lover,"D.H. Lawrence
+LITERATURE_0126,"Notable Works of Literature
+Lady Chatterley's Lover","D.H. Lawrence
 1928"
-LITERATURE_0127,"Agatha Christie
+LITERATURE_0127,"Notable Works of Literature
+Agatha Christie
 1939",And Then There Were None
-LITERATURE_0128,And Then There Were None,"Agatha Christie
+LITERATURE_0128,"Notable Works of Literature
+And Then There Were None","Agatha Christie
 1939"
-LITERATURE_0129,"Ivan Turgenev
+LITERATURE_0129,"Notable Works of Literature
+Ivan Turgenev
 1862",Fathers and Sons
-LITERATURE_0130,Fathers and Sons,"Ivan Turgenev
+LITERATURE_0130,"Notable Works of Literature
+Fathers and Sons","Ivan Turgenev
 1862"
-LITERATURE_0131,"Anton Chekhov
+LITERATURE_0131,"Notable Works of Literature
+Anton Chekhov
 1904",The Cherry Orchard
-LITERATURE_0132,The Cherry Orchard,"Anton Chekhov
+LITERATURE_0132,"Notable Works of Literature
+The Cherry Orchard","Anton Chekhov
 1904"
-LITERATURE_0133,"Margaret Mitchell
+LITERATURE_0133,"Notable Works of Literature
+Margaret Mitchell
 1936",Gone with the Wind
-LITERATURE_0134,Gone with the Wind,"Margaret Mitchell
+LITERATURE_0134,"Notable Works of Literature
+Gone with the Wind","Margaret Mitchell
 1936"
-LITERATURE_0135,"John Updike
+LITERATURE_0135,"Notable Works of Literature
+John Updike
 1960","Rabbit, Run"
-LITERATURE_0136,"Rabbit, Run","John Updike
+LITERATURE_0136,"Notable Works of Literature
+Rabbit, Run","John Updike
 1960"
-LITERATURE_0137,"Johann Wolfgang von Goethe
+LITERATURE_0137,"Notable Works of Literature
+Johann Wolfgang von Goethe
 1831",Faust
-LITERATURE_0138,Faust,"Johann Wolfgang von Goethe
+LITERATURE_0138,"Notable Works of Literature
+Faust","Johann Wolfgang von Goethe
 1831"
-LITERATURE_0139,"Mark Twain
+LITERATURE_0139,"Notable Works of Literature
+Mark Twain
 1884",The Adventures of Huckleberry Finn
-LITERATURE_0140,The Adventures of Huckleberry Finn,"Mark Twain
+LITERATURE_0140,"Notable Works of Literature
+The Adventures of Huckleberry Finn","Mark Twain
 1884"
-LITERATURE_0141,"Toni Morrison
+LITERATURE_0141,"Notable Works of Literature
+Toni Morrison
 1987",Beloved
-LITERATURE_0142,Beloved,"Toni Morrison
+LITERATURE_0142,"Notable Works of Literature
+Beloved","Toni Morrison
 1987"
-LITERATURE_0143,"Franz Kafka
+LITERATURE_0143,"Notable Works of Literature
+Franz Kafka
 1925",The Trial
-LITERATURE_0144,The Trial,"Franz Kafka
+LITERATURE_0144,"Notable Works of Literature
+The Trial","Franz Kafka
 1925"
-LITERATURE_0145,"Chinua Achebe
+LITERATURE_0145,"Notable Works of Literature
+Chinua Achebe
 1958",Things Fall Apart
-LITERATURE_0146,Things Fall Apart,"Chinua Achebe
+LITERATURE_0146,"Notable Works of Literature
+Things Fall Apart","Chinua Achebe
 1958"
-LITERATURE_0147,"Thomas Pynchon
+LITERATURE_0147,"Notable Works of Literature
+Thomas Pynchon
 1973",Gravity's Rainbow
-LITERATURE_0148,Gravity's Rainbow,"Thomas Pynchon
+LITERATURE_0148,"Notable Works of Literature
+Gravity's Rainbow","Thomas Pynchon
 1973"
-LITERATURE_0149,"Ernest Hemingway
+LITERATURE_0149,"Notable Works of Literature
+Ernest Hemingway
 1940",For Whom the Bell Tolls
-LITERATURE_0150,For Whom the Bell Tolls,"Ernest Hemingway
+LITERATURE_0150,"Notable Works of Literature
+For Whom the Bell Tolls","Ernest Hemingway
 1940"
-LITERATURE_0151,"Gustave Flaubert
+LITERATURE_0151,"Notable Works of Literature
+Gustave Flaubert
 1856",Madame Bovary
-LITERATURE_0152,Madame Bovary,"Gustave Flaubert
+LITERATURE_0152,"Notable Works of Literature
+Madame Bovary","Gustave Flaubert
 1856"
-LITERATURE_0153,"Dante Alighieri
+LITERATURE_0153,"Notable Works of Literature
+Dante Alighieri
 1320",The Divine Comedy
-LITERATURE_0154,The Divine Comedy,"Dante Alighieri
+LITERATURE_0154,"Notable Works of Literature
+The Divine Comedy","Dante Alighieri
 1320"
-LITERATURE_0155,"Harper Lee
+LITERATURE_0155,"Notable Works of Literature
+Harper Lee
 1960",To Kill a Mockingbird
-LITERATURE_0156,To Kill a Mockingbird,"Harper Lee
+LITERATURE_0156,"Notable Works of Literature
+To Kill a Mockingbird","Harper Lee
 1960"
-LITERATURE_0157,"Charles Dickens
+LITERATURE_0157,"Notable Works of Literature
+Charles Dickens
 1850",David Copperfield
-LITERATURE_0158,David Copperfield,"Charles Dickens
+LITERATURE_0158,"Notable Works of Literature
+David Copperfield","Charles Dickens
 1850"
-LITERATURE_0159,"Alice Walker
+LITERATURE_0159,"Notable Works of Literature
+Alice Walker
 1982",The Color Purple
-LITERATURE_0160,The Color Purple,"Alice Walker
+LITERATURE_0160,"Notable Works of Literature
+The Color Purple","Alice Walker
 1982"
-LITERATURE_0161,"Charles Dickens
+LITERATURE_0161,"Notable Works of Literature
+Charles Dickens
 1861",Great Expectations
-LITERATURE_0162,Great Expectations,"Charles Dickens
+LITERATURE_0162,"Notable Works of Literature
+Great Expectations","Charles Dickens
 1861"
-LITERATURE_0163,"William Faulkner
+LITERATURE_0163,"Notable Works of Literature
+William Faulkner
 1932",Light in August
-LITERATURE_0164,Light in August,"William Faulkner
+LITERATURE_0164,"Notable Works of Literature
+Light in August","William Faulkner
 1932"
-LITERATURE_0165,"Johann Wolfgang von Goethe
+LITERATURE_0165,"Notable Works of Literature
+Johann Wolfgang von Goethe
 1774",The Sorrows of Young Werther
-LITERATURE_0166,The Sorrows of Young Werther,"Johann Wolfgang von Goethe
+LITERATURE_0166,"Notable Works of Literature
+The Sorrows of Young Werther","Johann Wolfgang von Goethe
 1774"
-LITERATURE_0167,"John Bunyan
+LITERATURE_0167,"Notable Works of Literature
+John Bunyan
 1678",The Pilgrim's Progress
-LITERATURE_0168,The Pilgrim's Progress,"John Bunyan
+LITERATURE_0168,"Notable Works of Literature
+The Pilgrim's Progress","John Bunyan
 1678"
-LITERATURE_0169,"Homer
+LITERATURE_0169,"Notable Works of Literature
+Homer
 800 BCE",The Odyssey
-LITERATURE_0170,The Odyssey,"Homer
+LITERATURE_0170,"Notable Works of Literature
+The Odyssey","Homer
 800 BCE"
-LITERATURE_0171,"Salman Rushdie
+LITERATURE_0171,"Notable Works of Literature
+Salman Rushdie
 1988",The Satanic Verses
-LITERATURE_0172,The Satanic Verses,"Salman Rushdie
+LITERATURE_0172,"Notable Works of Literature
+The Satanic Verses","Salman Rushdie
 1988"
-LITERATURE_0173,"Ayn Rand
+LITERATURE_0173,"Notable Works of Literature
+Ayn Rand
 1957",Atlas Shrugged
-LITERATURE_0174,Atlas Shrugged,"Ayn Rand
+LITERATURE_0174,"Notable Works of Literature
+Atlas Shrugged","Ayn Rand
 1957"
-LITERATURE_0175,"Ayn Rand
+LITERATURE_0175,"Notable Works of Literature
+Ayn Rand
 1943",The Fountainhead
-LITERATURE_0176,The Fountainhead,"Ayn Rand
+LITERATURE_0176,"Notable Works of Literature
+The Fountainhead","Ayn Rand
 1943"
-LITERATURE_0177,"Gabriel Garcia Marquez
+LITERATURE_0177,"Notable Works of Literature
+Gabriel Garcia Marquez
 1985",Love in the Time of Cholera
-LITERATURE_0178,Love in the Time of Cholera,"Gabriel Garcia Marquez
+LITERATURE_0178,"Notable Works of Literature
+Love in the Time of Cholera","Gabriel Garcia Marquez
 1985"
-LITERATURE_0179,"Isabel Allende
+LITERATURE_0179,"Notable Works of Literature
+Isabel Allende
 1982",The House of the Spirits
-LITERATURE_0180,The House of the Spirits,"Isabel Allende
+LITERATURE_0180,"Notable Works of Literature
+The House of the Spirits","Isabel Allende
 1982"
-LITERATURE_0181,"Charles Dickens
+LITERATURE_0181,"Notable Works of Literature
+Charles Dickens
 1859",A Tale of Two Cities
-LITERATURE_0182,A Tale of Two Cities,"Charles Dickens
+LITERATURE_0182,"Notable Works of Literature
+A Tale of Two Cities","Charles Dickens
 1859"
-LITERATURE_0183,"Franz Kafka
+LITERATURE_0183,"Notable Works of Literature
+Franz Kafka
 1915",The Metamorphosis
-LITERATURE_0184,The Metamorphosis,"Franz Kafka
+LITERATURE_0184,"Notable Works of Literature
+The Metamorphosis","Franz Kafka
 1915"
-LITERATURE_0185,"Anna Sewell
+LITERATURE_0185,"Notable Works of Literature
+Anna Sewell
 1877",Black Beauty
-LITERATURE_0186,Black Beauty,"Anna Sewell
+LITERATURE_0186,"Notable Works of Literature
+Black Beauty","Anna Sewell
 1877"
-LITERATURE_0187,"George Eliot
+LITERATURE_0187,"Notable Works of Literature
+George Eliot
 1861",Silas Marner
-LITERATURE_0188,Silas Marner,"George Eliot
+LITERATURE_0188,"Notable Works of Literature
+Silas Marner","George Eliot
 1861"
-LITERATURE_0189,"Jane Austen
+LITERATURE_0189,"Notable Works of Literature
+Jane Austen
 1815",Emma
-LITERATURE_0190,Emma,"Jane Austen
+LITERATURE_0190,"Notable Works of Literature
+Emma","Jane Austen
 1815"
-LITERATURE_0191,"Jane Austen
+LITERATURE_0191,"Notable Works of Literature
+Jane Austen
 1811",Sense and Sensibility
-LITERATURE_0192,Sense and Sensibility,"Jane Austen
+LITERATURE_0192,"Notable Works of Literature
+Sense and Sensibility","Jane Austen
 1811"
-LITERATURE_0193,"Harriet Beecher Stowe
+LITERATURE_0193,"Notable Works of Literature
+Harriet Beecher Stowe
 1852",Uncle Tom's Cabin
-LITERATURE_0194,Uncle Tom's Cabin,"Harriet Beecher Stowe
+LITERATURE_0194,"Notable Works of Literature
+Uncle Tom's Cabin","Harriet Beecher Stowe
 1852"
-LITERATURE_0195,"Upton Sinclair
+LITERATURE_0195,"Notable Works of Literature
+Upton Sinclair
 1905 (Serial)
 1906 (Book)",The Jungle
-LITERATURE_0196,The Jungle,"Upton Sinclair
+LITERATURE_0196,"Notable Works of Literature
+The Jungle","Upton Sinclair
 1905 (Serial)
 1906 (Book)"
-LITERATURE_0197,"Sir Walter Scott
+LITERATURE_0197,"Notable Works of Literature
+Sir Walter Scott
 1819",Ivanhoe
-LITERATURE_0198,Ivanhoe,"Sir Walter Scott
+LITERATURE_0198,"Notable Works of Literature
+Ivanhoe","Sir Walter Scott
 1819"
-LITERATURE_0199,"Donna Tartt
+LITERATURE_0199,"Notable Works of Literature
+Donna Tartt
 2013",The Goldfinch
-LITERATURE_0200,The Goldfinch,"Donna Tartt
+LITERATURE_0200,"Notable Works of Literature
+The Goldfinch","Donna Tartt
 2013"
-LITERATURE_0201,"Zora Neale Hurston
+LITERATURE_0201,"Notable Works of Literature
+Zora Neale Hurston
 1937",Their Eyes Were Watching God
-LITERATURE_0202,Their Eyes Were Watching God,"Zora Neale Hurston
+LITERATURE_0202,"Notable Works of Literature
+Their Eyes Were Watching God","Zora Neale Hurston
 1937"
-LITERATURE_0203,"Daphne du Maurier
+LITERATURE_0203,"Notable Works of Literature
+Daphne du Maurier
 1938",Rebecca
-LITERATURE_0204,Rebecca,"Daphne du Maurier
+LITERATURE_0204,"Notable Works of Literature
+Rebecca","Daphne du Maurier
 1938"
-LITERATURE_0205,"James Joyce
+LITERATURE_0205,"Notable Works of Literature
+James Joyce
 1914",Dubliners
-LITERATURE_0206,Dubliners,"James Joyce
+LITERATURE_0206,"Notable Works of Literature
+Dubliners","James Joyce
 1914"
-LITERATURE_0207,"Daniel Defoe
+LITERATURE_0207,"Notable Works of Literature
+Daniel Defoe
 1719",Robinson Crusoe
-LITERATURE_0208,Robinson Crusoe,"Daniel Defoe
+LITERATURE_0208,"Notable Works of Literature
+Robinson Crusoe","Daniel Defoe
 1719"
-LITERATURE_0209,"Rachel Carson
+LITERATURE_0209,"Notable Works of Literature
+Rachel Carson
 1962",Silent Spring
-LITERATURE_0210,Silent Spring,"Rachel Carson
+LITERATURE_0210,"Notable Works of Literature
+Silent Spring","Rachel Carson
 1962"
-LITERATURE_0211,"Fyodor Dostoyevsky
+LITERATURE_0211,"Notable Works of Literature
+Fyodor Dostoyevsky
 1869",The Idiot
-LITERATURE_0212,The Idiot,"Fyodor Dostoyevsky
+LITERATURE_0212,"Notable Works of Literature
+The Idiot","Fyodor Dostoyevsky
 1869"
