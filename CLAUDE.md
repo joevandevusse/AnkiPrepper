@@ -36,6 +36,13 @@ Front: Oscar Best Pictures    Back: 2007
 Decks converted to this format:
 - `oscar_best_pictures.csv`
 
+### Image decks (4-column format)
+
+Decks built around the "Trivia Master" note type's Image field use 4 columns instead of the usual 3: `ID,Front,Image,Back`. The Image column holds a bare `<img src="filename.png">` tag referencing a file in the deck's `images/<deck_name>/` folder (filenames in lowercase snake_case). Front holds the deck-name header text (no inline content needed since the image itself is the prompt); Back is the clean answer. These decks are hand-written directly into `anki_decks/` rather than produced from a Noji export, since Noji exports don't carry image references.
+
+Decks using this format:
+- `canadian_provinces_and_territories.csv`
+
 ### Examples by deck
 
 | Deck | Front pattern | Back pattern |
@@ -52,3 +59,4 @@ Decks converted to this format:
 | People Magazine Sexiest Man | `Sexiest Man Alive: 2020` | `Michael B. Jordan` |
 | EU/NATO Nations | `EU: 1993` / `EU Member: Germany` | clean year or country |
 | SNL Five Timers | `SNL Hosting: 5 Times\n2008–2021` | clean name |
+| Canadian Provinces and Territories | `Canadian Provinces & Territories` + `<img src="alberta.png">` (Image column) | `Alberta` |
