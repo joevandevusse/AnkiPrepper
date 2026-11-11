@@ -45,7 +45,7 @@ public class Prepper {
       appendManifest(filename);
       log.info("{}: {} rows written to {}", prefix, count, outputFile);
     }
-  }
+  }3
 
   private static Set<String> loadManifest() throws IOException {
     if (!Files.exists(MANIFEST)) return new HashSet<>();
